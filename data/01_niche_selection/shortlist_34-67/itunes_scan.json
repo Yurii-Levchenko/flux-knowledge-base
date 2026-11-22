@@ -1,0 +1,3062 @@
+{
+ "34": [
+  {
+   "id": 1187626329,
+   "name": "The Dyrt: RV & Free Camping",
+   "dev": "The Dyrt",
+   "ratings": 124607,
+   "rating": 4.77885,
+   "price": "Free",
+   "released": "2017-03-11",
+   "genre": "Travel",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 1476035637,
+   "name": "Applaydu: Talk & Play",
+   "dev": "FERRERO TRADING LUX S.A.",
+   "ratings": 103909,
+   "rating": 4.59386,
+   "price": "Free",
+   "released": "2020-12-14",
+   "genre": "Education",
+   "term": "kids activities near me"
+  },
+  {
+   "id": 1440066037,
+   "name": "Hipcamp: Camping, RVs & Cabins",
+   "dev": "Hipcamp, Inc",
+   "ratings": 55836,
+   "rating": 4.84769,
+   "price": "Free",
+   "released": "2019-05-08",
+   "genre": "Travel",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 1457911692,
+   "name": "Campanion",
+   "dev": "CampMinder, LLC",
+   "ratings": 40444,
+   "rating": 4.92246,
+   "price": "Free",
+   "released": "2019-04-12",
+   "genre": "Photo & Video",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 1514616448,
+   "name": "Campspot | RV Camping",
+   "dev": "Campspot",
+   "ratings": 25471,
+   "rating": 4.84649,
+   "price": "Free",
+   "released": "2021-05-26",
+   "genre": "Travel",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 736924592,
+   "name": "KOA Camping | RV, Cabin & Tent",
+   "dev": "Kampgrounds of America",
+   "ratings": 22600,
+   "rating": 4.7496,
+   "price": "Free",
+   "released": "2013-11-18",
+   "genre": "Travel",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 1191380095,
+   "name": "Campendium - RV & Tent Camping",
+   "dev": "Campendium, Inc.",
+   "ratings": 20772,
+   "rating": 4.8071,
+   "price": "Free",
+   "released": "2017-09-13",
+   "genre": "Travel",
+   "term": "summer camp finder"
+  },
+  {
+   "id": 613398383,
+   "name": "PlayKids Learning Games",
+   "dev": "SandBox Group",
+   "ratings": 19364,
+   "rating": 4.24664,
+   "price": "Free",
+   "released": "2013-04-10",
+   "genre": "Education",
+   "term": "kids activities near me"
+  }
+ ],
+ "35": [
+  {
+   "id": 6463803046,
+   "name": "Good Inside: Parenting",
+   "dev": "Good Inside",
+   "ratings": 14011,
+   "rating": 4.9307,
+   "price": "Free",
+   "released": "2024-07-22",
+   "genre": "Education",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 794574199,
+   "name": "BabySparks - Development App",
+   "dev": "BabySparks Inc",
+   "ratings": 13168,
+   "rating": 4.66495,
+   "price": "Free",
+   "released": "2014-08-14",
+   "genre": "Education",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 308368164,
+   "name": "Proloquo2Go AAC",
+   "dev": "AssistiveWare",
+   "ratings": 12290,
+   "rating": 4.77079,
+   "price": "$249.99",
+   "released": "2009-04-21",
+   "genre": "Education",
+   "term": "IEP special needs"
+  },
+  {
+   "id": 1422829127,
+   "name": "The Happy Child-Parenting App",
+   "dev": "HJB Ventures LLC",
+   "ratings": 1837,
+   "rating": 4.95591,
+   "price": "Free",
+   "released": "2018-11-29",
+   "genre": "Education",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 6466156451,
+   "name": "Savvy App: Parenting Helper",
+   "dev": "Seneka",
+   "ratings": 1061,
+   "rating": 4.83695,
+   "price": "Free",
+   "released": "2023-10-13",
+   "genre": "Education",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 916353160,
+   "name": "Tinyhood Parenting Classes",
+   "dev": "Tinyhood, Inc",
+   "ratings": 677,
+   "rating": 4.77696,
+   "price": "Free",
+   "released": "2014-09-16",
+   "genre": "Lifestyle",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 1084723774,
+   "name": "Otsimo | Special Education 1+",
+   "dev": "Otsimo",
+   "ratings": 637,
+   "rating": 4.30298,
+   "price": "Free",
+   "released": "2016-09-12",
+   "genre": "Education",
+   "term": "special needs parenting"
+  },
+  {
+   "id": 1015546607,
+   "name": "AngelSense Guardian",
+   "dev": "Angel Sense Ltd.",
+   "ratings": 400,
+   "rating": 4.59,
+   "price": "Free",
+   "released": "2015-08-10",
+   "genre": "Health & Fitness",
+   "term": "IEP special needs"
+  }
+ ],
+ "36": [
+  {
+   "id": 852703300,
+   "name": "Thumbtack: Home Service Pros",
+   "dev": "Thumbtack, Inc.",
+   "ratings": 479910,
+   "rating": 4.89028,
+   "price": "Free",
+   "released": "2014-05-08",
+   "genre": "Lifestyle",
+   "term": "home maintenance"
+  },
+  {
+   "id": 399563465,
+   "name": "Houzz - Home Design & Remodel",
+   "dev": "Houzz Inc.",
+   "ratings": 324890,
+   "rating": 4.84306,
+   "price": "Free",
+   "released": "2010-11-11",
+   "genre": "Lifestyle",
+   "term": "home maintenance"
+  },
+  {
+   "id": 1547390284,
+   "name": "Invitation Homes Maintenance",
+   "dev": "SMS Assist, LLC.",
+   "ratings": 14402,
+   "rating": 4.79017,
+   "price": "Free",
+   "released": "2021-02-28",
+   "genre": "Business",
+   "term": "home maintenance tracker"
+  },
+  {
+   "id": 1565212096,
+   "name": "Hippo Home: Maintain & Insure",
+   "dev": "Hippo Analytics Inc.",
+   "ratings": 1595,
+   "rating": 4.78558,
+   "price": "Free",
+   "released": "2022-02-28",
+   "genre": "Finance",
+   "term": "home maintenance tracker"
+  },
+  {
+   "id": 1524335878,
+   "name": "Under My Roof Home Inventory +",
+   "dev": "Binary Formations, LLC",
+   "ratings": 538,
+   "rating": 4.74349,
+   "price": "Free",
+   "released": "2021-04-18",
+   "genre": "Productivity",
+   "term": "home maintenance tracker"
+  },
+  {
+   "id": 1566306121,
+   "name": "Dwellin: Home Rewards & Care",
+   "dev": "Dwellin Inc.",
+   "ratings": 180,
+   "rating": 4.37222,
+   "price": "Free",
+   "released": "2022-03-22",
+   "genre": "Lifestyle",
+   "term": "home maintenance tracker"
+  },
+  {
+   "id": 1250049341,
+   "name": "Homer: The Home Management App",
+   "dev": "Home Owner AB",
+   "ratings": 167,
+   "rating": 4.28742,
+   "price": "Free",
+   "released": "2018-09-14",
+   "genre": "Utilities",
+   "term": "home maintenance"
+  },
+  {
+   "id": 6569254568,
+   "name": "House Manager & Planner",
+   "dev": "Shayes Apps LLC",
+   "ratings": 54,
+   "rating": 4.64815,
+   "price": "Free",
+   "released": "2024-12-18",
+   "genre": "Utilities",
+   "term": "home maintenance tracker"
+  }
+ ],
+ "37": [
+  {
+   "id": 552472249,
+   "name": "CARFAX Car Care",
+   "dev": "CARFAX, Inc.",
+   "ratings": 128714,
+   "rating": 4.8411,
+   "price": "Free",
+   "released": "2012-08-22",
+   "genre": "Lifestyle",
+   "term": "car maintenance tracker"
+  },
+  {
+   "id": 295905460,
+   "name": "Fuelly: MPG & Service Tracker",
+   "dev": "Fuelly, LLC",
+   "ratings": 29721,
+   "rating": 4.7381,
+   "price": "Free",
+   "released": "2008-11-11",
+   "genre": "Finance",
+   "term": "car maintenance tracker"
+  },
+  {
+   "id": 1038723291,
+   "name": "ZUS - Save Car Expenses",
+   "dev": "No NDA Inc",
+   "ratings": 5254,
+   "rating": 4.71544,
+   "price": "Free",
+   "released": "2015-10-11",
+   "genre": "Utilities",
+   "term": "car expenses"
+  },
+  {
+   "id": 1315913699,
+   "name": "Vehicle Maintenance Tracker",
+   "dev": "Hai Nguyen",
+   "ratings": 2951,
+   "rating": 4.28465,
+   "price": "Free",
+   "released": "2017-11-28",
+   "genre": "Utilities",
+   "term": "car maintenance tracker"
+  },
+  {
+   "id": 1165749302,
+   "name": "My Car - Vehicle Manager",
+   "dev": "KineApps Oy",
+   "ratings": 1180,
+   "rating": 4.7,
+   "price": "Free",
+   "released": "2018-03-14",
+   "genre": "Finance",
+   "term": "car expenses"
+  },
+  {
+   "id": 1206041425,
+   "name": "Drivvo - Car Expense Tracker",
+   "dev": "Cristian Cardoso",
+   "ratings": 983,
+   "rating": 4.68566,
+   "price": "Free",
+   "released": "2017-03-05",
+   "genre": "Finance",
+   "term": "car expenses"
+  },
+  {
+   "id": 1434987422,
+   "name": "CarScope: Car Maintenance, MPG",
+   "dev": "Dixie Labs",
+   "ratings": 664,
+   "rating": 4.50753,
+   "price": "Free",
+   "released": "2018-09-25",
+   "genre": "Finance",
+   "term": "car expenses"
+  },
+  {
+   "id": 1600391173,
+   "name": "Car Cave - Car Maintenance Log",
+   "dev": "Filemon Salas",
+   "ratings": 380,
+   "rating": 4.67631,
+   "price": "Free",
+   "released": "2022-02-16",
+   "genre": "Utilities",
+   "term": "car maintenance tracker"
+  }
+ ],
+ "38": [
+  {
+   "id": 508163604,
+   "name": "Trulia Rentals",
+   "dev": "Trulia, Inc",
+   "ratings": 307643,
+   "rating": 4.81053,
+   "price": "Free",
+   "released": "2012-04-02",
+   "genre": "Lifestyle",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 678683201,
+   "name": "Zumper - Apartment Finder",
+   "dev": "Zumper, Inc.",
+   "ratings": 64391,
+   "rating": 4.78224,
+   "price": "Free",
+   "released": "2013-08-15",
+   "genre": "Lifestyle",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 292234839,
+   "name": "Apartment Guide Home Rentals",
+   "dev": "Rent Group Inc.",
+   "ratings": 54799,
+   "rating": 4.74451,
+   "price": "Free",
+   "released": "2008-09-30",
+   "genre": "Lifestyle",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 6444861935,
+   "name": "Be My Guest - Landlord Sim",
+   "dev": "Panteon Yazilim Oyun Egitim Teknolojileri ve Hizmetleri Sanayi Ticaret Anonim Sirketi",
+   "ratings": 30860,
+   "rating": 4.66277,
+   "price": "Free",
+   "released": "2022-12-06",
+   "genre": "Games",
+   "term": "renter tenant"
+  },
+  {
+   "id": 1134017691,
+   "name": "RentCheck",
+   "dev": "RentCheck Holdings, Inc.",
+   "ratings": 20726,
+   "rating": 4.7934,
+   "price": "Free",
+   "released": "2018-03-12",
+   "genre": "Lifestyle",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 1491039980,
+   "name": "zTenant",
+   "dev": "Scaled Tech Inc.",
+   "ratings": 18199,
+   "rating": 4.93137,
+   "price": "Free",
+   "released": "2020-02-05",
+   "genre": "Business",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 1187683543,
+   "name": "RentRedi: Landlord & Rent App",
+   "dev": "RentRedi, Inc.",
+   "ratings": 15573,
+   "rating": 4.787,
+   "price": "Free",
+   "released": "2016-12-28",
+   "genre": "Business",
+   "term": "rental move in checklist"
+  },
+  {
+   "id": 6476510444,
+   "name": "TurboTenant for Renters",
+   "dev": "TurboTenant, Inc.",
+   "ratings": 15042,
+   "rating": 4.82575,
+   "price": "Free",
+   "released": "2024-03-15",
+   "genre": "Productivity",
+   "term": "rental move in checklist"
+  }
+ ],
+ "39": [
+  {
+   "id": 310738695,
+   "name": "Zillow Real Estate & Rentals",
+   "dev": "Zillow.com",
+   "ratings": 7241406,
+   "rating": 4.80009,
+   "price": "Free",
+   "released": "2009-04-29",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 327962480,
+   "name": "Redfin: Buy, Sell & Rent Homes",
+   "dev": "Redfin",
+   "ratings": 1652027,
+   "rating": 4.79873,
+   "price": "Free",
+   "released": "2009-08-31",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 288487321,
+   "name": "Trulia Real Estate & Rentals",
+   "dev": "Trulia, Inc",
+   "ratings": 1415623,
+   "rating": 4.81644,
+   "price": "Free",
+   "released": "2019-02-12",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 336698281,
+   "name": "Realtor.com Real Estate & Rent",
+   "dev": "Move, Inc.",
+   "ratings": 1088553,
+   "rating": 4.78894,
+   "price": "Free",
+   "released": "2010-01-11",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 306423353,
+   "name": "Homes.com Real Estate & Rent",
+   "dev": "Homes.com",
+   "ratings": 75006,
+   "rating": 4.772,
+   "price": "Free",
+   "released": "2009-03-01",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 678683201,
+   "name": "Zumper - Apartment Finder",
+   "dev": "Zumper, Inc.",
+   "ratings": 64391,
+   "rating": 4.78224,
+   "price": "Free",
+   "released": "2013-08-15",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 652512924,
+   "name": "KW Real Estate",
+   "dev": "KW Realty",
+   "ratings": 62518,
+   "rating": 4.76668,
+   "price": "Free",
+   "released": "2013-07-23",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  },
+  {
+   "id": 537795977,
+   "name": "Movoto | Real Estate",
+   "dev": "Movoto",
+   "ratings": 54020,
+   "rating": 4.79507,
+   "price": "Free",
+   "released": "2012-07-02",
+   "genre": "Lifestyle",
+   "term": "home buying"
+  }
+ ],
+ "40": [
+  {
+   "id": 529353551,
+   "name": "Sortly: Inventory Simplified",
+   "dev": "Sortly Inc.",
+   "ratings": 9575,
+   "rating": 4.73149,
+   "price": "Free",
+   "released": "2012-06-05",
+   "genre": "Business",
+   "term": "home inventory"
+  },
+  {
+   "id": 420151922,
+   "name": "Home Contents",
+   "dev": "CURLYBRACE APPS LTD",
+   "ratings": 1464,
+   "rating": 4.70287,
+   "price": "Free",
+   "released": "2011-09-10",
+   "genre": "Productivity",
+   "term": "home inventory"
+  },
+  {
+   "id": 1335784284,
+   "name": "Boxes: Storage made simple",
+   "dev": "StackTracks, LLC",
+   "ratings": 964,
+   "rating": 4.83195,
+   "price": "Free",
+   "released": "2018-06-06",
+   "genre": "Productivity",
+   "term": "home inventory"
+  },
+  {
+   "id": 1209159428,
+   "name": "Inventory Management - BoxKit",
+   "dev": "Versus Dynamics LLC",
+   "ratings": 652,
+   "rating": 4.25,
+   "price": "Free",
+   "released": "2017-08-09",
+   "genre": "Business",
+   "term": "home inventory"
+  },
+  {
+   "id": 1524335878,
+   "name": "Under My Roof Home Inventory +",
+   "dev": "Binary Formations, LLC",
+   "ratings": 538,
+   "rating": 4.74349,
+   "price": "Free",
+   "released": "2021-04-18",
+   "genre": "Productivity",
+   "term": "home inventory"
+  },
+  {
+   "id": 1503927871,
+   "name": "Supplies - Home Inventory",
+   "dev": "Jankulabor OU",
+   "ratings": 293,
+   "rating": 4.58703,
+   "price": "Free",
+   "released": "2020-04-10",
+   "genre": "Food & Drink",
+   "term": "home inventory"
+  },
+  {
+   "id": 639236302,
+   "name": "Nest Egg Home Inventory Lite",
+   "dev": "Nest Egg Labs, Inc",
+   "ratings": 170,
+   "rating": 4.48824,
+   "price": "Free",
+   "released": "2013-05-10",
+   "genre": "Utilities",
+   "term": "home inventory"
+  },
+  {
+   "id": 1489866496,
+   "name": "HouseBook - Home Inventory",
+   "dev": "Cameron Henige",
+   "ratings": 49,
+   "rating": 4.08162,
+   "price": "Free",
+   "released": "2020-01-23",
+   "genre": "Productivity",
+   "term": "home inventory"
+  }
+ ],
+ "41": [
+  {
+   "id": 1217456898,
+   "name": "Tasty: Recipes, Cooking Videos",
+   "dev": "BuzzFeed",
+   "ratings": 432926,
+   "rating": 4.90794,
+   "price": "Free",
+   "released": "2017-07-27",
+   "genre": "Food & Drink",
+   "term": "meal planner"
+  },
+  {
+   "id": 1593779280,
+   "name": "ReciMe: Recipes & Meal Planner",
+   "dev": "ReciMe Pty Ltd",
+   "ratings": 329714,
+   "rating": 4.78641,
+   "price": "Free",
+   "released": "2021-11-12",
+   "genre": "Food & Drink",
+   "term": "meal planner"
+  },
+  {
+   "id": 325851015,
+   "name": "Our Groceries Shopping List",
+   "dev": "OurGroceries, Inc.",
+   "ratings": 86024,
+   "rating": 4.81998,
+   "price": "Free",
+   "released": "2009-08-14",
+   "genre": "Shopping",
+   "term": "grocery list"
+  },
+  {
+   "id": 522167641,
+   "name": "AnyList: Grocery Shopping List",
+   "dev": "Purple Cover, Inc.",
+   "ratings": 81355,
+   "rating": 4.86419,
+   "price": "Free",
+   "released": "2012-05-11",
+   "genre": "Productivity",
+   "term": "grocery list"
+  },
+  {
+   "id": 507605066,
+   "name": "List Ease: Shared Grocery List",
+   "dev": "inMarket Media, LLC",
+   "ratings": 53993,
+   "rating": 4.74559,
+   "price": "Free",
+   "released": "2012-07-21",
+   "genre": "Productivity",
+   "term": "grocery list"
+  },
+  {
+   "id": 575756462,
+   "name": "eMeals - Healthy Meal Plans",
+   "dev": "eMeals, Inc.",
+   "ratings": 52801,
+   "rating": 4.60891,
+   "price": "Free",
+   "released": "2013-04-16",
+   "genre": "Food & Drink",
+   "term": "meal planner"
+  },
+  {
+   "id": 1099665034,
+   "name": "Shopping List - Grocery & Todo",
+   "dev": "Komorebi Inc.",
+   "ratings": 28873,
+   "rating": 4.8333,
+   "price": "Free",
+   "released": "2016-06-09",
+   "genre": "Shopping",
+   "term": "grocery list"
+  },
+  {
+   "id": 491297400,
+   "name": "Grocery List with Sync",
+   "dev": "Buzzworthy Vibe Co.",
+   "ratings": 24432,
+   "rating": 4.70252,
+   "price": "Free",
+   "released": "2012-01-10",
+   "genre": "Productivity",
+   "term": "grocery list"
+  }
+ ],
+ "42": [
+  {
+   "id": 989307692,
+   "name": "U-Haul: Moving Made Easier®",
+   "dev": "U-Haul International, Inc.",
+   "ratings": 218175,
+   "rating": 4.48461,
+   "price": "Free",
+   "released": "2015-05-25",
+   "genre": "Travel",
+   "term": "moving checklist"
+  },
+  {
+   "id": 497328576,
+   "name": "Any.do: To do list & Planner",
+   "dev": "Any.DO",
+   "ratings": 50623,
+   "rating": 4.6243,
+   "price": "Free",
+   "released": "2012-06-04",
+   "genre": "Productivity",
+   "term": "moving planner"
+  },
+  {
+   "id": 993066159,
+   "name": "To Do List MinimaList & Widget",
+   "dev": "InnerGrow",
+   "ratings": 49014,
+   "rating": 4.77445,
+   "price": "Free",
+   "released": "2015-12-09",
+   "genre": "Productivity",
+   "term": "moving checklist"
+  },
+  {
+   "id": 718043190,
+   "name": "Fantastical Calendar",
+   "dev": "Flexibits Inc.",
+   "ratings": 24870,
+   "rating": 4.22352,
+   "price": "Free",
+   "released": "2013-10-30",
+   "genre": "Productivity",
+   "term": "moving planner"
+  },
+  {
+   "id": 1115477521,
+   "name": "FlyLady: Routines & Cleaning",
+   "dev": "FLY Premium Services, inc.",
+   "ratings": 23403,
+   "rating": 4.86237,
+   "price": "Free",
+   "released": "2016-05-26",
+   "genre": "Lifestyle",
+   "term": "moving checklist"
+  },
+  {
+   "id": 1632352471,
+   "name": "Digital Planner – Task Journal",
+   "dev": "ToolStyle",
+   "ratings": 14356,
+   "rating": 4.28169,
+   "price": "Free",
+   "released": "2022-07-01",
+   "genre": "Productivity",
+   "term": "moving planner"
+  },
+  {
+   "id": 1613789699,
+   "name": "Updater: Essential Moving App",
+   "dev": "Updater",
+   "ratings": 6948,
+   "rating": 4.88443,
+   "price": "Free",
+   "released": "2022-04-04",
+   "genre": "Lifestyle",
+   "term": "moving checklist"
+  },
+  {
+   "id": 1235121075,
+   "name": "Packing List Checklist",
+   "dev": "Diego de Paz Sierra",
+   "ratings": 6405,
+   "rating": 4.73442,
+   "price": "Free",
+   "released": "2017-07-11",
+   "genre": "Travel",
+   "term": "moving checklist"
+  }
+ ],
+ "43": [
+  {
+   "id": 464988855,
+   "name": "Nest",
+   "dev": "Nest Labs",
+   "ratings": 2581295,
+   "rating": 4.60634,
+   "price": "Free",
+   "released": "2011-11-01",
+   "genre": "Lifestyle",
+   "term": "smart home"
+  },
+  {
+   "id": 680819774,
+   "name": "Google Home",
+   "dev": "Google",
+   "ratings": 1398050,
+   "rating": 4.55782,
+   "price": "Free",
+   "released": "2013-08-27",
+   "genre": "Lifestyle",
+   "term": "smart home"
+  },
+  {
+   "id": 1222822904,
+   "name": "SmartThings",
+   "dev": "Samsung Electronics Co., Ltd.",
+   "ratings": 858882,
+   "rating": 4.56956,
+   "price": "Free",
+   "released": "2017-06-20",
+   "genre": "Lifestyle",
+   "term": "smart home"
+  },
+  {
+   "id": 1258654743,
+   "name": "Smart Home Manager",
+   "dev": "AT&T Services, Inc.",
+   "ratings": 491306,
+   "rating": 4.76453,
+   "price": "Free",
+   "released": "2017-08-23",
+   "genre": "Productivity",
+   "term": "smart home"
+  },
+  {
+   "id": 1115101477,
+   "name": "SmartLife: Smart Living",
+   "dev": "Volcano Technology Limited",
+   "ratings": 267262,
+   "rating": 4.72212,
+   "price": "Free",
+   "released": "2016-05-26",
+   "genre": "Lifestyle",
+   "term": "smart home"
+  },
+  {
+   "id": 1038212933,
+   "name": "Schlage Home",
+   "dev": "Schlage Lock Company",
+   "ratings": 252334,
+   "rating": 4.79225,
+   "price": "Free",
+   "released": "2015-09-22",
+   "genre": "Lifestyle",
+   "term": "smart home setup"
+  },
+  {
+   "id": 648730592,
+   "name": "August Home",
+   "dev": "August Home, Inc.",
+   "ratings": 175197,
+   "rating": 4.83625,
+   "price": "Free",
+   "released": "2014-08-26",
+   "genre": "Utilities",
+   "term": "smart home setup"
+  },
+  {
+   "id": 1626186138,
+   "name": "Roku Smart Home",
+   "dev": "ROKU INC",
+   "ratings": 167781,
+   "rating": 4.73519,
+   "price": "Free",
+   "released": "2022-10-11",
+   "genre": "Lifestyle",
+   "term": "smart home"
+  }
+ ],
+ "44": [
+  {
+   "id": 1252497129,
+   "name": "PictureThis - Plant Identifier",
+   "dev": "Glority Global Group Ltd.",
+   "ratings": 1122698,
+   "rating": 4.80462,
+   "price": "Free",
+   "released": "2017-07-20",
+   "genre": "Education",
+   "term": "plant care"
+  },
+  {
+   "id": 1527399597,
+   "name": "PlantIn: Plant Identifier・Care",
+   "dev": "Vortemol Limited",
+   "ratings": 230604,
+   "rating": 4.56449,
+   "price": "Free",
+   "released": "2020-08-14",
+   "genre": "Education",
+   "term": "plant care"
+  },
+  {
+   "id": 1476047194,
+   "name": "Plantum - AI Plant Identifier",
+   "dev": "AIBY",
+   "ratings": 119593,
+   "rating": 4.58549,
+   "price": "Free",
+   "released": "2019-08-22",
+   "genre": "Education",
+   "term": "plant care"
+  },
+  {
+   "id": 1410126781,
+   "name": "Planta: Plant & Garden Care",
+   "dev": "Planta AB",
+   "ratings": 114531,
+   "rating": 4.75383,
+   "price": "Free",
+   "released": "2018-11-07",
+   "genre": "Lifestyle",
+   "term": "plant care"
+  },
+  {
+   "id": 1612792132,
+   "name": "Plant Parent: Plant Care Guide",
+   "dev": "Glority Global Group Ltd.",
+   "ratings": 92951,
+   "rating": 4.6829,
+   "price": "Free",
+   "released": "2022-04-01",
+   "genre": "Lifestyle",
+   "term": "plant care"
+  },
+  {
+   "id": 1487453649,
+   "name": "Blossom - Plant Care Guide",
+   "dev": "Mosaic S.r.l.",
+   "ratings": 68773,
+   "rating": 4.61257,
+   "price": "Free",
+   "released": "2020-02-27",
+   "genre": "Education",
+   "term": "plant care"
+  },
+  {
+   "id": 1451054346,
+   "name": "PlantSnap - Plant Scanner",
+   "dev": "PlantSnap, Inc.",
+   "ratings": 68293,
+   "rating": 4.5746,
+   "price": "Free",
+   "released": "2019-02-22",
+   "genre": "Education",
+   "term": "plant care"
+  },
+  {
+   "id": 1595795215,
+   "name": "Plant App: Plant Identifier",
+   "dev": "SCALEUP YAZILIM HIZMETLERI",
+   "ratings": 55640,
+   "rating": 4.69466,
+   "price": "Free",
+   "released": "2022-04-19",
+   "genre": "Education",
+   "term": "plant care"
+  }
+ ],
+ "45": [
+  {
+   "id": 773457673,
+   "name": "Merlin Bird ID by Cornell Lab",
+   "dev": "Cornell University",
+   "ratings": 113966,
+   "rating": 4.86275,
+   "price": "Free",
+   "released": "2013-12-11",
+   "genre": "Reference",
+   "term": "birding"
+  },
+  {
+   "id": 1622355240,
+   "name": "Birdbuddy: ID & Collect Birds",
+   "dev": "Buddy Bird Inc",
+   "ratings": 62121,
+   "rating": 4.7964,
+   "price": "Free",
+   "released": "2022-09-28",
+   "genre": "Education",
+   "term": "birding"
+  },
+  {
+   "id": 1474586978,
+   "name": "Picture Bird: Bird identifier",
+   "dev": "Next Vision Limited",
+   "ratings": 40619,
+   "rating": 4.73399,
+   "price": "Free",
+   "released": "2019-08-11",
+   "genre": "Reference",
+   "term": "birding"
+  },
+  {
+   "id": 1353224144,
+   "name": "Seek by iNaturalist",
+   "dev": "iNaturalist",
+   "ratings": 30916,
+   "rating": 4.75071,
+   "price": "Free",
+   "released": "2018-03-09",
+   "genre": "Education",
+   "term": "bird identification"
+  },
+  {
+   "id": 1271449623,
+   "name": "Smart Bird ID: Identify Birds",
+   "dev": "Yellow Cardinal Inc.",
+   "ratings": 16837,
+   "rating": 4.70256,
+   "price": "Free",
+   "released": "2017-11-06",
+   "genre": "Education",
+   "term": "bird identification"
+  },
+  {
+   "id": 6449354786,
+   "name": "Bird Sounds Identifier Call ID",
+   "dev": "Nhu Nguyen Thi",
+   "ratings": 14254,
+   "rating": 4.69412,
+   "price": "Free",
+   "released": "2023-06-01",
+   "genre": "Reference",
+   "term": "bird identification"
+  },
+  {
+   "id": 308018823,
+   "name": "iBird Pro Guide to Birds",
+   "dev": "Mitch Waite Group",
+   "ratings": 6938,
+   "rating": 4.2515,
+   "price": "Free",
+   "released": "2009-03-27",
+   "genre": "Reference",
+   "term": "bird identification"
+  },
+  {
+   "id": 421397028,
+   "name": "iNaturalist Classic",
+   "dev": "iNaturalist",
+   "ratings": 4731,
+   "rating": 4.58169,
+   "price": "Free",
+   "released": "2011-02-25",
+   "genre": "Education",
+   "term": "bird identification"
+  }
+ ],
+ "46": [
+  {
+   "id": 956371806,
+   "name": "Tavour",
+   "dev": "Tavour",
+   "ratings": 8834,
+   "rating": 4.68327,
+   "price": "Free",
+   "released": "2015-01-28",
+   "genre": "Food & Drink",
+   "term": "homebrew beer"
+  },
+  {
+   "id": 1478594846,
+   "name": "Oznr",
+   "dev": "Home Brewed Tech LLC",
+   "ratings": 3182,
+   "rating": 4.78096,
+   "price": "Free",
+   "released": "2019-09-05",
+   "genre": "Food & Drink",
+   "term": "homebrew beer"
+  },
+  {
+   "id": 1521173993,
+   "name": "West Coast Sourdough",
+   "dev": "West Coast Sourdough",
+   "ratings": 1679,
+   "rating": 4.75283,
+   "price": "Free",
+   "released": "2020-07-18",
+   "genre": "Food & Drink",
+   "term": "sourdough"
+  },
+  {
+   "id": 943148121,
+   "name": "Craft Beer & Brewing Magazine",
+   "dev": "Unfiltered Media",
+   "ratings": 768,
+   "rating": 4.76563,
+   "price": "Free",
+   "released": "2014-12-02",
+   "genre": "Food & Drink",
+   "term": "homebrew beer"
+  },
+  {
+   "id": 1534576984,
+   "name": "Kneady: Bread & Baking Recipes",
+   "dev": "Quillbound Studios Ltd",
+   "ratings": 733,
+   "rating": 4.8049,
+   "price": "Free",
+   "released": "2020-10-05",
+   "genre": "Food & Drink",
+   "term": "sourdough"
+  },
+  {
+   "id": 1521627812,
+   "name": "Brew Meister: Track your beer",
+   "dev": "Anton Paar ConsumerTec GmbH",
+   "ratings": 653,
+   "rating": 4.70749,
+   "price": "Free",
+   "released": "2020-12-11",
+   "genre": "Utilities",
+   "term": "homebrew beer"
+  },
+  {
+   "id": 340206461,
+   "name": "Find Craft Beer",
+   "dev": "Micro Integration Services, Inc.",
+   "ratings": 641,
+   "rating": 4.61154,
+   "price": "$0.99",
+   "released": "2009-11-19",
+   "genre": "Food & Drink",
+   "term": "homebrew beer"
+  },
+  {
+   "id": 6736766728,
+   "name": "Loaflo: Sourdough Starter",
+   "dev": "No Worries! Lifestyle, LLC",
+   "ratings": 567,
+   "rating": 4.69136,
+   "price": "Free",
+   "released": "2024-10-23",
+   "genre": "Food & Drink",
+   "term": "sourdough"
+  }
+ ],
+ "47": [
+  {
+   "id": 1436213906,
+   "name": "Hooked Inc: Fishing Games",
+   "dev": "Lion Studios",
+   "ratings": 503917,
+   "rating": 4.7081,
+   "price": "Free",
+   "released": "2018-09-24",
+   "genre": "Games",
+   "term": "fishing"
+  },
+  {
+   "id": 1398987473,
+   "name": "Go Fish!",
+   "dev": "Kwalee Ltd",
+   "ratings": 455424,
+   "rating": 4.51757,
+   "price": "Free",
+   "released": "2018-07-28",
+   "genre": "Games",
+   "term": "fishing"
+  },
+  {
+   "id": 1151811380,
+   "name": "Fishing Clash: Sport Simulator",
+   "dev": "Ten Square Games S.A.",
+   "ratings": 158674,
+   "rating": 4.77086,
+   "price": "Free",
+   "released": "2017-10-24",
+   "genre": "Games",
+   "term": "fishing"
+  },
+  {
+   "id": 477967747,
+   "name": "Fishbrain - Fishing App",
+   "dev": "FishBrain",
+   "ratings": 76733,
+   "rating": 4.66205,
+   "price": "Free",
+   "released": "2013-02-24",
+   "genre": "Sports",
+   "term": "fish identifier"
+  },
+  {
+   "id": 6505145935,
+   "name": "Fishing Travel",
+   "dev": "Ark Game Limited",
+   "ratings": 45386,
+   "rating": 4.71196,
+   "price": "Free",
+   "released": "2024-09-19",
+   "genre": "Games",
+   "term": "fishing"
+  },
+  {
+   "id": 542238652,
+   "name": "Fishbox - Smart Fishing App",
+   "dev": "MEMS Group, Inc.",
+   "ratings": 38724,
+   "rating": 4.62162,
+   "price": "Free",
+   "released": "2015-01-14",
+   "genre": "Sports",
+   "term": "fishing"
+  },
+  {
+   "id": 1203032512,
+   "name": "Fishing Points: Map & Forecast",
+   "dev": "Fishing Points d.o.o.",
+   "ratings": 31052,
+   "rating": 4.65596,
+   "price": "Free",
+   "released": "2017-04-17",
+   "genre": "Sports",
+   "term": "fishing"
+  },
+  {
+   "id": 6471659176,
+   "name": "Fishing Master",
+   "dev": "Ark Game Limited",
+   "ratings": 23896,
+   "rating": 4.83064,
+   "price": "Free",
+   "released": "2024-08-10",
+   "genre": "Games",
+   "term": "fishing"
+  }
+ ],
+ "48": [
+  {
+   "id": 405075943,
+   "name": "AllTrails: Hike, Bike & Run",
+   "dev": "AllTrails, Inc.",
+   "ratings": 1043098,
+   "rating": 4.88929,
+   "price": "Free",
+   "released": "2010-12-17",
+   "genre": "Health & Fitness",
+   "term": "hiking trails"
+  },
+  {
+   "id": 426826309,
+   "name": "Strava: Run, Bike, Walk",
+   "dev": "Strava, Inc.",
+   "ratings": 380681,
+   "rating": 4.81194,
+   "price": "Free",
+   "released": "2011-03-24",
+   "genre": "Health & Fitness",
+   "term": "hiking trails"
+  },
+  {
+   "id": 1549226484,
+   "name": "National Park Service",
+   "dev": "National Park Service",
+   "ratings": 137644,
+   "rating": 4.85111,
+   "price": "Free",
+   "released": "2021-02-01",
+   "genre": "Travel",
+   "term": "hiking trails"
+  },
+  {
+   "id": 388424049,
+   "name": "Avenza Maps: Offline Mapping",
+   "dev": "Avenza Systems Inc.",
+   "ratings": 128500,
+   "rating": 4.75394,
+   "price": "Free",
+   "released": "2010-09-19",
+   "genre": "Navigation",
+   "term": "hiking trails"
+  },
+  {
+   "id": 1201703657,
+   "name": "Relive: Hike & Ride Memories",
+   "dev": "Relive B.V.",
+   "ratings": 70020,
+   "rating": 4.83981,
+   "price": "Free",
+   "released": "2017-03-23",
+   "genre": "Health & Fitness",
+   "term": "hiking"
+  },
+  {
+   "id": 1201979492,
+   "name": "Gaia GPS: Mobile Trail Maps",
+   "dev": "TrailBehind",
+   "ratings": 32315,
+   "rating": 4.75473,
+   "price": "Free",
+   "released": "2017-05-22",
+   "genre": "Navigation",
+   "term": "hiking trails"
+  },
+  {
+   "id": 605447532,
+   "name": "FarOut: Hike, Bike, Paddle",
+   "dev": "Atlas Guides DE, Inc.",
+   "ratings": 26829,
+   "rating": 4.79101,
+   "price": "Free",
+   "released": "2013-03-08",
+   "genre": "Navigation",
+   "term": "hiking trails"
+  },
+  {
+   "id": 987986743,
+   "name": "Trailforks: Offline Bike Maps",
+   "dev": "Outside Interactive Canada, Inc",
+   "ratings": 16461,
+   "rating": 4.71678,
+   "price": "Free",
+   "released": "2015-07-31",
+   "genre": "Navigation",
+   "term": "hiking trails"
+  }
+ ],
+ "49": [
+  {
+   "id": 1252497129,
+   "name": "PictureThis - Plant Identifier",
+   "dev": "Glority Global Group Ltd.",
+   "ratings": 1122698,
+   "rating": 4.80462,
+   "price": "Free",
+   "released": "2017-07-20",
+   "genre": "Education",
+   "term": "gardening"
+  },
+  {
+   "id": 1476047194,
+   "name": "Plantum - AI Plant Identifier",
+   "dev": "AIBY",
+   "ratings": 119593,
+   "rating": 4.58549,
+   "price": "Free",
+   "released": "2019-08-22",
+   "genre": "Education",
+   "term": "gardening"
+  },
+  {
+   "id": 1410126781,
+   "name": "Planta: Plant & Garden Care",
+   "dev": "Planta AB",
+   "ratings": 114531,
+   "rating": 4.75383,
+   "price": "Free",
+   "released": "2018-11-07",
+   "genre": "Lifestyle",
+   "term": "gardening"
+  },
+  {
+   "id": 1514355595,
+   "name": "Garden Affairs: Design & Match",
+   "dev": "Judian Technology International",
+   "ratings": 29027,
+   "rating": 4.77449,
+   "price": "Free",
+   "released": "2022-03-01",
+   "genre": "Games",
+   "term": "gardening"
+  },
+  {
+   "id": 439688430,
+   "name": "iScape: Landscape Design",
+   "dev": "iScape Holdings Inc.",
+   "ratings": 28870,
+   "rating": 4.60468,
+   "price": "Free",
+   "released": "2011-05-28",
+   "genre": "Lifestyle",
+   "term": "garden planner"
+  },
+  {
+   "id": 6443580320,
+   "name": "GrowIt: Garden Planner",
+   "dev": "Glority Global Group Ltd.",
+   "ratings": 14214,
+   "rating": 4.68334,
+   "price": "Free",
+   "released": "2022-11-03",
+   "genre": "Lifestyle",
+   "term": "gardening"
+  },
+  {
+   "id": 1312538762,
+   "name": "Seed to Spoon - Garden Planner",
+   "dev": "JP Garden",
+   "ratings": 9296,
+   "rating": 4.78378,
+   "price": "Free",
+   "released": "2017-12-04",
+   "genre": "Health & Fitness",
+   "term": "garden planner"
+  },
+  {
+   "id": 6744179402,
+   "name": "AI Garden Design: Landscape AI",
+   "dev": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI",
+   "ratings": 8181,
+   "rating": 4.64466,
+   "price": "Free",
+   "released": "2025-05-04",
+   "genre": "Graphics & Design",
+   "term": "garden planner"
+  }
+ ],
+ "50": [
+  {
+   "id": 966758561,
+   "name": "GOAT – Sneakers & Apparel",
+   "dev": "1661, Inc.",
+   "ratings": 2043421,
+   "rating": 4.86182,
+   "price": "Free",
+   "released": "2015-04-16",
+   "genre": "Shopping",
+   "term": "sneaker"
+  },
+  {
+   "id": 1095459556,
+   "name": "Nike: Engineered for Athletes",
+   "dev": "Nike, Inc",
+   "ratings": 1698542,
+   "rating": 4.88173,
+   "price": "Free",
+   "released": "2016-08-02",
+   "genre": "Shopping",
+   "term": "sneaker"
+  },
+  {
+   "id": 911130812,
+   "name": "Nike SNKRS: Sneakers & Apparel",
+   "dev": "Nike, Inc",
+   "ratings": 1414243,
+   "rating": 4.85761,
+   "price": "Free",
+   "released": "2015-02-12",
+   "genre": "Shopping",
+   "term": "sneaker"
+  },
+  {
+   "id": 881599819,
+   "name": "StockX: Live Marketplace",
+   "dev": "StockX LLC",
+   "ratings": 1315351,
+   "rating": 4.78426,
+   "price": "Free",
+   "released": "2014-06-06",
+   "genre": "Shopping",
+   "term": "sneaker"
+  },
+  {
+   "id": 1488269261,
+   "name": "Whatnot: Shop, Sell, Connect",
+   "dev": "Whatnot Inc.",
+   "ratings": 1086199,
+   "rating": 4.74993,
+   "price": "Free",
+   "released": "2019-12-06",
+   "genre": "Shopping",
+   "term": "collectibles"
+  },
+  {
+   "id": 647074443,
+   "name": "KicksOnFire: Shop + Local Heat",
+   "dev": "KicksOnFire",
+   "ratings": 363764,
+   "rating": 4.81963,
+   "price": "Free",
+   "released": "2013-06-07",
+   "genre": "Shopping",
+   "term": "sneaker"
+  },
+  {
+   "id": 1634551626,
+   "name": "CoinSnap: Coin Identifier",
+   "dev": "Next Vision Limited",
+   "ratings": 310600,
+   "rating": 4.71462,
+   "price": "Free",
+   "released": "2022-08-03",
+   "genre": "Reference",
+   "term": "coin identifier"
+  },
+  {
+   "id": 905940653,
+   "name": "Finish Line – Shop Exclusive",
+   "dev": "Finish Line, Inc.",
+   "ratings": 280857,
+   "rating": 4.82923,
+   "price": "Free",
+   "released": "2014-08-28",
+   "genre": "Shopping",
+   "term": "sneaker"
+  }
+ ],
+ "51": [
+  {
+   "id": 414461255,
+   "name": "Vivino: Drink The Right Wine",
+   "dev": "Vivino ApS",
+   "ratings": 140698,
+   "rating": 4.84291,
+   "price": "Free",
+   "released": "2011-01-18",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 1277318070,
+   "name": "Total Wine & More",
+   "dev": "Retail Services & Systems, Inc.",
+   "ratings": 123028,
+   "rating": 4.82665,
+   "price": "Free",
+   "released": "2018-01-08",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 1196073924,
+   "name": "Wine.com",
+   "dev": "Wine.com, Inc.",
+   "ratings": 84883,
+   "rating": 4.83871,
+   "price": "Free",
+   "released": "2017-05-21",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 512106648,
+   "name": "Delectable - Scan & Rate Wine",
+   "dev": "Delectable",
+   "ratings": 26016,
+   "rating": 4.70399,
+   "price": "Free",
+   "released": "2012-04-06",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 599836194,
+   "name": "Wine-Searcher",
+   "dev": "Wine-Searcher Ltd",
+   "ratings": 17176,
+   "rating": 4.81445,
+   "price": "Free",
+   "released": "2013-03-25",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 6446102275,
+   "name": "CellarTracker: #1 Wine Tracker",
+   "dev": "CellarTracker",
+   "ratings": 13545,
+   "rating": 4.90402,
+   "price": "Free",
+   "released": "2024-04-15",
+   "genre": "Food & Drink",
+   "term": "wine"
+  },
+  {
+   "id": 6446233656,
+   "name": "OnlyDrams",
+   "dev": "OnlyDrams, LLC",
+   "ratings": 10663,
+   "rating": 4.8567,
+   "price": "Free",
+   "released": "2023-12-08",
+   "genre": "Food & Drink",
+   "term": "whiskey"
+  },
+  {
+   "id": 1434754695,
+   "name": "InVintory: Wine Cellar Manager",
+   "dev": "InVintory Wines Incorporated",
+   "ratings": 5142,
+   "rating": 4.75671,
+   "price": "Free",
+   "released": "2020-03-03",
+   "genre": "Food & Drink",
+   "term": "wine"
+  }
+ ],
+ "52": [
+  {
+   "id": 916819843,
+   "name": "Skillshare: Creativity Classes",
+   "dev": "Skillshare, Inc.",
+   "ratings": 25463,
+   "rating": 4.8182,
+   "price": "Free",
+   "released": "2014-12-02",
+   "genre": "Education",
+   "term": "photography lessons"
+  },
+  {
+   "id": 1293122457,
+   "name": "Afterlight: Cam & Photo Editor",
+   "dev": "Afterlight Collective, Inc",
+   "ratings": 20766,
+   "rating": 4.74256,
+   "price": "Free",
+   "released": "2017-11-02",
+   "genre": "Photo & Video",
+   "term": "photo critique"
+  },
+  {
+   "id": 1100927060,
+   "name": "VIEWBUG - Photography",
+   "dev": "ViewBug",
+   "ratings": 12698,
+   "rating": 4.65097,
+   "price": "Free",
+   "released": "2017-01-31",
+   "genre": "Photo & Video",
+   "term": "photo critique"
+  },
+  {
+   "id": 1438843099,
+   "name": "UNSCRIPTED Photography Poses",
+   "dev": "OMJ Holdings Pty Ltd",
+   "ratings": 6622,
+   "rating": 4.63697,
+   "price": "Free",
+   "released": "2019-01-01",
+   "genre": "Photo & Video",
+   "term": "photography lessons"
+  },
+  {
+   "id": 321240709,
+   "name": "PhotoFunia",
+   "dev": "Capsule Digital Ltd",
+   "ratings": 6476,
+   "rating": 4.82057,
+   "price": "Free",
+   "released": "2009-08-14",
+   "genre": "Photo & Video",
+   "term": "photo critique"
+  },
+  {
+   "id": 1111221823,
+   "name": "GuruShots: Photography Game",
+   "dev": "Gurushots Ltd",
+   "ratings": 5167,
+   "rating": 4.42055,
+   "price": "Free",
+   "released": "2018-02-06",
+   "genre": "Photo & Video",
+   "term": "photography lessons"
+  },
+  {
+   "id": 6751760948,
+   "name": "Atlas Photo – Photo Companion",
+   "dev": "Ensemble Technologies Incorporated",
+   "ratings": 2934,
+   "rating": 4.37287,
+   "price": "Free",
+   "released": "2025-09-05",
+   "genre": "Photo & Video",
+   "term": "photo critique"
+  },
+  {
+   "id": 1537250336,
+   "name": "Photo Compare - Before & After",
+   "dev": "Devnex",
+   "ratings": 2652,
+   "rating": 4.49472,
+   "price": "Free",
+   "released": "2020-10-25",
+   "genre": "Photo & Video",
+   "term": "photo critique"
+  }
+ ],
+ "53": [
+  {
+   "id": 282614216,
+   "name": "eBay online shopping & selling",
+   "dev": "eBay Inc.",
+   "ratings": 4969523,
+   "rating": 4.8163,
+   "price": "Free",
+   "released": "2019-01-31",
+   "genre": "Shopping",
+   "term": "reseller"
+  },
+  {
+   "id": 468996152,
+   "name": "OfferUp Buy & Sell Marketplace",
+   "dev": "OfferUp Inc.",
+   "ratings": 4448998,
+   "rating": 4.75364,
+   "price": "Free",
+   "released": "2011-10-19",
+   "genre": "Shopping",
+   "term": "reseller"
+  },
+  {
+   "id": 896130944,
+   "name": "Mercari: Buying & Selling App",
+   "dev": "Mercari, Inc.",
+   "ratings": 1962022,
+   "rating": 4.84793,
+   "price": "Free",
+   "released": "2014-08-06",
+   "genre": "Shopping",
+   "term": "crosslisting"
+  },
+  {
+   "id": 470412147,
+   "name": "Poshmark: Shop & Sell Fashion",
+   "dev": "Poshmark, Inc.",
+   "ratings": 1104393,
+   "rating": 4.80274,
+   "price": "Free",
+   "released": "2011-10-13",
+   "genre": "Shopping",
+   "term": "crosslisting"
+  },
+  {
+   "id": 518684914,
+   "name": "Depop - Buy & Sell Clothes",
+   "dev": "Depop Ltd",
+   "ratings": 1074724,
+   "rating": 4.81916,
+   "price": "Free",
+   "released": "2012-08-01",
+   "genre": "Shopping",
+   "term": "crosslisting"
+  },
+  {
+   "id": 632064380,
+   "name": "Vinted: Pre-loved marketplace",
+   "dev": "Vinted Limited",
+   "ratings": 714165,
+   "rating": 4.89487,
+   "price": "Free",
+   "released": "2013-04-11",
+   "genre": "Shopping",
+   "term": "crosslisting"
+  },
+  {
+   "id": 499725337,
+   "name": "ThredUp: Online Thrift Store",
+   "dev": "thredUP",
+   "ratings": 306398,
+   "rating": 4.74223,
+   "price": "Free",
+   "released": "2012-02-22",
+   "genre": "Shopping",
+   "term": "thrift resale"
+  },
+  {
+   "id": 1029107786,
+   "name": "Curtsy: Women's Fashion Resale",
+   "dev": "Curtsy, Inc.",
+   "ratings": 65214,
+   "rating": 4.83387,
+   "price": "Free",
+   "released": "2015-11-23",
+   "genre": "Shopping",
+   "term": "thrift resale"
+  }
+ ],
+ "54": [
+  {
+   "id": 1621328561,
+   "name": "MONOPOLY GO!",
+   "dev": "Scopely, Inc.",
+   "ratings": 3885607,
+   "rating": 4.79757,
+   "price": "Free",
+   "released": "2023-04-11",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 1344700142,
+   "name": "UNO!™",
+   "dev": "Mattel Game Studios HK Limited",
+   "ratings": 660340,
+   "rating": 4.68851,
+   "price": "Free",
+   "released": "2018-11-15",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 6448104157,
+   "name": "Offline Games - No Wifi Games",
+   "dev": "Moreno Maio",
+   "ratings": 382183,
+   "rating": 4.83751,
+   "price": "Free",
+   "released": "2023-08-08",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 1073936461,
+   "name": "Solitaire: Cards Games Classic",
+   "dev": "nerByte GmbH",
+   "ratings": 251758,
+   "rating": 4.75997,
+   "price": "Free",
+   "released": "2016-02-02",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 1051334048,
+   "name": "RISK: Global Domination",
+   "dev": "SMG Studio",
+   "ratings": 188451,
+   "rating": 4.74427,
+   "price": "Free",
+   "released": "2015-12-03",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 1477966166,
+   "name": "MONOPOLY: The Board Game",
+   "dev": "Marmalade Game Studio",
+   "ratings": 185933,
+   "rating": 4.65656,
+   "price": "$4.99",
+   "released": "2019-12-04",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 1116488672,
+   "name": "Board Kings-Board Dice Games",
+   "dev": "Playtika LTD",
+   "ratings": 93372,
+   "rating": 4.66364,
+   "price": "Free",
+   "released": "2017-03-08",
+   "genre": "Games",
+   "term": "board game"
+  },
+  {
+   "id": 6443484197,
+   "name": "Backgammon - Board Games",
+   "dev": "Easybrain Ltd",
+   "ratings": 85113,
+   "rating": 4.54518,
+   "price": "Free",
+   "released": "2022-12-18",
+   "genre": "Games",
+   "term": "board game"
+  }
+ ],
+ "55": [
+  {
+   "id": 1540712425,
+   "name": "Silhouette Art",
+   "dev": "Lion Studios",
+   "ratings": 71692,
+   "rating": 4.65692,
+   "price": "Free",
+   "released": "2020-11-21",
+   "genre": "Games",
+   "term": "sewing pattern"
+  },
+  {
+   "id": 6738537088,
+   "name": "YarnPal - Crochet & Patterns",
+   "dev": "PIXELCELL.LIMITED",
+   "ratings": 34963,
+   "rating": 4.71401,
+   "price": "Free",
+   "released": "2024-12-19",
+   "genre": "Lifestyle",
+   "term": "crochet"
+  },
+  {
+   "id": 6745416564,
+   "name": "Loopsy - Crochet & Knitting",
+   "dev": "Springtown Labs Inc.",
+   "ratings": 17106,
+   "rating": 4.75248,
+   "price": "Free",
+   "released": "2025-05-23",
+   "genre": "Lifestyle",
+   "term": "crochet"
+  },
+  {
+   "id": 6754315885,
+   "name": "Sewpal: Sewing Pattern & Guide",
+   "dev": "PIXELCELL.LIMITED",
+   "ratings": 13026,
+   "rating": 4.77614,
+   "price": "Free",
+   "released": "2025-11-03",
+   "genre": "Reference",
+   "term": "sewing pattern"
+  },
+  {
+   "id": 1058142783,
+   "name": "knitCompanion knitting & more",
+   "dev": "Create2Thrive Inc.",
+   "ratings": 6913,
+   "rating": 4.83133,
+   "price": "Free",
+   "released": "2018-03-11",
+   "genre": "Lifestyle",
+   "term": "knitting"
+  },
+  {
+   "id": 6752294439,
+   "name": "LoopCraft: Crochet & Knitting",
+   "dev": "Scala technology limited",
+   "ratings": 5548,
+   "rating": 4.69845,
+   "price": "Free",
+   "released": "2025-10-21",
+   "genre": "Lifestyle",
+   "term": "crochet"
+  },
+  {
+   "id": 1572271760,
+   "name": "kntd:discover - Ravelry Aide",
+   "dev": "Sam Aitch Ltd",
+   "ratings": 5246,
+   "rating": 4.78573,
+   "price": "Free",
+   "released": "2021-08-10",
+   "genre": "Lifestyle",
+   "term": "knitting"
+  },
+  {
+   "id": 1342608792,
+   "name": "My Row Counter, Knit & Crochet",
+   "dev": "AnnapurnApp Technologies UG haftungsbeschrankt",
+   "ratings": 3949,
+   "rating": 4.83717,
+   "price": "Free",
+   "released": "2018-02-01",
+   "genre": "Entertainment",
+   "term": "crochet"
+  }
+ ],
+ "56": [
+  {
+   "id": 311035142,
+   "name": "TripIt: Travel Planner",
+   "dev": "TripIt",
+   "ratings": 313072,
+   "rating": 4.84126,
+   "price": "Free",
+   "released": "2009-04-10",
+   "genre": "Travel",
+   "term": "group trip planner"
+  },
+  {
+   "id": 944060491,
+   "name": "Roadtrippers - Trip Planner",
+   "dev": "Roadtrippers",
+   "ratings": 61565,
+   "rating": 4.61205,
+   "price": "Free",
+   "released": "2014-11-25",
+   "genre": "Travel",
+   "term": "group trip planner"
+  },
+  {
+   "id": 1212818451,
+   "name": "Tiqets - Museums & Attractions",
+   "dev": "Tiqets International BV",
+   "ratings": 36477,
+   "rating": 4.77016,
+   "price": "Free",
+   "released": "2017-03-22",
+   "genre": "Travel",
+   "term": "group trip planner"
+  },
+  {
+   "id": 1476732439,
+   "name": "Wanderlog - Travel Planner",
+   "dev": "Vacation and Travel Planner App LLC",
+   "ratings": 36320,
+   "rating": 4.89926,
+   "price": "Free",
+   "released": "2019-08-22",
+   "genre": "Travel",
+   "term": "group trip planner"
+  },
+  {
+   "id": 458023433,
+   "name": "Splitwise",
+   "dev": "Splitwise, Inc.",
+   "ratings": 29483,
+   "rating": 4.01635,
+   "price": "Free",
+   "released": "2011-08-24",
+   "genre": "Finance",
+   "term": "split expenses"
+  },
+  {
+   "id": 349866256,
+   "name": "tricount: Split & Settle Bills",
+   "dev": "Tricount",
+   "ratings": 7620,
+   "rating": 4.87899,
+   "price": "Free",
+   "released": "2010-02-01",
+   "genre": "Finance",
+   "term": "split expenses"
+  },
+  {
+   "id": 1429967544,
+   "name": "Tripsy: Travel Planner",
+   "dev": "Tripsy LLC",
+   "ratings": 5720,
+   "rating": 4.65909,
+   "price": "Free",
+   "released": "2018-10-26",
+   "genre": "Travel",
+   "term": "group trip planner"
+  },
+  {
+   "id": 991473495,
+   "name": "Splid – Split group bills",
+   "dev": "Nicolas Jersch",
+   "ratings": 4214,
+   "rating": 4.91457,
+   "price": "Free",
+   "released": "2016-05-14",
+   "genre": "Finance",
+   "term": "split expenses"
+  }
+ ],
+ "57": [
+  {
+   "id": 487922291,
+   "name": "Eventbrite",
+   "dev": "Eventbrite",
+   "ratings": 1839573,
+   "rating": 4.89631,
+   "price": "Free",
+   "released": "2011-12-18",
+   "genre": "Entertainment",
+   "term": "meetup"
+  },
+  {
+   "id": 930441707,
+   "name": "Bumble Dating App: Meet & Date",
+   "dev": "Bumble Holding Limited",
+   "ratings": 1771046,
+   "rating": 4.31672,
+   "price": "Free",
+   "released": "2014-11-19",
+   "genre": "Lifestyle",
+   "term": "meetup"
+  },
+  {
+   "id": 547702041,
+   "name": "Tinder Dating App: Date & Chat",
+   "dev": "Tinder LLC",
+   "ratings": 1758935,
+   "rating": 4.20017,
+   "price": "Free",
+   "released": "2012-08-03",
+   "genre": "Lifestyle",
+   "term": "meetup"
+  },
+  {
+   "id": 355833469,
+   "name": "Goodreads: Book Tracker & More",
+   "dev": "Goodreads",
+   "ratings": 762177,
+   "rating": 4.81562,
+   "price": "Free",
+   "released": "2010-02-16",
+   "genre": "Book",
+   "term": "book club"
+  },
+  {
+   "id": 387771637,
+   "name": "Nike Run Club: Running Coach",
+   "dev": "Nike, Inc",
+   "ratings": 420412,
+   "rating": 4.77181,
+   "price": "Free",
+   "released": "2010-09-06",
+   "genre": "Health & Fitness",
+   "term": "run club"
+  },
+  {
+   "id": 300235330,
+   "name": "ASICS Runkeeper—Run Tracker",
+   "dev": "ASICS Runner App, Inc.",
+   "ratings": 381373,
+   "rating": 4.82496,
+   "price": "Free",
+   "released": "2009-01-14",
+   "genre": "Health & Fitness",
+   "term": "run club"
+  },
+  {
+   "id": 426826309,
+   "name": "Strava: Run, Bike, Walk",
+   "dev": "Strava, Inc.",
+   "ratings": 380681,
+   "rating": 4.81194,
+   "price": "Free",
+   "released": "2011-03-24",
+   "genre": "Health & Fitness",
+   "term": "run club"
+  },
+  {
+   "id": 1038653883,
+   "name": "Yubo: Chat Meet & Make Friends",
+   "dev": "Twelve APP",
+   "ratings": 374769,
+   "rating": 4.51827,
+   "price": "Free",
+   "released": "2015-10-12",
+   "genre": "Social Networking",
+   "term": "meetup"
+  }
+ ],
+ "58": [
+  {
+   "id": 1242321076,
+   "name": "Playtomic - Padel & pickleball",
+   "dev": "Playtomic S.L.",
+   "ratings": 14164,
+   "rating": 4.84609,
+   "price": "Free",
+   "released": "2017-11-02",
+   "genre": "Sports",
+   "term": "padel"
+  },
+  {
+   "id": 6448714446,
+   "name": "Pickleheads - Play Pickleball",
+   "dev": "Dink Technologies, Inc.",
+   "ratings": 11211,
+   "rating": 4.86995,
+   "price": "Free",
+   "released": "2023-09-05",
+   "genre": "Sports",
+   "term": "pickleball"
+  },
+  {
+   "id": 1101253705,
+   "name": "TeamReach – Your Team App",
+   "dev": "TeamReach",
+   "ratings": 7079,
+   "rating": 4.62721,
+   "price": "Free",
+   "released": "2016-04-25",
+   "genre": "Sports",
+   "term": "pickleball"
+  },
+  {
+   "id": 989461317,
+   "name": "SwingVision: Tennis Pickleball",
+   "dev": "SwingVision, Inc.",
+   "ratings": 4997,
+   "rating": 4.70702,
+   "price": "Free",
+   "released": "2016-10-18",
+   "genre": "Sports",
+   "term": "pickleball"
+  },
+  {
+   "id": 1567932355,
+   "name": "DUPR",
+   "dev": "DUPR LLC",
+   "ratings": 4100,
+   "rating": 4.02439,
+   "price": "Free",
+   "released": "2021-05-18",
+   "genre": "Sports",
+   "term": "pickleball"
+  },
+  {
+   "id": 1262785848,
+   "name": "Pickleball+",
+   "dev": "Kyle Garrett Hurst",
+   "ratings": 3065,
+   "rating": 4.71778,
+   "price": "Free",
+   "released": "2017-07-24",
+   "genre": "Sports",
+   "term": "pickleball"
+  },
+  {
+   "id": 6502829514,
+   "name": "Pickleball Tracker: Padelio",
+   "dev": "Marcos Sabaris",
+   "ratings": 787,
+   "rating": 4.7446,
+   "price": "Free",
+   "released": "2024-07-28",
+   "genre": "Sports",
+   "term": "padel"
+  },
+  {
+   "id": 6504236153,
+   "name": "Premier Padel",
+   "dev": "Yellow Panther Ltd",
+   "ratings": 493,
+   "rating": 4.84381,
+   "price": "Free",
+   "released": "2024-06-21",
+   "genre": "Sports",
+   "term": "padel"
+  }
+ ],
+ "59": [
+  {
+   "id": 640360962,
+   "name": "Nextdoor: Neighborhood Network",
+   "dev": "Nextdoor",
+   "ratings": 2174846,
+   "rating": 4.70784,
+   "price": "Free",
+   "released": "2013-05-23",
+   "genre": "News",
+   "term": "neighbors"
+  },
+  {
+   "id": 926252661,
+   "name": "Ring - Always Home",
+   "dev": "Ring.com",
+   "ratings": 1900009,
+   "rating": 4.72403,
+   "price": "Free",
+   "released": "2014-11-19",
+   "genre": "Lifestyle",
+   "term": "neighbors"
+  },
+  {
+   "id": 336698281,
+   "name": "Realtor.com Real Estate & Rent",
+   "dev": "Move, Inc.",
+   "ratings": 1088553,
+   "rating": 4.78894,
+   "price": "Free",
+   "released": "2010-01-11",
+   "genre": "Lifestyle",
+   "term": "HOA"
+  },
+  {
+   "id": 1039889567,
+   "name": "Citizen: Safety & Live Video",
+   "dev": "sp0n, Inc.",
+   "ratings": 525424,
+   "rating": 4.72295,
+   "price": "Free",
+   "released": "2016-02-24",
+   "genre": "News",
+   "term": "neighbors"
+  },
+  {
+   "id": 1218902777,
+   "name": "Neighbors by Ring",
+   "dev": "Ring.com",
+   "ratings": 304913,
+   "rating": 4.78301,
+   "price": "Free",
+   "released": "2018-05-11",
+   "genre": "News",
+   "term": "neighbors"
+  },
+  {
+   "id": 386981161,
+   "name": "Homes And Rentals",
+   "dev": "Houston Association of Realtors®",
+   "ratings": 192251,
+   "rating": 4.84027,
+   "price": "Free",
+   "released": "2010-10-11",
+   "genre": "Lifestyle",
+   "term": "HOA"
+  },
+  {
+   "id": 1386358600,
+   "name": "Hello Neighbor",
+   "dev": "tinyBuild LLC",
+   "ratings": 135136,
+   "rating": 3.96106,
+   "price": "Free",
+   "released": "2018-08-05",
+   "genre": "Games",
+   "term": "neighbors"
+  },
+  {
+   "id": 973482525,
+   "name": "Blossom Blast Saga",
+   "dev": "King",
+   "ratings": 32674,
+   "rating": 4.63662,
+   "price": "Free",
+   "released": "2015-11-04",
+   "genre": "Games",
+   "term": "HOA"
+  }
+ ],
+ "60": [
+  {
+   "id": 1159846171,
+   "name": "Virtual Families 3",
+   "dev": "LDW Software, LLC",
+   "ratings": 112126,
+   "rating": 4.7765,
+   "price": "Free",
+   "released": "2020-09-28",
+   "genre": "Games",
+   "term": "family stories"
+  },
+  {
+   "id": 1001780528,
+   "name": "Stick War: Legacy",
+   "dev": "Max Games Studios",
+   "ratings": 86410,
+   "rating": 4.82768,
+   "price": "Free",
+   "released": "2016-03-10",
+   "genre": "Games",
+   "term": "legacy"
+  },
+  {
+   "id": 885970971,
+   "name": "FamilySearch Memories",
+   "dev": "FamilySearch International",
+   "ratings": 19423,
+   "rating": 4.80775,
+   "price": "Free",
+   "released": "2014-07-15",
+   "genre": "Reference",
+   "term": "family stories"
+  },
+  {
+   "id": 6752324163,
+   "name": "Tap Hexa: Family Story Puzzle",
+   "dev": "Airoclip pvt ltd",
+   "ratings": 12695,
+   "rating": 4.92966,
+   "price": "Free",
+   "released": "2025-09-18",
+   "genre": "Games",
+   "term": "family stories"
+  },
+  {
+   "id": 1481222315,
+   "name": "Storyngton Hall: Match 3 games",
+   "dev": "BIT.GAMES PBL",
+   "ratings": 11120,
+   "rating": 4.66394,
+   "price": "Free",
+   "released": "2020-08-28",
+   "genre": "Games",
+   "term": "family stories"
+  },
+  {
+   "id": 1472532639,
+   "name": "Legacy First National Bank",
+   "dev": "First National Bank SD-MN",
+   "ratings": 10982,
+   "rating": 4.78419,
+   "price": "Free",
+   "released": "2019-07-28",
+   "genre": "Finance",
+   "term": "legacy"
+  },
+  {
+   "id": 1226066877,
+   "name": "Legacy NYRA Bets",
+   "dev": "The New York Racing Association Inc",
+   "ratings": 10411,
+   "rating": 4.72375,
+   "price": "Free",
+   "released": "2017-11-22",
+   "genre": "Sports",
+   "term": "legacy"
+  },
+  {
+   "id": 1291898086,
+   "name": "Toggl Track (Legacy)",
+   "dev": "Toggl OÜ",
+   "ratings": 9620,
+   "rating": 4.77349,
+   "price": "Free",
+   "released": "2017-12-09",
+   "genre": "Business",
+   "term": "legacy"
+  }
+ ],
+ "61": [
+  {
+   "id": 349554263,
+   "name": "Ancestry: Family History & DNA",
+   "dev": "Ancestry.com",
+   "ratings": 660674,
+   "rating": 4.76665,
+   "price": "Free",
+   "released": "2010-01-19",
+   "genre": "Reference",
+   "term": "family tree"
+  },
+  {
+   "id": 885982973,
+   "name": "FamilySearch Tree",
+   "dev": "FamilySearch International",
+   "ratings": 506565,
+   "rating": 4.83434,
+   "price": "Free",
+   "released": "2014-07-15",
+   "genre": "Reference",
+   "term": "family tree"
+  },
+  {
+   "id": 1470373330,
+   "name": "Remini - AI Photo Enhancer",
+   "dev": "BENDING SPOONS OPERATIONS SPA",
+   "ratings": 359067,
+   "rating": 4.60806,
+   "price": "Free",
+   "released": "2019-08-01",
+   "genre": "Photo & Video",
+   "term": "old photo"
+  },
+  {
+   "id": 1422471180,
+   "name": "Dazz Cam - Vintage Camera",
+   "dev": "DAZZ PTE. LTD.",
+   "ratings": 117592,
+   "rating": 4.75031,
+   "price": "Free",
+   "released": "2018-08-17",
+   "genre": "Photo & Video",
+   "term": "old photo"
+  },
+  {
+   "id": 1037784828,
+   "name": "Photo Scan App by Photomyne",
+   "dev": "Photomyne LTD",
+   "ratings": 97271,
+   "rating": 4.69973,
+   "price": "Free",
+   "released": "2015-10-10",
+   "genre": "Photo & Video",
+   "term": "old photo"
+  },
+  {
+   "id": 1596089614,
+   "name": "PhotoApp - AI Photo Enhancer",
+   "dev": "SCALEUP YAZILIM HIZMETLERI",
+   "ratings": 86558,
+   "rating": 4.63732,
+   "price": "Free",
+   "released": "2022-03-02",
+   "genre": "Photo & Video",
+   "term": "photo restore"
+  },
+  {
+   "id": 477971748,
+   "name": "MyHeritage: Family Tree & DNA",
+   "dev": "MyHeritage.com",
+   "ratings": 66561,
+   "rating": 4.85992,
+   "price": "Free",
+   "released": "2011-11-12",
+   "genre": "Reference",
+   "term": "family tree"
+  },
+  {
+   "id": 1393061654,
+   "name": "Tezza: Aesthetic Photo Editor",
+   "dev": "Tezza App LLC",
+   "ratings": 47782,
+   "rating": 4.74181,
+   "price": "Free",
+   "released": "2018-07-07",
+   "genre": "Photo & Video",
+   "term": "old photo"
+  }
+ ],
+ "62": [
+  {
+   "id": 457941553,
+   "name": "The Knot: Wedding Planner App",
+   "dev": "The Knot Inc.",
+   "ratings": 223576,
+   "rating": 4.8553,
+   "price": "Free",
+   "released": "2011-09-01",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  },
+  {
+   "id": 852691916,
+   "name": "Zola - Wedding Planner",
+   "dev": "Zola, Inc.",
+   "ratings": 98976,
+   "rating": 4.91296,
+   "price": "Free",
+   "released": "2014-04-17",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  },
+  {
+   "id": 316565575,
+   "name": "Wedding Planner by WeddingWire",
+   "dev": "WeddingWire",
+   "ratings": 45933,
+   "rating": 4.83247,
+   "price": "Free",
+   "released": "2009-05-28",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  },
+  {
+   "id": 1130649335,
+   "name": "Azazie:Shop Bridesmaid Dresses",
+   "dev": "Azazie Inc.",
+   "ratings": 35528,
+   "rating": 4.8761,
+   "price": "Free",
+   "released": "2016-09-02",
+   "genre": "Shopping",
+   "term": "wedding planner"
+  },
+  {
+   "id": 1431698004,
+   "name": "Dream Wedding Planner Game",
+   "dev": "Coco Play",
+   "ratings": 28388,
+   "rating": 4.58338,
+   "price": "Free",
+   "released": "2018-12-14",
+   "genre": "Games",
+   "term": "wedding planner"
+  },
+  {
+   "id": 994411720,
+   "name": "Joy Wedding Planner & Website",
+   "dev": "Joy Life, Inc",
+   "ratings": 8729,
+   "rating": 4.80443,
+   "price": "Free",
+   "released": "2015-10-10",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  },
+  {
+   "id": 1236966921,
+   "name": "Wedding Planner ‎",
+   "dev": "Sevenlogics, Inc.",
+   "ratings": 3662,
+   "rating": 4.51283,
+   "price": "Free",
+   "released": "2017-07-10",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  },
+  {
+   "id": 1200853011,
+   "name": "Bridebook - #1 Wedding Planner",
+   "dev": "Bridebook",
+   "ratings": 229,
+   "rating": 4.70306,
+   "price": "Free",
+   "released": "2019-06-15",
+   "genre": "Lifestyle",
+   "term": "wedding planner"
+  }
+ ],
+ "63": [
+  {
+   "id": 409609608,
+   "name": "My Love - Relationship Counter",
+   "dev": "Bjoern Bartels",
+   "ratings": 1073899,
+   "rating": 4.82571,
+   "price": "Free",
+   "released": "2010-12-19",
+   "genre": "Lifestyle",
+   "term": "couples app"
+  },
+  {
+   "id": 1600525061,
+   "name": "Locket Widget",
+   "dev": "Locket Labs, Inc.",
+   "ratings": 589530,
+   "rating": 4.76164,
+   "price": "Free",
+   "released": "2021-12-30",
+   "genre": "Social Networking",
+   "term": "long distance relationship"
+  },
+  {
+   "id": 1641107226,
+   "name": "Widgetable: Besties & Couples",
+   "dev": "Widgetable,Inc.",
+   "ratings": 388410,
+   "rating": 4.91742,
+   "price": "Free",
+   "released": "2022-08-27",
+   "genre": "Social Networking",
+   "term": "couples app"
+  },
+  {
+   "id": 1469609343,
+   "name": "Paired: Couples & Relationship",
+   "dev": "Better Half Limited",
+   "ratings": 210594,
+   "rating": 4.72463,
+   "price": "Free",
+   "released": "2020-09-17",
+   "genre": "Lifestyle",
+   "term": "couples app"
+  },
+  {
+   "id": 1573360122,
+   "name": "Evergreen: Relationship Growth",
+   "dev": "Evergreen Technologies",
+   "ratings": 54776,
+   "rating": 4.8201,
+   "price": "Free",
+   "released": "2021-07-14",
+   "genre": "Health & Fitness",
+   "term": "couples app"
+  },
+  {
+   "id": 6463766369,
+   "name": "Cozy Couples: Relationship App",
+   "dev": "Clarity Applications",
+   "ratings": 46968,
+   "rating": 4.83893,
+   "price": "Free",
+   "released": "2023-10-10",
+   "genre": "Lifestyle",
+   "term": "couples app"
+  },
+  {
+   "id": 1624758651,
+   "name": "Couple Joy - Relationship App",
+   "dev": "HEARTBIT S.R.L.",
+   "ratings": 40088,
+   "rating": 4.85437,
+   "price": "Free",
+   "released": "2022-05-28",
+   "genre": "Lifestyle",
+   "term": "couples app"
+  },
+  {
+   "id": 1507907556,
+   "name": "Agapé: Feel Close When Apart",
+   "dev": "Agape Wellness Inc",
+   "ratings": 26254,
+   "rating": 4.80037,
+   "price": "Free",
+   "released": "2020-10-06",
+   "genre": "Health & Fitness",
+   "term": "long distance relationship"
+  }
+ ],
+ "64": [
+  {
+   "id": 1331217302,
+   "name": "Carolina Alumni",
+   "dev": "General Alumni Association of The University of North Carolina",
+   "ratings": 32,
+   "rating": 3.125,
+   "price": "Free",
+   "released": "2018-03-06",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 1634008031,
+   "name": "Alumni Network",
+   "dev": "EnterpriseJungle, Inc",
+   "ratings": 7,
+   "rating": 4.42856,
+   "price": "Free",
+   "released": "2022-09-21",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 1156214183,
+   "name": "K-State Alumni Link for Life",
+   "dev": "KANSAS STATE UNIVERSITY ALUMNI ASSOCIATION",
+   "ratings": 7,
+   "rating": 4.57143,
+   "price": "Free",
+   "released": "2016-09-29",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 924184952,
+   "name": "OSU Alumni",
+   "dev": "Oklahoma State University Alumni Association",
+   "ratings": 6,
+   "rating": 4.33333,
+   "price": "Free",
+   "released": "2014-10-15",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 6746128274,
+   "name": "AlumniAces",
+   "dev": "EnterpriseJungle, Inc",
+   "ratings": 5,
+   "rating": 5,
+   "price": "Free",
+   "released": "2025-07-04",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 1264714149,
+   "name": "Texas Tech Alumni Association",
+   "dev": "The Texas Tech Alumni Association",
+   "ratings": 5,
+   "rating": 5,
+   "price": "Free",
+   "released": "2017-10-16",
+   "genre": "Business",
+   "term": "alumni"
+  },
+  {
+   "id": 6474238004,
+   "name": "UKH Alumni Association",
+   "dev": "UNIVERSITY OF KURDISTAN",
+   "ratings": 4,
+   "rating": 4.75,
+   "price": "Free",
+   "released": "2024-01-17",
+   "genre": "Education",
+   "term": "alumni"
+  },
+  {
+   "id": 1612731329,
+   "name": "GU Alumni Events",
+   "dev": "Georgetown University (UIS)",
+   "ratings": 4,
+   "rating": 5,
+   "price": "Free",
+   "released": "2022-03-04",
+   "genre": "Business",
+   "term": "alumni"
+  }
+ ],
+ "65": [
+  {
+   "id": 1410085496,
+   "name": "Furnished Finder",
+   "dev": "Pioneer Properties, Inc.",
+   "ratings": 30910,
+   "rating": 4.56855,
+   "price": "Free",
+   "released": "2019-02-16",
+   "genre": "Travel",
+   "term": "digital nomad"
+  },
+  {
+   "id": 6736921913,
+   "name": "nomadtable: travel friends",
+   "dev": "Nomadtable Inc.",
+   "ratings": 20640,
+   "rating": 4.68876,
+   "price": "Free",
+   "released": "2025-03-19",
+   "genre": "Travel",
+   "term": "digital nomad"
+  },
+  {
+   "id": 1521602300,
+   "name": "Nomad eSIM: Prepaid Data Plan",
+   "dev": "LotusFlare",
+   "ratings": 17256,
+   "rating": 4.78749,
+   "price": "Free",
+   "released": "2020-12-15",
+   "genre": "Travel",
+   "term": "digital nomad"
+  },
+  {
+   "id": 1255784969,
+   "name": "FastPay Wallet",
+   "dev": "FastPay Ltd.",
+   "ratings": 5528,
+   "rating": 4.26844,
+   "price": "Free",
+   "released": "2017-07-07",
+   "genre": "Finance",
+   "term": "digital nomad"
+  },
+  {
+   "id": 1668665226,
+   "name": "Punta: Meet Digital Nomads",
+   "dev": "Innovation Anywhere OÜ",
+   "ratings": 20,
+   "rating": 4.3,
+   "price": "Free",
+   "released": "2023-03-13",
+   "genre": "Travel",
+   "term": "digital nomad"
+  },
+  {
+   "id": 1495168015,
+   "name": "NomadWay",
+   "dev": "NOMADWAY OU",
+   "ratings": 13,
+   "rating": 4.69231,
+   "price": "Free",
+   "released": "2023-10-13",
+   "genre": "Lifestyle",
+   "term": "digital nomad"
+  },
+  {
+   "id": 1526454312,
+   "name": "Nomad Soulmates",
+   "dev": "Nomad Soulmates Ltd",
+   "ratings": 8,
+   "rating": 1.875,
+   "price": "Free",
+   "released": "2022-02-10",
+   "genre": "Social Networking",
+   "term": "digital nomad"
+  },
+  {
+   "id": 6450435160,
+   "name": "NOMAD NATION",
+   "dev": "NOMAD Development, Inc.",
+   "ratings": 7,
+   "rating": 5,
+   "price": "Free",
+   "released": "2023-11-12",
+   "genre": "Lifestyle",
+   "term": "digital nomad"
+  }
+ ],
+ "66": [
+  {
+   "id": 6742465779,
+   "name": "Amex Travel",
+   "dev": "American Express",
+   "ratings": 53635,
+   "rating": 4.90465,
+   "price": "Free",
+   "released": "2025-09-18",
+   "genre": "Travel",
+   "term": "accessible travel"
+  },
+  {
+   "id": 648668184,
+   "name": "Happy Wheels",
+   "dev": "Jim Bonacci",
+   "ratings": 40823,
+   "rating": 4.4249,
+   "price": "Free",
+   "released": "2015-08-19",
+   "genre": "Games",
+   "term": "wheelchair"
+  },
+  {
+   "id": 1063191689,
+   "name": "Faily Brakes",
+   "dev": "Spunge Games Pty Ltd",
+   "ratings": 22815,
+   "rating": 4.70191,
+   "price": "Free",
+   "released": "2016-02-24",
+   "genre": "Games",
+   "term": "wheelchair"
+  },
+  {
+   "id": 1582520503,
+   "name": "UZURV: Book your next ride",
+   "dev": "UZURV HOLDINGS, INC",
+   "ratings": 1959,
+   "rating": 4.81215,
+   "price": "Free",
+   "released": "2021-09-13",
+   "genre": "Travel",
+   "term": "accessible travel"
+  },
+  {
+   "id": 1609250295,
+   "name": "Wheel With Me Adapt Fit",
+   "dev": "Breakthrough Apps",
+   "ratings": 408,
+   "rating": 4.85539,
+   "price": "Free",
+   "released": "2022-04-19",
+   "genre": "Health & Fitness",
+   "term": "wheelchair"
+  },
+  {
+   "id": 1535814561,
+   "name": "Roll Mobility",
+   "dev": "Roll App Inc.",
+   "ratings": 123,
+   "rating": 4.25203,
+   "price": "Free",
+   "released": "2021-01-01",
+   "genre": "Lifestyle",
+   "term": "wheelchair"
+  },
+  {
+   "id": 1351654177,
+   "name": "MyPermobil",
+   "dev": "Permobil, Inc.",
+   "ratings": 74,
+   "rating": 2.60811,
+   "price": "Free",
+   "released": "2018-03-02",
+   "genre": "Medical",
+   "term": "wheelchair"
+  },
+  {
+   "id": 6759412339,
+   "name": "COTA Mainstream",
+   "dev": "Spare Labs Inc.",
+   "ratings": 57,
+   "rating": 4.82456,
+   "price": "Free",
+   "released": "2026-02-27",
+   "genre": "Travel",
+   "term": "accessible travel"
+  }
+ ],
+ "67": [
+  {
+   "id": 1440487780,
+   "name": "Recreation.gov",
+   "dev": "Booz Allen Hamilton Inc.",
+   "ratings": 393352,
+   "rating": 4.87847,
+   "price": "Free",
+   "released": "2019-03-29",
+   "genre": "Travel",
+   "term": "RV camping"
+  },
+  {
+   "id": 311035142,
+   "name": "TripIt: Travel Planner",
+   "dev": "TripIt",
+   "ratings": 313072,
+   "rating": 4.84126,
+   "price": "Free",
+   "released": "2009-04-10",
+   "genre": "Travel",
+   "term": "road trip planner"
+  },
+  {
+   "id": 421788217,
+   "name": "PlugShare: Charging Stations",
+   "dev": "Recargo, Inc.",
+   "ratings": 143977,
+   "rating": 4.70943,
+   "price": "Free",
+   "released": "2011-03-07",
+   "genre": "Navigation",
+   "term": "EV charging"
+  },
+  {
+   "id": 582007913,
+   "name": "Tesla",
+   "dev": "Tesla, Inc.",
+   "ratings": 129145,
+   "rating": 4.71448,
+   "price": "Free",
+   "released": "2012-12-10",
+   "genre": "Lifestyle",
+   "term": "EV charging"
+  },
+  {
+   "id": 1187626329,
+   "name": "The Dyrt: RV & Free Camping",
+   "dev": "The Dyrt",
+   "ratings": 124607,
+   "rating": 4.77885,
+   "price": "Free",
+   "released": "2017-03-11",
+   "genre": "Travel",
+   "term": "RV camping"
+  },
+  {
+   "id": 1410234033,
+   "name": "Shell: Fuel, Charge & More",
+   "dev": "Shell Information Technology International B.V.",
+   "ratings": 87984,
+   "rating": 4.76582,
+   "price": "Free",
+   "released": "2018-09-04",
+   "genre": "Navigation",
+   "term": "EV charging"
+  },
+  {
+   "id": 1321631420,
+   "name": "Harvest Hosts - RV Camping",
+   "dev": "Harvest Hosts",
+   "ratings": 67588,
+   "rating": 4.86506,
+   "price": "Free",
+   "released": "2017-12-13",
+   "genre": "Travel",
+   "term": "RV camping"
+  },
+  {
+   "id": 944060491,
+   "name": "Roadtrippers - Trip Planner",
+   "dev": "Roadtrippers",
+   "ratings": 61565,
+   "rating": 4.61205,
+   "price": "Free",
+   "released": "2014-11-25",
+   "genre": "Travel",
+   "term": "road trip planner"
+  }
+ ]
+}

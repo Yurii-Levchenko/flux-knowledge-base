@@ -1,0 +1,2739 @@
+{
+  "data": [
+    {
+      "app_slug": "app-holodex-tcg-scan-collect-id6747442689",
+      "title": "HoloDex - TCG Scan & Collect",
+      "url": "https://apps.apple.com/us/app/holodex-tcg-scan-collect/id6747442689?uo=4",
+      "onboarding_images": [
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/00.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/01.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/02.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/03.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/04.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/05.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/06.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/07.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/08.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/09.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/10.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/11.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/12.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/13.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/14.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/15.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/16.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/17.jpg",
+        "https://storage.appkittie.com/onboardings/com.getholodex.app/18.jpg"
+      ],
+      "onboarding_image_designs": [
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/00.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Black",
+                "hex": "#121316",
+                "roles": [
+                  "screen background"
+                ]
+              },
+              {
+                "name": "Primary Blue",
+                "hex": "#389cf6",
+                "roles": [
+                  "accent title text",
+                  "primary CTA button fill",
+                  "legal links"
+                ]
+              },
+              {
+                "name": "Accent Yellow",
+                "hex": "#f5d130",
+                "roles": [
+                  "logo title text",
+                  "card graphic illustration"
+                ]
+              },
+              {
+                "name": "Secondary Button Slate",
+                "hex": "#252e3e",
+                "roles": [
+                  "secondary action button background"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "status bar icons",
+                  "tagline text"
+                ]
+              },
+              {
+                "name": "Muted Text Grey",
+                "hex": "#9fa6b2",
+                "roles": [
+                  "legal disclaimer body text"
+                ]
+              },
+              {
+                "name": "Scan Graphic Cyan",
+                "hex": "#4098d7",
+                "roles": [
+                  "card illustration center",
+                  "radial burst rays"
+                ]
+              },
+              {
+                "name": "Card Pink",
+                "hex": "#df3e73",
+                "roles": [
+                  "card graphic left illustration"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Brand Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 68,
+                "line_height_px": 76,
+                "weight": "800",
+                "letter_spacing_px": -1,
+                "color": "#389cf6"
+              },
+              {
+                "role": "Tagline",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 48,
+                "weight": "500",
+                "letter_spacing_px": -0.2,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Primary Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#121316"
+              },
+              {
+                "role": "Secondary Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#389cf6"
+              },
+              {
+                "role": "Footer Legal Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 28,
+                "line_height_px": 40,
+                "weight": "400",
+                "letter_spacing_px": 0,
+                "color": "#9fa6b2"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Hero Graphic",
+                "kind": "illustration",
+                "layout": "Centered horizontally in the upper-mid screen, roughly 600x600 px area",
+                "appearance": "Three overlapping colored rounded rectangle cards (magenta, sky blue, gold yellow) framed by rounded white viewfinder brackets, over a radial blue light burst effect",
+                "corner_radius_px": 32
+              },
+              {
+                "name": "Sign up Button",
+                "kind": "button",
+                "layout": "Full width spanning horizontally with ~64 px side margins, height ~110 px, positioned below the tagline",
+                "appearance": "Solid vibrant sky blue fill, centered dark label, rounded rectangle",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Log in Button",
+                "kind": "button",
+                "layout": "Full width with ~64 px side margins, height ~110 px, placed directly below Sign up with ~24 px gap",
+                "appearance": "Dark slate blue fill with light blue text, rounded rectangle",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Terms Disclaimer",
+                "kind": "text_block",
+                "layout": "Bottom-pinned with ~48 px bottom margin, centered text over 2 lines",
+                "appearance": "Muted grey caption text with blue underlined or tinted active link words",
+                "corner_radius_px": null
+              }
+            ],
+            "layout": "Single-column vertically stacked launch screen with heavy top visual focus, centered brand messaging, and dual CTA buttons anchored near the bottom above a legal disclaimer.",
+            "notes": "Typography appears consistent with Apple system typography (SF Pro / SF Pro Rounded). Alternative fonts could be Inter or Roboto."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/01.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Backdrop Dimmer",
+                "hex": "#000000",
+                "roles": [
+                  "dimmed background overlay"
+                ]
+              },
+              {
+                "name": "Card Surface White",
+                "hex": "#ffffff",
+                "roles": [
+                  "modal dialog container background"
+                ]
+              },
+              {
+                "name": "Title Black",
+                "hex": "#1b1c1e",
+                "roles": [
+                  "headline typography",
+                  "list item title typography"
+                ]
+              },
+              {
+                "name": "Primary Action Blue",
+                "hex": "#1976d2",
+                "roles": [
+                  "consent button background",
+                  "manage options button background"
+                ]
+              },
+              {
+                "name": "Body Text Grey",
+                "hex": "#565b63",
+                "roles": [
+                  "explanatory paragraph text",
+                  "disclaimer text"
+                ]
+              },
+              {
+                "name": "Icon Tint Blue",
+                "hex": "#2a7ae4",
+                "roles": [
+                  "feature icon strokes"
+                ]
+              },
+              {
+                "name": "Icon Bubble Tint",
+                "hex": "#e7f0fc",
+                "roles": [
+                  "circular icon background fill"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Dialog Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 44,
+                "line_height_px": 54,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#1b1c1e"
+              },
+              {
+                "role": "Feature Item Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 32,
+                "line_height_px": 42,
+                "weight": "500",
+                "letter_spacing_px": -0.2,
+                "color": "#1b1c1e"
+              },
+              {
+                "role": "Accordion Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 30,
+                "line_height_px": 38,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#1b1c1e"
+              },
+              {
+                "role": "Legal Body Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 28,
+                "line_height_px": 40,
+                "weight": "400",
+                "letter_spacing_px": 0,
+                "color": "#565b63"
+              },
+              {
+                "role": "Modal Action Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#ffffff"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Consent Dialog Container",
+                "kind": "modal_sheet",
+                "layout": "Centered floating card taking ~90% screen width, vertically centered, rounded corners",
+                "appearance": "Crisp white surface with subtle elevation/drop shadow against dark background",
+                "corner_radius_px": 36
+              },
+              {
+                "name": "App Icon Badge",
+                "kind": "icon_container",
+                "layout": "Centered horizontally near the top of the dialog card, ~160x160 px",
+                "appearance": "Dark rounded rectangle with HoloDex scanner graphic",
+                "corner_radius_px": 36
+              },
+              {
+                "name": "Feature List Rows",
+                "kind": "list_item",
+                "layout": "Vertical stack of 2 permission items with icon leading and description trailing",
+                "appearance": "Circular light blue icon badges with blue glyphs alongside dark text",
+                "corner_radius_px": 30
+              },
+              {
+                "name": "Consent Button",
+                "kind": "button",
+                "layout": "Full width inside modal padding, height ~100 px",
+                "appearance": "Bright solid blue rounded rectangle with white bold text",
+                "corner_radius_px": 50
+              },
+              {
+                "name": "Manage Options Button",
+                "kind": "button",
+                "layout": "Full width inside modal padding, height ~100 px, placed below Consent button",
+                "appearance": "Solid blue rounded rectangle matching the Consent button styling",
+                "corner_radius_px": 50
+              }
+            ],
+            "layout": "Centered overlay dialog presenting GDPR/CMP cookie consent details with scrollable/truncated legal explanation and paired pill-shaped action buttons at the base.",
+            "notes": "Standard CMP consent UI styled in an iOS system aesthetic."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/02.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Sheet Background Dark",
+                "hex": "#1b212f",
+                "roles": [
+                  "bottom sheet surface"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "headline text"
+                ]
+              },
+              {
+                "name": "Subtitle Grey",
+                "hex": "#929db2",
+                "roles": [
+                  "instructional subtitle text"
+                ]
+              },
+              {
+                "name": "Email Button Blue",
+                "hex": "#409df8",
+                "roles": [
+                  "primary action button background"
+                ]
+              },
+              {
+                "name": "Secondary Button Dark Blue",
+                "hex": "#273347",
+                "roles": [
+                  "federated login buttons background"
+                ]
+              },
+              {
+                "name": "Grab Handle Grey",
+                "hex": "#3d495d",
+                "roles": [
+                  "sheet drag indicator"
+                ]
+              },
+              {
+                "name": "Button Text Light Blue",
+                "hex": "#4ea4f9",
+                "roles": [
+                  "secondary buttons text label"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Modal Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 64,
+                "line_height_px": 72,
+                "weight": "800",
+                "letter_spacing_px": -0.8,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Modal Subtitle",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 30,
+                "line_height_px": 38,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#929db2"
+              },
+              {
+                "role": "Primary Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#121316"
+              },
+              {
+                "role": "Secondary Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#4ea4f9"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Drag Handle",
+                "kind": "handle",
+                "layout": "Centered horizontally at the top edge of the sheet, ~100x10 px",
+                "appearance": "Subtle rounded pill bar in muted slate",
+                "corner_radius_px": 5
+              },
+              {
+                "name": "Sign-up Bottom Sheet",
+                "kind": "bottom_sheet",
+                "layout": "Bottom anchored, covering the lower ~45% of the viewport, top corners rounded",
+                "appearance": "Deep navy slate surface with dark backdrop blur over the launch screen",
+                "corner_radius_px": 36
+              },
+              {
+                "name": "Continue with Email Button",
+                "kind": "button",
+                "layout": "Full width inside margins (~50 px margin), height ~110 px",
+                "appearance": "Solid sky blue fill, dark envelope icon and text centered",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Continue with Google Button",
+                "kind": "button",
+                "layout": "Full width inside margins, height ~110 px, ~20 px gap below email button",
+                "appearance": "Dark navy container, multi-color G logo leading, blue label text",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Continue with Apple Button",
+                "kind": "button",
+                "layout": "Full width inside margins, height ~110 px, ~20 px gap below Google button",
+                "appearance": "Dark navy container, blue Apple silhouette leading, blue label text",
+                "corner_radius_px": 24
+              }
+            ],
+            "layout": "Bottom sheet modal sliding up over the darkened welcome screen, containing a drag handle, title, description, and three full-width auth provider buttons.",
+            "notes": "Follows standard iOS bottom sheet presentation pattern."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/03.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "System Sheet Translucent Light",
+                "hex": "#e8eaed",
+                "roles": [
+                  "modal sheet frosted glass background"
+                ]
+              },
+              {
+                "name": "System Text Black",
+                "hex": "#000000",
+                "roles": [
+                  "primary header",
+                  "form labels",
+                  "account titles"
+                ]
+              },
+              {
+                "name": "System Secondary Grey",
+                "hex": "#6c6c70",
+                "roles": [
+                  "subtitles",
+                  "field values",
+                  "close button fill"
+                ]
+              },
+              {
+                "name": "Field Background Off-white",
+                "hex": "#d3d5da",
+                "roles": [
+                  "form input row backgrounds"
+                ]
+              },
+              {
+                "name": "Selected Row Tint",
+                "hex": "#b3d8fd",
+                "roles": [
+                  "selected option background highlight"
+                ]
+              },
+              {
+                "name": "System Apple Blue",
+                "hex": "#007aff",
+                "roles": [
+                  "check icon fill",
+                  "primary action button fill"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "primary CTA label text"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "System Modal Header",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 44,
+                "line_height_px": 52,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#000000"
+              },
+              {
+                "role": "Explanation Body",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 30,
+                "line_height_px": 40,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#000000"
+              },
+              {
+                "role": "List Row Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 32,
+                "line_height_px": 40,
+                "weight": "600",
+                "letter_spacing_px": -0.2,
+                "color": "#000000"
+              },
+              {
+                "role": "List Row Detail",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 26,
+                "line_height_px": 34,
+                "weight": "400",
+                "letter_spacing_px": 0,
+                "color": "#6c6c70"
+              },
+              {
+                "role": "Continue Button Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#ffffff"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Apple Sign-In Card",
+                "kind": "modal_sheet",
+                "layout": "Bottom anchored, rounded upper corners, height covering ~60% of display",
+                "appearance": "Native iOS blurred translucent background card with top close button",
+                "corner_radius_px": 40
+              },
+              {
+                "name": "Close Icon Button",
+                "kind": "icon_button",
+                "layout": "Top-right aligned within the sheet, ~60x60 px",
+                "appearance": "Circular translucent button with 'X' glyph",
+                "corner_radius_px": 30
+              },
+              {
+                "name": "App Icon & Info Row",
+                "kind": "list_item",
+                "layout": "Horizontal row with app icon leading and explanatory description text trailing",
+                "appearance": "Rounded app icon thumbnail with system text",
+                "corner_radius_px": 16
+              },
+              {
+                "name": "Name Input Card",
+                "kind": "input_group",
+                "layout": "Full width row, rounded rectangle container",
+                "appearance": "Slightly darkened inset rounded container with avatar icon, label, and clear icon",
+                "corner_radius_px": 22
+              },
+              {
+                "name": "Email Privacy Options Group",
+                "kind": "segmented_selection",
+                "layout": "Two stacked selectable rows with subtle horizontal divider",
+                "appearance": "Grouped table style with blue checkmark indicator on selected 'Hide My Email' row",
+                "corner_radius_px": 22
+              },
+              {
+                "name": "Continue with Passcode Button",
+                "kind": "button",
+                "layout": "Full width inside modal margins, height ~96 px, positioned near bottom",
+                "appearance": "Pill-shaped iOS system blue button with centered white text",
+                "corner_radius_px": 48
+              }
+            ],
+            "layout": "Standard iOS native AuthenticationServices bottom modal sheet with header, app identifier, credential selection group, and primary system button.",
+            "notes": "Native iOS system dialog for Sign in with Apple."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/04.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Screen Background Black",
+                "hex": "#111215",
+                "roles": [
+                  "overall onboarding screen background"
+                ]
+              },
+              {
+                "name": "Phone Frame Slate",
+                "hex": "#0e2a47",
+                "roles": [
+                  "phone mockup bezel border"
+                ]
+              },
+              {
+                "name": "App Background Dark Blue",
+                "hex": "#0a1320",
+                "roles": [
+                  "mockup app screen background"
+                ]
+              },
+              {
+                "name": "Card Popup Slate",
+                "hex": "#2a394f",
+                "roles": [
+                  "portfolio value tooltip popup",
+                  "percentage change badge background"
+                ]
+              },
+              {
+                "name": "Line Chart Blue",
+                "hex": "#1d6bc0",
+                "roles": [
+                  "trend graph stroke line"
+                ]
+              },
+              {
+                "name": "Green Stat Text",
+                "hex": "#34c759",
+                "roles": [
+                  "positive percentage return text"
+                ]
+              },
+              {
+                "name": "Primary CTA Sky Blue",
+                "hex": "#389df7",
+                "roles": [
+                  "active pagination dot",
+                  "next button background"
+                ]
+              },
+              {
+                "name": "Inactive Dot Slate",
+                "hex": "#2c384a",
+                "roles": [
+                  "inactive pagination indicator dots"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "slide title",
+                  "portfolio value text"
+                ]
+              },
+              {
+                "name": "Muted Description Grey",
+                "hex": "#8c94a2",
+                "roles": [
+                  "feature description subtitle"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Slide Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 56,
+                "line_height_px": 68,
+                "weight": "800",
+                "letter_spacing_px": -0.6,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Slide Description",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 46,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#8c94a2"
+              },
+              {
+                "role": "Mockup Stat Value",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 40,
+                "line_height_px": 48,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Next Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#111215"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top Logo",
+                "kind": "brand_header",
+                "layout": "Top centered below status bar, ~200 px wide",
+                "appearance": "Bicolored text logo ('Holo' in cyan, 'Dex' in yellow)",
+                "corner_radius_px": null
+              },
+              {
+                "name": "App Preview Mockup",
+                "kind": "device_mockup",
+                "layout": "Centered horizontally in the upper-mid screen, ~700x820 px",
+                "appearance": "Smartphone mockup showing portfolio tracking UI with an interactive line chart, value badge ($5,391.38), and positive ROI tag (+43.60%)",
+                "corner_radius_px": 48
+              },
+              {
+                "name": "Pagination Indicator",
+                "kind": "page_control",
+                "layout": "Centered horizontally between description and CTA button",
+                "appearance": "Four horizontal dots/pills, first item elongated and active sky blue, others dark circular pills",
+                "corner_radius_px": 10
+              },
+              {
+                "name": "Next Button",
+                "kind": "button",
+                "layout": "Full width with ~56 px side margins, height ~108 px, anchored near bottom",
+                "appearance": "Solid sky blue fill with rounded corners and dark bold text",
+                "corner_radius_px": 24
+              }
+            ],
+            "layout": "Onboarding walkthrough layout: Top brand logo, centered feature device mockup, bold headline, descriptive body copy, 4-step pagination indicator, and full-width bottom Next CTA.",
+            "notes": "Slide 1 of 4 in the app onboarding walkthrough sequence."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/05.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Screen Background Black",
+                "hex": "#111215",
+                "roles": [
+                  "screen background"
+                ]
+              },
+              {
+                "name": "Phone Bezel Slate",
+                "hex": "#0e2a47",
+                "roles": [
+                  "mockup frame border"
+                ]
+              },
+              {
+                "name": "Mockup Surface Dark",
+                "hex": "#0a1320",
+                "roles": [
+                  "mockup background"
+                ]
+              },
+              {
+                "name": "Scan Frame Cyan",
+                "hex": "#389df7",
+                "roles": [
+                  "camera viewfinder border",
+                  "scanning laser line"
+                ]
+              },
+              {
+                "name": "CTA Sky Blue",
+                "hex": "#389df7",
+                "roles": [
+                  "primary Next button background",
+                  "active pagination dot"
+                ]
+              },
+              {
+                "name": "Pro Badge Yellow",
+                "hex": "#f5c328",
+                "roles": [
+                  "Pro pill tag background"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "slide title",
+                  "mockup labels"
+                ]
+              },
+              {
+                "name": "Description Grey",
+                "hex": "#8c94a2",
+                "roles": [
+                  "feature description text"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Slide Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 56,
+                "line_height_px": 68,
+                "weight": "800",
+                "letter_spacing_px": -0.6,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Slide Description",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 46,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#8c94a2"
+              },
+              {
+                "role": "Next Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#111215"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top Logo",
+                "kind": "brand_header",
+                "layout": "Top centered below status bar",
+                "appearance": "HoloDex bi-color text logo",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Scanner Feature Mockup",
+                "kind": "device_mockup",
+                "layout": "Centered horizontally in the upper-mid section, ~700x820 px",
+                "appearance": "Phone mockup showing card scanning camera mode with cyan bounding box and horizontal scan line over a Furret Pokemon card",
+                "corner_radius_px": 48
+              },
+              {
+                "name": "Pagination Indicator",
+                "kind": "page_control",
+                "layout": "Centered horizontally below description, ~160 px wide",
+                "appearance": "Four pagination items, second dot active and extended horizontally in sky blue",
+                "corner_radius_px": 10
+              },
+              {
+                "name": "Next Button",
+                "kind": "button",
+                "layout": "Full width with ~56 px side margins, height ~108 px, anchored near bottom",
+                "appearance": "Solid sky blue fill with dark centered label",
+                "corner_radius_px": 24
+              }
+            ],
+            "layout": "Slide 2 in onboarding sequence following an identical visual template: brand header, device frame illustration, 2-line title, 2-line description, pagination bar, and fixed Next CTA.",
+            "notes": "Illustrates card scanning via computer vision functionality."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/06.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Screen Background Black",
+                "hex": "#111215",
+                "roles": [
+                  "screen background"
+                ]
+              },
+              {
+                "name": "Mockup Border Slate",
+                "hex": "#0e2a47",
+                "roles": [
+                  "mockup bezel"
+                ]
+              },
+              {
+                "name": "Card Slate Dark",
+                "hex": "#1c2b3d",
+                "roles": [
+                  "performance stats card overlay background"
+                ]
+              },
+              {
+                "name": "Chart Line Sky Blue",
+                "hex": "#2067ba",
+                "roles": [
+                  "trend graph area and outline"
+                ]
+              },
+              {
+                "name": "Indicator Sky Blue",
+                "hex": "#389df7",
+                "roles": [
+                  "next button fill",
+                  "active pagination dot",
+                  "paid badge background"
+                ]
+              },
+              {
+                "name": "Profit Green",
+                "hex": "#34c759",
+                "roles": [
+                  "percentage gain text"
+                ]
+              },
+              {
+                "name": "Real-time Badge Gold",
+                "hex": "#f5c328",
+                "roles": [
+                  "real-time pill background"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "headline title",
+                  "market value stat"
+                ]
+              },
+              {
+                "name": "Body Text Grey",
+                "hex": "#8c94a2",
+                "roles": [
+                  "slide subtitle text"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Slide Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 56,
+                "line_height_px": 68,
+                "weight": "800",
+                "letter_spacing_px": -0.6,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Slide Description",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 46,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#8c94a2"
+              },
+              {
+                "role": "Next Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#111215"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top Logo",
+                "kind": "brand_header",
+                "layout": "Top centered below status bar",
+                "appearance": "Cyan and yellow HoloDex logotype",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Market Insights Mockup",
+                "kind": "device_mockup",
+                "layout": "Centered horizontally in the upper-mid screen, ~700x820 px",
+                "appearance": "Device mockup showcasing Performance tab with dual overlaid cards ('Paid $5,391.38' and 'Market value $7,740.89 +43.60%') over a line graph",
+                "corner_radius_px": 48
+              },
+              {
+                "name": "Pagination Indicator",
+                "kind": "page_control",
+                "layout": "Centered horizontally above CTA button",
+                "appearance": "Four-step indicator with the third dot expanded horizontally as the active cyan pill",
+                "corner_radius_px": 10
+              },
+              {
+                "name": "Next Button",
+                "kind": "button",
+                "layout": "Full width with ~56 px side margins, height ~108 px, anchored near bottom",
+                "appearance": "Rounded rectangle with solid sky blue background",
+                "corner_radius_px": 24
+              }
+            ],
+            "layout": "Consistent walkthrough layout on slide 3: brand mark, device graphic emphasizing financial analytics, prominent header and subheader, progress dots, and Next button.",
+            "notes": "Slide 3 of 4 in onboarding flow."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/07.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Screen Background Black",
+                "hex": "#111215",
+                "roles": [
+                  "screen background"
+                ]
+              },
+              {
+                "name": "Mockup Bezel Slate",
+                "hex": "#0e2a47",
+                "roles": [
+                  "device border"
+                ]
+              },
+              {
+                "name": "App Surface Navy",
+                "hex": "#0d1827",
+                "roles": [
+                  "mockup app background"
+                ]
+              },
+              {
+                "name": "Toast Badge Slate",
+                "hex": "#253b56",
+                "roles": [
+                  "'Saved!' notification toast container"
+                ]
+              },
+              {
+                "name": "Star Floating Button Tint",
+                "hex": "#294569",
+                "roles": [
+                  "star bookmark button background"
+                ]
+              },
+              {
+                "name": "Accent Star Sky Blue",
+                "hex": "#5bb1fa",
+                "roles": [
+                  "bookmark star icon fill",
+                  "toast checkmark square fill"
+                ]
+              },
+              {
+                "name": "Primary Sky Blue",
+                "hex": "#389df7",
+                "roles": [
+                  "next button fill",
+                  "active pagination dot",
+                  "collect action button fill"
+                ]
+              },
+              {
+                "name": "Pure White",
+                "hex": "#ffffff",
+                "roles": [
+                  "headline text",
+                  "saved toast label"
+                ]
+              },
+              {
+                "name": "Muted Text Grey",
+                "hex": "#8c94a2",
+                "roles": [
+                  "feature description text"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Slide Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 56,
+                "line_height_px": 68,
+                "weight": "800",
+                "letter_spacing_px": -0.6,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Slide Description",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 46,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#8c94a2"
+              },
+              {
+                "role": "Toast Notification Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 32,
+                "line_height_px": 40,
+                "weight": "700",
+                "letter_spacing_px": -0.2,
+                "color": "#ffffff"
+              },
+              {
+                "role": "Next Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": 0,
+                "color": "#111215"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top Logo",
+                "kind": "brand_header",
+                "layout": "Top centered below status bar",
+                "appearance": "HoloDex bi-color text logo",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Wishlist Grid Mockup",
+                "kind": "device_mockup",
+                "layout": "Centered horizontally in upper-mid screen, ~700x820 px",
+                "appearance": "Phone mockup showing card search results with Furret and Chikorita cards, filter tags, and a prominent 'Saved!' success notification toast overlay",
+                "corner_radius_px": 48
+              },
+              {
+                "name": "Saved Toast Notification",
+                "kind": "notification_badge",
+                "layout": "Positioned over the left side of the card grid inside mockup, ~220x100 px",
+                "appearance": "Rounded slate container with a blue checkmark square and white text",
+                "corner_radius_px": 18
+              },
+              {
+                "name": "Pagination Indicator",
+                "kind": "page_control",
+                "layout": "Centered horizontally above CTA button",
+                "appearance": "Four-step indicator with the fourth (final) dot elongated and active in sky blue",
+                "corner_radius_px": 10
+              },
+              {
+                "name": "Next Button",
+                "kind": "button",
+                "layout": "Full width with ~56 px side margins, height ~108 px, anchored near bottom",
+                "appearance": "Solid sky blue fill with dark centered label",
+                "corner_radius_px": 24
+              }
+            ],
+            "layout": "Slide 4 (final step) of the onboarding sequence: identical grid and spacing parameters, showcasing wishlist and alert capabilities with a contextual toast badge and final active dot.",
+            "notes": "Final slide before transitioning into main application."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/08.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#121316",
+                "roles": [
+                  "Main screen background"
+                ]
+              },
+              {
+                "name": "Card Dark Blue",
+                "hex": "#0D1B2A",
+                "roles": [
+                  "Card preview phone frame interior"
+                ]
+              },
+              {
+                "name": "Notification Slate Blue",
+                "hex": "#2B3A4A",
+                "roles": [
+                  "Notification banner background"
+                ]
+              },
+              {
+                "name": "Primary Vibrant Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Primary CTA button",
+                  "Phone border outline",
+                  "Active carousel indicator"
+                ]
+              },
+              {
+                "name": "Secondary Text Slate",
+                "hex": "#9EACB9",
+                "roles": [
+                  "Subtitle text",
+                  "Notification subtext"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Heading text",
+                  "Main titles"
+                ]
+              },
+              {
+                "name": "Logo Yellow",
+                "hex": "#FCD229",
+                "roles": [
+                  "Logo suffix accent 'Dex'"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Screen Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 68,
+                "line_height_px": 78,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Body Subtitle",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 52,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#9EACB9"
+              },
+              {
+                "role": "Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 40,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#121316"
+              },
+              {
+                "role": "Notification Title",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#38A3FF"
+              },
+              {
+                "role": "Logo Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 48,
+                "line_height_px": 56,
+                "weight": "700",
+                "letter_spacing_px": null,
+                "color": "#38A3FF"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Phone Mockup Graphic",
+                "kind": "Illustration / Mockup",
+                "layout": "Centered horizontally in the upper-mid screen, width ~620px, height ~760px",
+                "appearance": "Rounded device outline in cyan-blue border (#38A3FF) with radial flare background showing a Pokemon TCG card preview",
+                "corner_radius_px": 60
+              },
+              {
+                "name": "Notification Toast",
+                "kind": "Toast Card",
+                "layout": "Positioned over the bottom of the device mockup, centered horizontally, width ~880px",
+                "appearance": "Dark slate blue rounded pill card (#2B3A4A) with bell icon on the left, multi-line notification copy, timestamp, and a small red unread indicator dot",
+                "corner_radius_px": 32
+              },
+              {
+                "name": "Page Dot Indicator",
+                "kind": "Pagination Dots",
+                "layout": "Centered horizontally above primary CTA, 5 dots total with 1 elongated pill",
+                "appearance": "Small dark circular dots with one active elongated cyan pill (#38A3FF)",
+                "corner_radius_px": 12
+              },
+              {
+                "name": "Dive In CTA",
+                "kind": "Button",
+                "layout": "Full width with horizontal margins ~44px, height ~130px near screen bottom",
+                "appearance": "Solid bright cyan-blue fill (#38A3FF) with dark centered text",
+                "corner_radius_px": 28
+              }
+            ],
+            "layout": "Single-page onboarding screen arranged vertically: app logo top center, central product illustration with floating notification card, prominent multi-line display heading, supporting explanatory body text, carousel pagination dots, and bottom fixed-position primary action button.",
+            "notes": "Standard Apple system font SF Pro is likely used throughout. Pixel sizes are visual estimates from high-density source."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/09.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Black",
+                "hex": "#101010",
+                "roles": [
+                  "Main screen background"
+                ]
+              },
+              {
+                "name": "Festive Gold/Yellow",
+                "hex": "#F4A91F",
+                "roles": [
+                  "Promo banner badge",
+                  "Active card border",
+                  "Primary CTA button"
+                ]
+              },
+              {
+                "name": "Dark Card Surface",
+                "hex": "#191A1E",
+                "roles": [
+                  "Pricing option card fills"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Headline",
+                  "Feature list items",
+                  "Pricing titles"
+                ]
+              },
+              {
+                "name": "Dim Gray Text",
+                "hex": "#6C737E",
+                "roles": [
+                  "Footer links (Restore, Terms, Privacy)"
+                ]
+              },
+              {
+                "name": "Promo Red",
+                "hex": "#A71926",
+                "roles": [
+                  "Anniversary banner graphic accents"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Banner Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 54,
+                "line_height_px": 64,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Feature Item",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 56,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Plan Title",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 44,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Plan Price",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 44,
+                "weight": "500",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "CTA Button Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 44,
+                "line_height_px": 50,
+                "weight": "700",
+                "letter_spacing_px": null,
+                "color": "#101010"
+              },
+              {
+                "role": "Footer Link",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 32,
+                "line_height_px": 38,
+                "weight": "500",
+                "letter_spacing_px": null,
+                "color": "#6C737E"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Close Button",
+                "kind": "Icon Button",
+                "layout": "Top right corner below status bar, circular ~90px diameter",
+                "appearance": "Translucent white circular background with dark 'X' icon",
+                "corner_radius_px": 45
+              },
+              {
+                "name": "Anniversary Graphic Banner",
+                "kind": "Hero Banner",
+                "layout": "Spans full width in upper third of screen",
+                "appearance": "Festive red, gold, and Pokeball-themed banner with Pokemon characters and '78% OFF' badge",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Feature List",
+                "kind": "List",
+                "layout": "Vertically stacked rows with checkmarks, aligned left with ~48px inset",
+                "appearance": "Gold checkmark icon preceding white feature text",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Yearly Subscription Card",
+                "kind": "Selection Card",
+                "layout": "Left column in a two-column row, width ~480px, height ~260px",
+                "appearance": "Dark rounded rectangle with 2px gold border (#F4A91F), circular checkmark badge, and overlapping 'SAVE 78%' badge on top edge",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Monthly Subscription Card",
+                "kind": "Selection Card",
+                "layout": "Right column in a two-column row, width ~480px, height ~260px",
+                "appearance": "Dark rounded rectangle with thin gray border, unselected circular radio icon",
+                "corner_radius_px": 24
+              },
+              {
+                "name": "Primary Action CTA",
+                "kind": "Button",
+                "layout": "Horizontal full width with side margins, height ~130px",
+                "appearance": "Filled vibrant gold (#F4A91F) button with rounded corners and bold dark text",
+                "corner_radius_px": 65
+              }
+            ],
+            "layout": "Paywall / subscription upgrade screen. Upper portion showcases an illustrative promo banner with dismissal icon; middle contains headline, bulleted value proposition list, and dual pricing selection cards; lower portion contains summary line, large primary action CTA, and regulatory/legal footer links.",
+            "notes": "Close icon 'X' indicates dismissible modal overlay. Pricing radio buttons toggle between yearly/monthly."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/10.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#121316",
+                "roles": [
+                  "Screen background"
+                ]
+              },
+              {
+                "name": "Card Surface",
+                "hex": "#1D232C",
+                "roles": [
+                  "Tile backgrounds"
+                ]
+              },
+              {
+                "name": "Selected Outline Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Selected tile border",
+                  "Primary CTA button",
+                  "Logo prefix"
+                ]
+              },
+              {
+                "name": "Logo Yellow",
+                "hex": "#FCD229",
+                "roles": [
+                  "Logo suffix accent"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Screen title",
+                  "Tile labels"
+                ]
+              },
+              {
+                "name": "Text Secondary Gray",
+                "hex": "#8A94A0",
+                "roles": [
+                  "Subtitle"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Screen Header",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 66,
+                "line_height_px": 76,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Screen Subtitle",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 54,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#8A94A0"
+              },
+              {
+                "role": "Tile Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 36,
+                "line_height_px": 44,
+                "weight": "500",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 48,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#121316"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "App Logo Header",
+                "kind": "Header",
+                "layout": "Top center of screen below status bar",
+                "appearance": "Two-tone wordmark 'Holo' in cyan (#38A3FF) and 'Dex' in yellow (#FCD229)",
+                "corner_radius_px": null
+              },
+              {
+                "name": "TCG Grid Selection Tile (Active)",
+                "kind": "Card / Grid Item",
+                "layout": "Row 1, Column 1 in a 2x3 grid, size ~480px x ~380px",
+                "appearance": "Dark slate card with Pokemon logo centered and label below; framed by a vivid blue border (~3px)",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "TCG Grid Selection Tile (Inactive)",
+                "kind": "Card / Grid Item",
+                "layout": "Remaining cells in 2x3 grid (One Piece, Magic, Yu-Gi-Oh!, Lorcana, Dragon Ball)",
+                "appearance": "Dark slate fill (#1D232C) with centered franchise logo and plain label, without active border",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Continue CTA",
+                "kind": "Button",
+                "layout": "Fixed near bottom, width spans content area ~980px, height ~130px",
+                "appearance": "Solid vibrant cyan-blue fill (#38A3FF) with dark centered text",
+                "corner_radius_px": 28
+              }
+            ],
+            "layout": "Onboarding selection flow: Centered header with branding, prominent title and prompt subtitle, 2-column by 3-row grid of selectable franchise cards, and bottom pinned action button.",
+            "notes": "First item (Pokémon TCG) is currently selected as indicated by the distinct blue border outline."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/11.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#121316",
+                "roles": [
+                  "Main screen background"
+                ]
+              },
+              {
+                "name": "Brand Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Active tab icon/label",
+                  "CTA buttons",
+                  "Logo prefix"
+                ]
+              },
+              {
+                "name": "Brand Yellow",
+                "hex": "#FCD229",
+                "roles": [
+                  "Logo suffix"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Headings",
+                  "Currency indicator"
+                ]
+              },
+              {
+                "name": "Text Secondary Muted",
+                "hex": "#8C96A3",
+                "roles": [
+                  "Inactive tab icons",
+                  "Subtitles"
+                ]
+              },
+              {
+                "name": "Dark Navbar Background",
+                "hex": "#15181E",
+                "roles": [
+                  "Bottom navigation bar background"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Section Header",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 50,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Main Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 52,
+                "line_height_px": 62,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Body Subtitle",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#8C96A3"
+              },
+              {
+                "role": "Button Text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 40,
+                "line_height_px": 46,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#121316"
+              },
+              {
+                "role": "Tab Bar Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 26,
+                "line_height_px": 32,
+                "weight": "500",
+                "letter_spacing_px": null,
+                "color": "#8C96A3"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top App Bar",
+                "kind": "Navbar",
+                "layout": "Full width at top under status bar",
+                "appearance": "Logo on left, USD currency pill with flag, notification bell icon, and user profile avatar circle on right",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Video Player / Demo Card",
+                "kind": "Media Container",
+                "layout": "Centered horizontally, width ~980px, height ~580px with loading indicator overlay",
+                "appearance": "Rounded rectangle previewing hands holding graded cards, with spinning white loading indicator in center",
+                "corner_radius_px": 40
+              },
+              {
+                "name": "Scan CTA Button",
+                "kind": "Button",
+                "layout": "Left half button above bottom bar, width ~470px, height ~130px",
+                "appearance": "Solid blue background (#38A3FF) with camera icon and 'Scan' text",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Search CTA Button",
+                "kind": "Button",
+                "layout": "Right half button above bottom bar, width ~470px, height ~130px",
+                "appearance": "Solid blue background (#38A3FF) with search glass icon and 'Search' text",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Bottom Navigation Bar",
+                "kind": "Tab Bar",
+                "layout": "Docked at the screen bottom, 5 items evenly distributed",
+                "appearance": "Dark background (#15181E) with Home (active with blue dot), Collectables, center scanner shortcut, Portfolio, and AI Grading tabs",
+                "corner_radius_px": null
+              }
+            ],
+            "layout": "Main Home screen in loading state: Top navigation bar with account and utility icons, intro card with loading spinner over video graphic, call to action block with two equal-width primary buttons (Scan & Search), and fixed 5-tab bottom navigation bar.",
+            "notes": "A circular spinner is active over the central video thumbnail."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/12.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dim Overlay",
+                "hex": "#08090B",
+                "roles": [
+                  "Dimmed backdrop behind modal dialog"
+                ]
+              },
+              {
+                "name": "Dialog Surface Light Gray",
+                "hex": "#ECECEC",
+                "roles": [
+                  "iOS System Alert card surface"
+                ]
+              },
+              {
+                "name": "Dialog Button Surface",
+                "hex": "#D1D5DB",
+                "roles": [
+                  "Alert button backgrounds"
+                ]
+              },
+              {
+                "name": "Alert Text Dark",
+                "hex": "#111111",
+                "roles": [
+                  "Dialog headline",
+                  "Body text",
+                  "Button labels"
+                ]
+              },
+              {
+                "name": "Brand Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Underlying CTA buttons",
+                  "Logo accent"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Dialog Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 44,
+                "line_height_px": 54,
+                "weight": "700",
+                "letter_spacing_px": -0.3,
+                "color": "#111111"
+              },
+              {
+                "role": "Dialog Body",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 36,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#111111"
+              },
+              {
+                "role": "Dialog Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 40,
+                "line_height_px": 48,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#111111"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "iOS Notification Permission Dialog",
+                "kind": "System Modal Dialog",
+                "layout": "Centered overlay covering ~920px width, floating in upper/mid center of the viewport",
+                "appearance": "Frosted light gray rounded surface (#ECECEC) with title, explanatory description, and dual horizontal actions: 'Don't Allow' and 'Allow'",
+                "corner_radius_px": 60
+              },
+              {
+                "name": "Modal Action Button - Don't Allow",
+                "kind": "Button",
+                "layout": "Bottom-left within modal dialog, width ~390px, height ~100px",
+                "appearance": "Medium light gray pill shape (#D1D5DB) with bold dark text",
+                "corner_radius_px": 50
+              },
+              {
+                "name": "Modal Action Button - Allow",
+                "kind": "Button",
+                "layout": "Bottom-right within modal dialog, width ~390px, height ~100px",
+                "appearance": "Medium light gray pill shape (#D1D5DB) with bold dark text",
+                "corner_radius_px": 50
+              }
+            ],
+            "layout": "Home screen background dimmed by an OS-level permission prompt (iOS Push Notification request). Standard home screen elements remain visible but inactive underneath.",
+            "notes": "Standard iOS system prompt styling with blurred backdrop."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/13.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#121316",
+                "roles": [
+                  "Main screen background"
+                ]
+              },
+              {
+                "name": "Brand Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Active tab",
+                  "CTA buttons",
+                  "Logo prefix"
+                ]
+              },
+              {
+                "name": "Brand Yellow",
+                "hex": "#FCD229",
+                "roles": [
+                  "Logo suffix"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Titles",
+                  "Section headers"
+                ]
+              },
+              {
+                "name": "Text Secondary Slate",
+                "hex": "#8C96A3",
+                "roles": [
+                  "Subtext",
+                  "Inactive tab icons/labels"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Top Welcome Header",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 50,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Headline",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 52,
+                "line_height_px": 62,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Subheading",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#8C96A3"
+              },
+              {
+                "role": "Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 40,
+                "line_height_px": 46,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#121316"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Header Navigation",
+                "kind": "Navbar",
+                "layout": "Full width below top status bar",
+                "appearance": "Logo on left, USD currency button, alert bell, profile button on right",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Video Card Player",
+                "kind": "Video Player",
+                "layout": "Centered horizontally, width ~980px, height ~580px",
+                "appearance": "Rounded rectangle playing intro video showcasing collector cards with overlaid text 'HoloDex WELCOME Collect. Organize. Earn.'",
+                "corner_radius_px": 40
+              },
+              {
+                "name": "Action Button Group",
+                "kind": "Button Bar",
+                "layout": "Horizontal pair of equal-width buttons above bottom navigation, gap ~30px",
+                "appearance": "Two solid blue buttons (#38A3FF) with rounded corners: Scan (camera icon) and Search (magnifying glass icon)",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Bottom Tab Bar",
+                "kind": "Navigation Bar",
+                "layout": "Fixed to bottom, 5 items",
+                "appearance": "Dark surface with blue active indicator on 'Home', gray inactive icons for remaining four tabs",
+                "corner_radius_px": null
+              }
+            ],
+            "layout": "Home dashboard in ready/loaded state: Header bar, welcome greeting with app icon, hero video player demonstrating card collection, title with instructions, paired action CTA buttons, and bottom tab bar.",
+            "notes": "Identical layout to Screen 3 without the loading spinner overlay."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/14.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#121316",
+                "roles": [
+                  "Main screen background"
+                ]
+              },
+              {
+                "name": "Brand Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "Active tab",
+                  "CTA buttons",
+                  "Logo prefix"
+                ]
+              },
+              {
+                "name": "Brand Yellow",
+                "hex": "#FCD229",
+                "roles": [
+                  "Logo suffix"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#FFFFFF",
+                "roles": [
+                  "Titles",
+                  "Section headers",
+                  "Video caption"
+                ]
+              },
+              {
+                "name": "Text Secondary Slate",
+                "hex": "#8C96A3",
+                "roles": [
+                  "Subtext",
+                  "Inactive tabs"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Top Welcome Header",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 42,
+                "line_height_px": 50,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Video Caption",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 46,
+                "line_height_px": 50,
+                "weight": "900",
+                "letter_spacing_px": 0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Headline",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 52,
+                "line_height_px": 62,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#FFFFFF"
+              },
+              {
+                "role": "Subheading",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#8C96A3"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Header Navigation",
+                "kind": "Navbar",
+                "layout": "Full width below status bar",
+                "appearance": "Logo on left, USD currency button, alert bell, profile button on right",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Video Card Player",
+                "kind": "Video Player",
+                "layout": "Centered horizontally, width ~980px, height ~580px",
+                "appearance": "Rounded rectangle displaying video frame of hands holding a smartphone inside the app, with bold white caption 'SMARTER' overlaid",
+                "corner_radius_px": 40
+              },
+              {
+                "name": "Scan Button",
+                "kind": "Button",
+                "layout": "Left half button above bottom bar, width ~470px, height ~130px",
+                "appearance": "Solid blue background (#38A3FF) with camera icon and 'Scan' text",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Search Button",
+                "kind": "Button",
+                "layout": "Right half button above bottom bar, width ~470px, height ~130px",
+                "appearance": "Solid blue background (#38A3FF) with search glass icon and 'Search' text",
+                "corner_radius_px": 28
+              },
+              {
+                "name": "Bottom Tab Bar",
+                "kind": "Navigation Bar",
+                "layout": "Fixed to bottom of screen",
+                "appearance": "5-tab dark navigation bar with Home active",
+                "corner_radius_px": null
+              }
+            ],
+            "layout": "Home dashboard view showing subsequent frame in the intro video (hands holding a smartphone showing card listings with text overlay 'SMARTER'). Other UI chrome remains consistent.",
+            "notes": "Sequential frame following Screen 5 in the welcome video loop."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/15.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Background Dark",
+                "hex": "#0D0E11",
+                "roles": [
+                  "Camera viewfinder background"
+                ]
+              },
+              {
+                "name": "Modal Surface Light Gray",
+                "hex": "#ECECEC",
+                "roles": [
+                  "System permission alert surface"
+                ]
+              },
+              {
+                "name": "Alert Button Gray",
+                "hex": "#D1D5DB",
+                "roles": [
+                  "Permission button fills"
+                ]
+              },
+              {
+                "name": "Alert Text Dark",
+                "hex": "#111111",
+                "roles": [
+                  "Modal title and body copy"
+                ]
+              },
+              {
+                "name": "Shutter Button White",
+                "hex": "#E5E5E5",
+                "roles": [
+                  "Camera shutter button fill"
+                ]
+              },
+              {
+                "name": "Control Surface Slate",
+                "hex": "#232A35",
+                "roles": [
+                  "Camera tool buttons",
+                  "Shutter ring"
+                ]
+              },
+              {
+                "name": "Brand Blue",
+                "hex": "#38A3FF",
+                "roles": [
+                  "App icon accent",
+                  "Hyperlink text"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "Dialog Title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 44,
+                "line_height_px": 54,
+                "weight": "700",
+                "letter_spacing_px": -0.3,
+                "color": "#111111"
+              },
+              {
+                "role": "Dialog Body",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 36,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#111111"
+              },
+              {
+                "role": "Dialog Button Label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 40,
+                "line_height_px": 48,
+                "weight": "600",
+                "letter_spacing_px": null,
+                "color": "#111111"
+              },
+              {
+                "role": "Viewfinder Instruction",
+                "font_family": "SF Pro Text",
+                "font_confidence": "medium",
+                "font_size_px": 38,
+                "line_height_px": 48,
+                "weight": "400",
+                "letter_spacing_px": null,
+                "color": "#D1D5DB"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "iOS Camera Permission Dialog",
+                "kind": "System Modal Dialog",
+                "layout": "Centered modal card over camera preview, width ~920px",
+                "appearance": "Light gray rounded container (#ECECEC) with video camera and blue hand badge icon, text, and two pill buttons ('Don't Allow' and 'Allow')",
+                "corner_radius_px": 60
+              },
+              {
+                "name": "Camera Flash Button",
+                "kind": "Icon Button",
+                "layout": "Top right within scanner viewfinder",
+                "appearance": "Lightbulb icon outline in white",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Shutter Button",
+                "kind": "Floating Action Button",
+                "layout": "Bottom center of camera screen, diameter ~180px",
+                "appearance": "White circular button centered within a dark circular border ring",
+                "corner_radius_px": 90
+              },
+              {
+                "name": "Gallery / Import Button",
+                "kind": "Icon Button",
+                "layout": "Bottom left of camera screen, ~140px size",
+                "appearance": "Dark circular button with photo album icon",
+                "corner_radius_px": 70
+              },
+              {
+                "name": "Multi-card Mode Button",
+                "kind": "Icon Button",
+                "layout": "Bottom right of camera screen, ~140px size",
+                "appearance": "Dark circular button with stacked cards icon",
+                "corner_radius_px": 70
+              }
+            ],
+            "layout": "Camera scanner view overlaid by an iOS Camera Permission modal dialog: Top header with back chevron, HoloDex logo, and search icon; central camera targeting zone with lighting helper; prompt overlay; bottom instructions and 3-button camera controls (gallery, shutter, multi-scan).",
+            "notes": "System camera permission dialog is currently blocking interaction with the camera viewfinder."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/16.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Viewfinder Black",
+                "hex": "#000000",
+                "roles": [
+                  "camera viewport background",
+                  "status bar background"
+                ]
+              },
+              {
+                "name": "Control Bar Slate",
+                "hex": "#1f2434",
+                "roles": [
+                  "bottom control bar background"
+                ]
+              },
+              {
+                "name": "Card Floating Surface",
+                "hex": "#0c101a",
+                "roles": [
+                  "scan counter banner background"
+                ]
+              },
+              {
+                "name": "Badge Yellow",
+                "hex": "#f6c444",
+                "roles": [
+                  "Pro badge fill",
+                  "Dex logo text"
+                ]
+              },
+              {
+                "name": "Brand Cyan",
+                "hex": "#2fa3f7",
+                "roles": [
+                  "Holo logo text",
+                  "gallery button fill"
+                ]
+              },
+              {
+                "name": "Primary White",
+                "hex": "#ffffff",
+                "roles": [
+                  "header icons",
+                  "flash icon",
+                  "shutter button fill",
+                  "instruction text"
+                ]
+              },
+              {
+                "name": "Muted Slate Blue",
+                "hex": "#8c96ab",
+                "roles": [
+                  "subtext",
+                  "secondary button fill"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "brand_title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "medium",
+                "font_size_px": 28,
+                "line_height_px": 34,
+                "weight": "700",
+                "letter_spacing_px": 0.2,
+                "color": "#ffffff"
+              },
+              {
+                "role": "badge_label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 15,
+                "line_height_px": 18,
+                "weight": "700",
+                "letter_spacing_px": 0,
+                "color": "#000000"
+              },
+              {
+                "role": "body_compact",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 17,
+                "line_height_px": 22,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#8c96ab"
+              },
+              {
+                "role": "instruction_text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 26,
+                "weight": "500",
+                "letter_spacing_px": -0.3,
+                "color": "#ffffff"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Top Navigation Bar",
+                "kind": "navigation_bar",
+                "layout": "Spans full width directly below status bar; horizontal layout with left chevron, centered logo unit, and right search icon.",
+                "appearance": "Transparent fill over camera area; white vector icons.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Flash Toggle Button",
+                "kind": "icon_button",
+                "layout": "Positioned below the top bar on the far right edge (~40px margin).",
+                "appearance": "Line-art lightbulb icon with radiating lines in white, transparent background.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Scan Limit Banner",
+                "kind": "banner_card",
+                "layout": "Centered horizontally near the lower section of the viewfinder; dimensions approximately 340px wide by 80px high.",
+                "appearance": "Dark charcoal rounded rectangle fill (#0c101a) with bright yellow 'Pro' badge pill and two lines of muted text.",
+                "corner_radius_px": 16
+              },
+              {
+                "name": "Instruction Label",
+                "kind": "label",
+                "layout": "Centered horizontally across the top section of the bottom control bar.",
+                "appearance": "Clean white single-line text.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Shutter Button",
+                "kind": "shutter_button",
+                "layout": "Centered horizontally in the bottom toolbar area; outer diameter ~90px.",
+                "appearance": "Concentric circle design with solid white inner circle, thin dark gap, and semi-transparent white outer ring stroke.",
+                "corner_radius_px": 45
+              },
+              {
+                "name": "Gallery Picker Button",
+                "kind": "icon_button",
+                "layout": "Positioned vertically centered with shutter button on the left edge (~40px margin).",
+                "appearance": "Squircle container with light blue fill (#5ea9f5) and dark line icon representing a picture frame.",
+                "corner_radius_px": 18
+              },
+              {
+                "name": "Deck/Batch Button",
+                "kind": "icon_button",
+                "layout": "Positioned vertically centered with shutter button on the right edge (~40px margin).",
+                "appearance": "Squircle container with slate blue fill (#8c9db5) and dark layered card deck icon.",
+                "corner_radius_px": 18
+              }
+            ],
+            "layout": "Full-bleed camera capture interface with a fixed top utility header, a central camera viewfinder featuring floating status cards and controls, and a dark navy bottom dock containing user instructions and capture controls.",
+            "notes": "System typography is consistent with Apple SF Pro. Viewport appears black because camera input is obscured or inactive."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/17.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Dimmed Background",
+                "hex": "#000000",
+                "roles": [
+                  "scrim overlay on camera view"
+                ]
+              },
+              {
+                "name": "Sheet Dark Slate",
+                "hex": "#1d2334",
+                "roles": [
+                  "bottom sheet background"
+                ]
+              },
+              {
+                "name": "Button Primary Blue",
+                "hex": "#389cf7",
+                "roles": [
+                  "Watch now button fill"
+                ]
+              },
+              {
+                "name": "Handle Grey",
+                "hex": "#3d475c",
+                "roles": [
+                  "drag handle indicator"
+                ]
+              },
+              {
+                "name": "Text White",
+                "hex": "#ffffff",
+                "roles": [
+                  "sheet header title",
+                  "button label"
+                ]
+              },
+              {
+                "name": "Text Secondary Slate",
+                "hex": "#b0b8c7",
+                "roles": [
+                  "sheet body description"
+                ]
+              },
+              {
+                "name": "Text Accent Blue",
+                "hex": "#409ef7",
+                "roles": [
+                  "skip link button"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "sheet_title",
+                "font_family": "SF Pro Display",
+                "font_confidence": "high",
+                "font_size_px": 34,
+                "line_height_px": 42,
+                "weight": "700",
+                "letter_spacing_px": -0.5,
+                "color": "#ffffff"
+              },
+              {
+                "role": "sheet_body",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 28,
+                "weight": "400",
+                "letter_spacing_px": -0.3,
+                "color": "#b0b8c7"
+              },
+              {
+                "role": "button_primary_label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 24,
+                "weight": "600",
+                "letter_spacing_px": -0.2,
+                "color": "#ffffff"
+              },
+              {
+                "role": "button_tertiary_label",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 24,
+                "weight": "600",
+                "letter_spacing_px": -0.2,
+                "color": "#409ef7"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Modal Bottom Sheet",
+                "kind": "bottom_sheet",
+                "layout": "Fixed to bottom, covering approximately lower 42% of the screen height; full width.",
+                "appearance": "Dark blue-slate solid fill (#1d2334) with rounded top corners, no visible outline.",
+                "corner_radius_px": 26
+              },
+              {
+                "name": "Drag Handle",
+                "kind": "handle",
+                "layout": "Centered horizontally near the top edge of the bottom sheet; ~44px wide by ~5px high.",
+                "appearance": "Muted grayish pill-shaped bar.",
+                "corner_radius_px": 3
+              },
+              {
+                "name": "Sheet Title",
+                "kind": "heading",
+                "layout": "Centered horizontally, positioned ~40px below the drag handle.",
+                "appearance": "Heavy bold white text.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Sheet Body Text",
+                "kind": "text_block",
+                "layout": "Centered multiline text block with generous horizontal margins (~36px).",
+                "appearance": "Soft slate-tinted readable copy, containing an inline film emoji.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Watch Now Button",
+                "kind": "button",
+                "layout": "Full-width pill button centered with ~32px horizontal margins; height ~64px.",
+                "appearance": "Solid vibrant cyan-blue fill (#389cf7) with centered white bold text.",
+                "corner_radius_px": 18
+              },
+              {
+                "name": "Skip Link",
+                "kind": "button",
+                "layout": "Centered below primary button with ~28px margin.",
+                "appearance": "Text-only button in sky blue without background or border.",
+                "corner_radius_px": null
+              }
+            ],
+            "layout": "Modal presentation state over the darkened camera screen; content inside the sheet is stacked vertically with center alignment.",
+            "notes": "Background screen is partially visible but dimmed under modal scrim."
+          }
+        },
+        {
+          "url": "https://storage.appkittie.com/onboardings/com.getholodex.app/18.jpg",
+          "design": {
+            "schema_version": 1,
+            "measurement_basis": "source_image_pixels",
+            "colors": [
+              {
+                "name": "Viewfinder Black",
+                "hex": "#000000",
+                "roles": [
+                  "camera background"
+                ]
+              },
+              {
+                "name": "Header Dark Navy",
+                "hex": "#1d2334",
+                "roles": [
+                  "top bar background"
+                ]
+              },
+              {
+                "name": "Tooltip Blue Slate",
+                "hex": "#25334a",
+                "roles": [
+                  "onboarding tooltip bubble background"
+                ]
+              },
+              {
+                "name": "Accent Blue",
+                "hex": "#409ef7",
+                "roles": [
+                  "header Skip button text"
+                ]
+              },
+              {
+                "name": "Primary White",
+                "hex": "#ffffff",
+                "roles": [
+                  "header title",
+                  "tooltip copy text",
+                  "shutter button"
+                ]
+              },
+              {
+                "name": "Badge Yellow",
+                "hex": "#f6c444",
+                "roles": [
+                  "Pro badge fill"
+                ]
+              }
+            ],
+            "typography": [
+              {
+                "role": "header_title",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 24,
+                "weight": "600",
+                "letter_spacing_px": -0.3,
+                "color": "#ffffff"
+              },
+              {
+                "role": "header_action",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 20,
+                "line_height_px": 24,
+                "weight": "600",
+                "letter_spacing_px": -0.3,
+                "color": "#409ef7"
+              },
+              {
+                "role": "tooltip_text",
+                "font_family": "SF Pro Text",
+                "font_confidence": "high",
+                "font_size_px": 19,
+                "line_height_px": 26,
+                "weight": "400",
+                "letter_spacing_px": -0.2,
+                "color": "#ffffff"
+              }
+            ],
+            "ui_elements": [
+              {
+                "name": "Tutorial Header Bar",
+                "kind": "navigation_bar",
+                "layout": "Spans full width below status bar; title centered, Skip button right-aligned.",
+                "appearance": "Deep navy solid fill (#1d2334) with white title and cyan-blue action text.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Targeted Onboarding Tooltip",
+                "kind": "tooltip_popover",
+                "layout": "Positioned centrally above the shutter button; width ~360px with bottom pointing arrow caret.",
+                "appearance": "Dark slate blue rounded rectangle (#25334a) with a downward triangle indicator aligned to the center shutter button.",
+                "corner_radius_px": 16
+              },
+              {
+                "name": "Lightbulb Flash Toggle",
+                "kind": "icon_button",
+                "layout": "Top right within the camera viewport, beneath header bar.",
+                "appearance": "Unfilled white line icon.",
+                "corner_radius_px": null
+              },
+              {
+                "name": "Scan Counter Pill",
+                "kind": "banner_card",
+                "layout": "Centered horizontally in the lower quadrant of the camera viewport.",
+                "appearance": "Dark pill with yellow 'Pro' badge label and scan limit details.",
+                "corner_radius_px": 16
+              },
+              {
+                "name": "Shutter Control",
+                "kind": "shutter_button",
+                "layout": "Centered horizontally in the bottom dock area, pointed at by the tooltip caret.",
+                "appearance": "White solid circle enclosed by an outer stroke ring.",
+                "corner_radius_px": 45
+              }
+            ],
+            "layout": "Step-by-step tutorial overlay featuring a specialized navigation header, a dark viewfinder canvas, and a contextual callout speech bubble anchored directly above the primary capture button.",
+            "notes": "Behind the tooltip bubble, the original guide text 'Scan the front of the card to get started.' is partially occluded."
+          }
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "nextCursor": 1,
+    "totalCount": 1
+  }
+}
+
+[appkittie-tools] credits spent: 1. Credits available: 529.

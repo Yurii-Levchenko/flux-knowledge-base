@@ -1,0 +1,13 @@
+{
+ "paywall/charges/refund": "subscri|paywall|charg|refund|cancel|trial|scam|rip ?off|money|pay |paid|price increase|\\$\\d",
+ "scan accuracy": "wrong card|misidentif|identif\\w* wrong|can'?t (scan|recogn)|won'?t scan|doesn'?t (scan|recogn)|scan(ner|s|ning)? (is|are|doesn|don|never|keeps|won|not)|inaccurate scan|wrong (set|version|year|coin|rock|player)|recogni",
+ "price accuracy": "(price|value|pricing)s? (is|are|were|was)? ?(wrong|off|inaccurate|outdated|not accurate|way)|inaccurate (price|value)|overvalu|undervalu|not accurate|wrong price|market price",
+ "bugs/crash/data loss": "crash|bug|glitch|freez|slow|lag|lost (my|all)|disappear|gone|deleted|sync|log ?in|sign ?in|won'?t load|not loading|update (broke|ruin)",
+ "grading": "grad(e|ing)|psa|bgs|cgc|condition|centering",
+ "missing cards/sets/langs": "missing|not (in|listed)|japanese|can'?t find|doesn'?t have|no (option|way)|database",
+ "marketplace/selling": "sell|seller|buyer|ship|marketplace|fee|listing|order",
+ "support": "support|customer service|no response|email",
+ "ads": "\\bads?\\b|advert",
+ "bulk/speed of scanning": "bulk|batch|multiple cards|one at a time|faster|speed",
+ "portfolio/export/tracking": "portfolio|export|csv|spreadsheet|track(ing)? (my|collection|value)|collection value"
+}

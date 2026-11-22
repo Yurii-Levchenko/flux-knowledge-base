@@ -1,0 +1,97 @@
+
+#coparenting: всього 524 (≥1K 57, ≥10K 29) | нові 2024–26: 295 (≥1K 3, ≥10K 1) | 2024 39 · 2025 56 · 2026 200
+   TOP ALL:
+     5,942,043  2014  Amazon Alexa | AMZN Mobile LLC | id944011620
+     1,559,183  2010  GroupMe | Skype Communications S.a. | id392796698
+       402,633  2010  Cozi Family Organizer | Cozi | id407108860
+       388,410  2022  Widgetable: Besties & Couples | Widgetable,Inc. | id1641107226
+       189,931  2011  Copart - Online Auto Auctions | Copart, Inc. | id414275302
+       165,651  2017  Nintendo Switch Parental Cont… | Nintendo Co., Ltd. | id1190074407
+       132,672  2015  Google Calendar: Get Organized | Google | id909319292
+        93,455  2015  TimeTree: Shared Calendar | TimeTree, Inc. | id952578473
+        59,135  2016  Calendar · Planner & Reminders | BUCKET LIST LABS S.L. | id1113106806
+        57,063  2012  OurFamilyWizard Co-Parent App | OurFamilyWizard, LLC | id497405393
+        55,780  2019  Calendly: Meeting Scheduling | Calendly | id1451094657
+        51,641  2019  Howbout: shared calendar | Howbout Ltd. | id1477248221
+   TOP NEW:
+       14,011  2024  Good Inside: Parenting | Good Inside
+        2,439  2024  Super App Lock: Lock Apps | Safe App, Inc.
+        1,207  2026  Kin - Remember Doctor Visits | Kin Health Technologies, 
+          978  2025  Promise: Relationship App | VIRAL APP DEV LLC
+          659  2024  HEY Calendar | 37signals LLC
+          430  2024  Messages: SMS & Text Messaging | Kailashben Radadiya
+          374  2025  Topics™ | World Wide Group, LLC.
+          304  2026  Documented: Custody Logs | Rise Advertising LLC
+
+#cleaner: всього 499 (≥1K 131, ≥10K 29) | нові 2024–26: 333 (≥1K 44, ≥10K 2) | 2024 60 · 2025 120 · 2026 153
+   TOP ALL:
+     1,655,881  2015  Google Photos: Backup & Edit | Google | id962194608
+       757,219  2020  Cleanup: Phone Storage Cleaner | DEEP FLOW SOFTWARE SERVIC | id1510944943
+       358,847  2019  Remini - AI Photo Enhancer | BENDING SPOONS OPERATIONS | id1470373330
+       353,976  2017  Cleaner Kit - Clean Up Storage | BPMobile | id1194582243
+       210,893  2023  AI Cleaner: Clean Up Storage | GRIMLAX TRADE, S.L. | id6448330325
+       148,476  2019  Cleaner Guru: Clean Up Storage | GM UniverseApps Limited | id1476380919
+       113,563  2019  Cleaner Neat: Clean Up Storage | Smart Tool Studio | id1463756032
+       101,209  2022  Swipewipe: Photo Cleaner | MWM | id1583884012
+        84,810  2025  Clever Cleaner: AI CleanUp App | CleverFiles Inc. | id1666645584
+        73,550  2023  Phone Storage Cleaner: Free up | Must Have Apps | id6449484412
+        67,112  2019  Boost Cleaner - Clean Up Smart | CELESTIAN GOLDEN APPS | id1475887456
+        60,576  2021  Content Manager: AI Сleaner | DevMeApp | id1541639300
+   TOP NEW:
+       84,810  2025  Clever Cleaner: AI CleanUp App | CleverFiles Inc.
+       45,179  2024  Cleaner: Photo Cleanup | Codespace Dijital Hizmetl
+        9,583  2024  AI Security: Storage Privacy | Magic Snail
+        7,756  2024  Phone Cleaner:AI Clean Storage | AppCentury Apps
+        6,594  2024  AI Cleanup | Toolie Apps LTD
+        5,505  2025  KeepClean AI: Storage Cleaner | Olosera Limited
+        4,163  2024  CleanUp Now - Free Up Storage | Pretty Boa Media Ltd
+        3,961  2024  Storage Manager: CleanUp Phone | Cherkago Apps
+
+#boating: всього 503 (≥1K 57, ≥10K 23) | нові 2024–26: 184 (≥1K 4, ≥10K 0) | 2024 30 · 2025 40 · 2026 114
+   TOP ALL:
+       176,637  2018  Boat Trader: Boats for Sale | Boats Group | id1403420067
+       132,096  2014  Speedometer Simple | WATT APPS | id939507215
+        80,461  2016  Windy.com | Windyty, SE | id1161387262
+        73,287  2015  Windy.app — Wind, Tides, Radar | Windy Weather World Inc | id997079492
+        65,069  2012  Speedometer 55 GPS Speed & HUD | Stanislav Dvoychenko | id557871911
+        65,022  2012  MarineTraffic - Ship Tracking | MarineTraffic Application | id563910324
+        58,400  2017  BoatUS - Boat Weather & Tides | BoatUS | id1210410671
+        47,849  2015  Bass Pro Shops | Bass Pro, Inc. | id579875139
+        47,401  2019  YachtWorld: Boats for Sale | Boats Group | id1457089220
+        33,997  2015  Dockwa | Dockwa, Inc. | id991884112
+        32,909  2012  PredictWind — Marine Forecasts | PredictWind Limited | id477048487
+        31,052  2017  Fishing Points: Map & Forecast | Fishing Points d.o.o. | id1203032512
+   TOP NEW:
+        1,334  2024  Freedom Boat Club | Brunswick Corporation
+        1,261  2024  Siren Connected Boat | Yamaha Motor Co., Ltd.
+        1,193  2024  SeaPeople: Boat Tracker | SeaPeople, Inc.
+        1,121  2025  Marine Traffic Vessel Finder | Free App Studio
+          888  2025  West Marine Pro | West Marine, Inc.
+          479  2024  AGLCA | Land and Sea Software
+          291  2025  Marine Traffic & Ship Tracker | sofia fernandez
+          280  2024  MarineRadar・Vessel Finder | Lascade
+
+#rocks: всього 440 (≥1K 25, ≥10K 9) | нові 2024–26: 305 (≥1K 4, ≥10K 1) | 2024 47 · 2025 131 · 2026 127
+   TOP ALL:
+        82,511  2021  Rock Identifier: Stone ID | Next Vision Limited | id1546796934
+        67,069  2010  Rockbot - Request Music | Rockbot, Inc. | id401347343
+        55,636  2022  Plant App: Plant Identifier | SCALEUP YAZILIM HIZMETLER | id1595795215
+        30,914  2018  Seek by iNaturalist | iNaturalist | id1353224144
+        24,701  2019  Picture Mushroom: Identifier | Next Vision Limited | id1474578078
+        20,736  2020  Greg: Plant Identifier & Care | GREGARIOUS, INC | id1512912236
+        20,134  2024  Lens Scan: Identify Anything | EvenEdge | id6560107458
+        12,511  2023  Coin Identifier - CoinCheck | Macro Tap Apps Limited | id6455731760
+        11,643  2018  Saged: Daily Spiritual Rituals | Smudge Tech, Inc | id1436713096
+         9,924  2023  LensAI・Identifier・Image Search | Conlan Limited | id1663862037
+         7,064  2018  iplant - Plant Identification | 宗群 杨 | id1372113110
+         4,514  2025  Lens AI: Identify Anything | XLABS DIJITAL HIZMETLER A | id6742785176
+   TOP NEW:
+       20,134  2024  Lens Scan: Identify Anything | EvenEdge
+        4,514  2025  Lens AI: Identify Anything | XLABS DIJITAL HIZMETLER A
+        1,798  2025  RockIn: Gem & Rock Identifier | Vortemol Limited
+        1,609  2025  CoinKnow: Coin Identifier | SenseWake Limited
+          910  2026  Rock Identifier & Scanner AI | UPQODE LLC
+          607  2025  Rock Finder: Stone Identifier | Codabrasoft LLC
+          586  2025  AI Rock ID: Crystal Identifier | ATN Marketing SRL
+          526  2026  iRock: Stone & Rock Identifier | BerthX
+DONE

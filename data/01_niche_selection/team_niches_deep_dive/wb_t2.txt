@@ -1,0 +1,42 @@
+
+cleaner Cleanup (335 captures)
+   2022-01-15       24555  exact
+   2022-07-28      106319  exact
+   2022-12-27      163991  exact
+   2023-08-02      189039  exact
+   2024-01-29      229376  exact
+   2024-08-11      302694  exact
+   2025-01-18      380014  exact
+   2025-07-19      481438  exact
+   2026-01-13      598283  exact
+   2026-07-16      682724  exact
+   2026-11-08      756989  itunes_api
+
+cleaner AI Cleaner (122 captures)
+   2024-02-26        6522  exact
+   2024-08-28       33786  exact
+   2025-01-14       61007  exact
+   2025-07-25      120464  exact
+   2026-01-15      173607  exact
+   2026-07-12      203911  exact
+   2026-11-08      210893  itunes_api
+
+cleaner Swipewipe (463 captures)
+   2022-06-06          11  exact
+   2023-03-27          15  exact
+   2023-10-09        8317  exact
+   2023-12-12       12193  exact
+   2024-06-25       27058  exact
+   2025-01-16       42294  exact
+   2025-06-14       60495  exact
+   2026-01-14       68449  exact
+   2026-07-15       81628  exact
+   2026-11-08      101209  itunes_api
+
+cleaner Cleaner Kit (310 captures)
+   2024-01-07      199066  exact
+   2024-08-04      217202  exact
+   2026-01-14      325382  exact
+   2026-07-15      344727  exact
+   2026-11-08      353928  itunes_api
+DONE

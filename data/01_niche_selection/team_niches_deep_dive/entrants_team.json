@@ -1,0 +1,846 @@
+{
+ "coparenting": {
+  "total": {
+   "n": 524,
+   "ge1k": 57,
+   "ge10k": 29
+  },
+  "new_2024_26": {
+   "n": 295,
+   "ge1k": 3,
+   "ge10k": 1
+  },
+  "y2024": {
+   "n": 39,
+   "ge1k": 2,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 56,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 200,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "id": 6463803046,
+    "price": "Free",
+    "name": "Good Inside: Parenting",
+    "dev": "Good Inside",
+    "ratings": 14011,
+    "year": 2024,
+    "genre": "Education"
+   },
+   {
+    "id": 6476949191,
+    "price": "Free",
+    "name": "Super App Lock: Lock Apps",
+    "dev": "Safe App, Inc.",
+    "ratings": 2439,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6756894542,
+    "price": "Free",
+    "name": "Kin - Remember Doctor Visits",
+    "dev": "Kin Health Technologies, Inc.",
+    "ratings": 1207,
+    "year": 2026,
+    "genre": "Medical"
+   },
+   {
+    "id": 6751995552,
+    "price": "Free",
+    "name": "Promise: Relationship App",
+    "dev": "VIRAL APP DEV LLC",
+    "ratings": 978,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "id": 6449716061,
+    "price": "Free",
+    "name": "HEY Calendar",
+    "dev": "37signals LLC",
+    "ratings": 659,
+    "year": 2024,
+    "genre": "Productivity"
+   },
+   {
+    "id": 6505050591,
+    "price": "Free",
+    "name": "Messages: SMS & Text Messaging",
+    "dev": "Kailashben Radadiya",
+    "ratings": 430,
+    "year": 2024,
+    "genre": "Social Networking"
+   },
+   {
+    "id": 6499290521,
+    "price": "Free",
+    "name": "Topics™",
+    "dev": "World Wide Group, LLC.",
+    "ratings": 374,
+    "year": 2025,
+    "genre": "Social Networking"
+   },
+   {
+    "id": 6791808503,
+    "price": "Free",
+    "name": "Documented: Custody Logs",
+    "dev": "Rise Advertising LLC",
+    "ratings": 304,
+    "year": 2026,
+    "genre": "Productivity"
+   }
+  ],
+  "top_all": [
+   {
+    "id": 944011620,
+    "price": "Free",
+    "name": "Amazon Alexa",
+    "dev": "AMZN Mobile LLC",
+    "ratings": 5942043,
+    "year": 2014,
+    "genre": "Lifestyle"
+   },
+   {
+    "id": 392796698,
+    "price": "Free",
+    "name": "GroupMe",
+    "dev": "Skype Communications S.a.r.l",
+    "ratings": 1559183,
+    "year": 2010,
+    "genre": "Social Networking"
+   },
+   {
+    "id": 407108860,
+    "price": "Free",
+    "name": "Cozi Family Organizer",
+    "dev": "Cozi",
+    "ratings": 402633,
+    "year": 2010,
+    "genre": "Productivity"
+   },
+   {
+    "id": 1641107226,
+    "price": "Free",
+    "name": "Widgetable: Besties & Couples",
+    "dev": "Widgetable,Inc.",
+    "ratings": 388410,
+    "year": 2022,
+    "genre": "Social Networking"
+   },
+   {
+    "id": 414275302,
+    "price": "Free",
+    "name": "Copart - Online Auto Auctions",
+    "dev": "Copart, Inc.",
+    "ratings": 189931,
+    "year": 2011,
+    "genre": "Business"
+   },
+   {
+    "id": 1190074407,
+    "price": "Free",
+    "name": "Nintendo Switch Parental Cont…",
+    "dev": "Nintendo Co., Ltd.",
+    "ratings": 165651,
+    "year": 2017,
+    "genre": "Lifestyle"
+   },
+   {
+    "id": 909319292,
+    "price": "Free",
+    "name": "Google Calendar: Get Organized",
+    "dev": "Google",
+    "ratings": 132672,
+    "year": 2015,
+    "genre": "Productivity"
+   },
+   {
+    "id": 952578473,
+    "price": "Free",
+    "name": "TimeTree: Shared Calendar",
+    "dev": "TimeTree, Inc.",
+    "ratings": 93455,
+    "year": 2015,
+    "genre": "Productivity"
+   },
+   {
+    "id": 1113106806,
+    "price": "Free",
+    "name": "Calendar · Planner & Reminders",
+    "dev": "BUCKET LIST LABS S.L.",
+    "ratings": 59135,
+    "year": 2016,
+    "genre": "Productivity"
+   },
+   {
+    "id": 497405393,
+    "price": "Free",
+    "name": "OurFamilyWizard Co-Parent App",
+    "dev": "OurFamilyWizard, LLC",
+    "ratings": 57063,
+    "year": 2012,
+    "genre": "Productivity"
+   },
+   {
+    "id": 1451094657,
+    "price": "Free",
+    "name": "Calendly: Meeting Scheduling",
+    "dev": "Calendly",
+    "ratings": 55780,
+    "year": 2019,
+    "genre": "Business"
+   },
+   {
+    "id": 1477248221,
+    "price": "Free",
+    "name": "Howbout: shared calendar",
+    "dev": "Howbout Ltd.",
+    "ratings": 51641,
+    "year": 2019,
+    "genre": "Social Networking"
+   }
+  ]
+ },
+ "cleaner": {
+  "total": {
+   "n": 499,
+   "ge1k": 131,
+   "ge10k": 29
+  },
+  "new_2024_26": {
+   "n": 333,
+   "ge1k": 44,
+   "ge10k": 2
+  },
+  "y2024": {
+   "n": 60,
+   "ge1k": 23,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 120,
+   "ge1k": 19,
+   "ge10k": 1
+  },
+  "y2026": {
+   "n": 153,
+   "ge1k": 2,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "id": 1666645584,
+    "price": "Free",
+    "name": "Clever Cleaner: AI CleanUp App",
+    "dev": "CleverFiles Inc.",
+    "ratings": 84810,
+    "year": 2025,
+    "genre": "Productivity"
+   },
+   {
+    "id": 6502456017,
+    "price": "Free",
+    "name": "Cleaner: Photo Cleanup",
+    "dev": "Codespace Dijital Hizmetler Anonim Şirketi",
+    "ratings": 45179,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6479976058,
+    "price": "Free",
+    "name": "AI Security: Storage Privacy",
+    "dev": "Magic Snail",
+    "ratings": 9583,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6636528078,
+    "price": "Free",
+    "name": "Phone Cleaner:AI Clean Storage",
+    "dev": "AppCentury Apps",
+    "ratings": 7756,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6532602343,
+    "price": "Free",
+    "name": "AI Cleanup",
+    "dev": "Toolie Apps LTD",
+    "ratings": 6594,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6752901737,
+    "price": "Free",
+    "name": "KeepClean AI: Storage Cleaner",
+    "dev": "Olosera Limited",
+    "ratings": 5505,
+    "year": 2025,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6473369041,
+    "price": "Free",
+    "name": "CleanUp Now - Free Up Storage",
+    "dev": "Pretty Boa Media Ltd",
+    "ratings": 4163,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6498632440,
+    "price": "Free",
+    "name": "Storage Manager: CleanUp Phone",
+    "dev": "Cherkago Apps",
+    "ratings": 3961,
+    "year": 2024,
+    "genre": "Utilities"
+   }
+  ],
+  "top_all": [
+   {
+    "id": 962194608,
+    "price": "Free",
+    "name": "Google Photos: Backup & Edit",
+    "dev": "Google",
+    "ratings": 1655881,
+    "year": 2015,
+    "genre": "Photo & Video"
+   },
+   {
+    "id": 1510944943,
+    "price": "Free",
+    "name": "Cleanup: Phone Storage Cleaner",
+    "dev": "DEEP FLOW SOFTWARE SERVICES",
+    "ratings": 757219,
+    "year": 2020,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1470373330,
+    "price": "Free",
+    "name": "Remini - AI Photo Enhancer",
+    "dev": "BENDING SPOONS OPERATIONS SPA",
+    "ratings": 358847,
+    "year": 2019,
+    "genre": "Photo & Video"
+   },
+   {
+    "id": 1194582243,
+    "price": "Free",
+    "name": "Cleaner Kit - Clean Up Storage",
+    "dev": "BPMobile",
+    "ratings": 353976,
+    "year": 2017,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6448330325,
+    "price": "Free",
+    "name": "AI Cleaner: Clean Up Storage",
+    "dev": "GRIMLAX TRADE, S.L.",
+    "ratings": 210893,
+    "year": 2023,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1476380919,
+    "price": "Free",
+    "name": "Cleaner Guru: Clean Up Storage",
+    "dev": "GM UniverseApps Limited",
+    "ratings": 148476,
+    "year": 2019,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1463756032,
+    "price": "Free",
+    "name": "Cleaner Neat: Clean Up Storage",
+    "dev": "Smart Tool Studio",
+    "ratings": 113563,
+    "year": 2019,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1583884012,
+    "price": "Free",
+    "name": "Swipewipe: Photo Cleaner",
+    "dev": "MWM",
+    "ratings": 101209,
+    "year": 2022,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1666645584,
+    "price": "Free",
+    "name": "Clever Cleaner: AI CleanUp App",
+    "dev": "CleverFiles Inc.",
+    "ratings": 84810,
+    "year": 2025,
+    "genre": "Productivity"
+   },
+   {
+    "id": 6449484412,
+    "price": "Free",
+    "name": "Phone Storage Cleaner: Free up",
+    "dev": "Must Have Apps",
+    "ratings": 73550,
+    "year": 2023,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1475887456,
+    "price": "Free",
+    "name": "Boost Cleaner - Clean Up Smart",
+    "dev": "CELESTIAN GOLDEN APPS",
+    "ratings": 67112,
+    "year": 2019,
+    "genre": "Utilities"
+   },
+   {
+    "id": 1541639300,
+    "price": "Free",
+    "name": "Content Manager: AI Сleaner",
+    "dev": "DevMeApp",
+    "ratings": 60576,
+    "year": 2021,
+    "genre": "Utilities"
+   }
+  ]
+ },
+ "boating": {
+  "total": {
+   "n": 503,
+   "ge1k": 57,
+   "ge10k": 23
+  },
+  "new_2024_26": {
+   "n": 184,
+   "ge1k": 4,
+   "ge10k": 0
+  },
+  "y2024": {
+   "n": 30,
+   "ge1k": 3,
+   "ge10k": 0
+  },
+  "y2025": {
+   "n": 40,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 114,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "id": 6720711415,
+    "price": "Free",
+    "name": "Freedom Boat Club",
+    "dev": "Brunswick Corporation",
+    "ratings": 1334,
+    "year": 2024,
+    "genre": "Lifestyle"
+   },
+   {
+    "id": 6467128040,
+    "price": "Free",
+    "name": "Siren Connected Boat",
+    "dev": "Yamaha Motor Co., Ltd.",
+    "ratings": 1261,
+    "year": 2024,
+    "genre": "Productivity"
+   },
+   {
+    "id": 6447652420,
+    "price": "Free",
+    "name": "SeaPeople: Boat Tracker",
+    "dev": "SeaPeople, Inc.",
+    "ratings": 1193,
+    "year": 2024,
+    "genre": "Travel"
+   },
+   {
+    "id": 6756645770,
+    "price": "Free",
+    "name": "Marine Traffic Vessel Finder",
+    "dev": "Free App Studio",
+    "ratings": 1121,
+    "year": 2025,
+    "genre": "Navigation"
+   },
+   {
+    "id": 6590632106,
+    "price": "Free",
+    "name": "West Marine Pro",
+    "dev": "West Marine, Inc.",
+    "ratings": 888,
+    "year": 2025,
+    "genre": "Shopping"
+   },
+   {
+    "id": 6476233488,
+    "price": "Free",
+    "name": "AGLCA",
+    "dev": "Land and Sea Software",
+    "ratings": 479,
+    "year": 2024,
+    "genre": "Navigation"
+   },
+   {
+    "id": 6736956716,
+    "price": "Free",
+    "name": "Marine Traffic & Ship Tracker",
+    "dev": "sofia fernandez",
+    "ratings": 291,
+    "year": 2025,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6560109315,
+    "price": "Free",
+    "name": "MarineRadar・Vessel Finder",
+    "dev": "Lascade",
+    "ratings": 280,
+    "year": 2024,
+    "genre": "Travel"
+   }
+  ],
+  "top_all": [
+   {
+    "id": 1403420067,
+    "price": "Free",
+    "name": "Boat Trader: Boats for Sale",
+    "dev": "Boats Group",
+    "ratings": 176637,
+    "year": 2018,
+    "genre": "Shopping"
+   },
+   {
+    "id": 939507215,
+    "price": "Free",
+    "name": "Speedometer Simple",
+    "dev": "WATT APPS",
+    "ratings": 132096,
+    "year": 2014,
+    "genre": "Navigation"
+   },
+   {
+    "id": 1161387262,
+    "price": "Free",
+    "name": "Windy.com",
+    "dev": "Windyty, SE",
+    "ratings": 80461,
+    "year": 2016,
+    "genre": "Weather"
+   },
+   {
+    "id": 997079492,
+    "price": "Free",
+    "name": "Windy.app — Wind, Tides, Radar",
+    "dev": "Windy Weather World Inc",
+    "ratings": 73287,
+    "year": 2015,
+    "genre": "Weather"
+   },
+   {
+    "id": 557871911,
+    "price": "Free",
+    "name": "Speedometer 55 GPS Speed & HUD",
+    "dev": "Stanislav Dvoychenko",
+    "ratings": 65069,
+    "year": 2012,
+    "genre": "Navigation"
+   },
+   {
+    "id": 563910324,
+    "price": "Free",
+    "name": "MarineTraffic - Ship Tracking",
+    "dev": "MarineTraffic Applications LTD",
+    "ratings": 65022,
+    "year": 2012,
+    "genre": "Travel"
+   },
+   {
+    "id": 1210410671,
+    "price": "Free",
+    "name": "BoatUS - Boat Weather & Tides",
+    "dev": "BoatUS",
+    "ratings": 58400,
+    "year": 2017,
+    "genre": "Weather"
+   },
+   {
+    "id": 579875139,
+    "price": "Free",
+    "name": "Bass Pro Shops",
+    "dev": "Bass Pro, Inc.",
+    "ratings": 47849,
+    "year": 2015,
+    "genre": "Shopping"
+   },
+   {
+    "id": 1457089220,
+    "price": "Free",
+    "name": "YachtWorld: Boats for Sale",
+    "dev": "Boats Group",
+    "ratings": 47401,
+    "year": 2019,
+    "genre": "Shopping"
+   },
+   {
+    "id": 991884112,
+    "price": "Free",
+    "name": "Dockwa",
+    "dev": "Dockwa, Inc.",
+    "ratings": 33997,
+    "year": 2015,
+    "genre": "Travel"
+   },
+   {
+    "id": 477048487,
+    "price": "Free",
+    "name": "PredictWind — Marine Forecasts",
+    "dev": "PredictWind Limited",
+    "ratings": 32909,
+    "year": 2012,
+    "genre": "Weather"
+   },
+   {
+    "id": 1203032512,
+    "price": "Free",
+    "name": "Fishing Points: Map & Forecast",
+    "dev": "Fishing Points d.o.o.",
+    "ratings": 31052,
+    "year": 2017,
+    "genre": "Sports"
+   }
+  ]
+ },
+ "rocks": {
+  "total": {
+   "n": 440,
+   "ge1k": 25,
+   "ge10k": 9
+  },
+  "new_2024_26": {
+   "n": 305,
+   "ge1k": 4,
+   "ge10k": 1
+  },
+  "y2024": {
+   "n": 47,
+   "ge1k": 1,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 131,
+   "ge1k": 3,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 127,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "id": 6560107458,
+    "price": "Free",
+    "name": "Lens Scan: Identify Anything",
+    "dev": "EvenEdge",
+    "ratings": 20134,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6742785176,
+    "price": "Free",
+    "name": "Lens AI: Identify Anything",
+    "dev": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
+    "ratings": 4514,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "id": 6754837588,
+    "price": "Free",
+    "name": "RockIn: Gem & Rock Identifier",
+    "dev": "Vortemol Limited",
+    "ratings": 1798,
+    "year": 2025,
+    "genre": "Education"
+   },
+   {
+    "id": 6755948694,
+    "price": "Free",
+    "name": "CoinKnow: Coin Identifier",
+    "dev": "SenseWake Limited",
+    "ratings": 1609,
+    "year": 2025,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6760016651,
+    "price": "Free",
+    "name": "Rock Identifier & Scanner AI",
+    "dev": "UPQODE LLC",
+    "ratings": 910,
+    "year": 2026,
+    "genre": "Education"
+   },
+   {
+    "id": 6740235185,
+    "price": "Free",
+    "name": "Rock Finder: Stone Identifier",
+    "dev": "Codabrasoft LLC",
+    "ratings": 607,
+    "year": 2025,
+    "genre": "Education"
+   },
+   {
+    "id": 6743672966,
+    "price": "Free",
+    "name": "AI Rock ID: Crystal Identifier",
+    "dev": "ATN Marketing SRL",
+    "ratings": 586,
+    "year": 2025,
+    "genre": "Education"
+   },
+   {
+    "id": 6764334548,
+    "price": "Free",
+    "name": "iRock: Stone & Rock Identifier",
+    "dev": "BerthX",
+    "ratings": 526,
+    "year": 2026,
+    "genre": "Education"
+   }
+  ],
+  "top_all": [
+   {
+    "id": 1546796934,
+    "price": "Free",
+    "name": "Rock Identifier: Stone ID",
+    "dev": "Next Vision Limited",
+    "ratings": 82511,
+    "year": 2021,
+    "genre": "Education"
+   },
+   {
+    "id": 401347343,
+    "price": "Free",
+    "name": "Rockbot - Request Music",
+    "dev": "Rockbot, Inc.",
+    "ratings": 67069,
+    "year": 2010,
+    "genre": "Music"
+   },
+   {
+    "id": 1595795215,
+    "price": "Free",
+    "name": "Plant App: Plant Identifier",
+    "dev": "SCALEUP YAZILIM HIZMETLERI",
+    "ratings": 55636,
+    "year": 2022,
+    "genre": "Education"
+   },
+   {
+    "id": 1353224144,
+    "price": "Free",
+    "name": "Seek by iNaturalist",
+    "dev": "iNaturalist",
+    "ratings": 30914,
+    "year": 2018,
+    "genre": "Education"
+   },
+   {
+    "id": 1474578078,
+    "price": "Free",
+    "name": "Picture Mushroom: Identifier",
+    "dev": "Next Vision Limited",
+    "ratings": 24701,
+    "year": 2019,
+    "genre": "Education"
+   },
+   {
+    "id": 1512912236,
+    "price": "Free",
+    "name": "Greg: Plant Identifier & Care",
+    "dev": "GREGARIOUS, INC",
+    "ratings": 20736,
+    "year": 2020,
+    "genre": "Education"
+   },
+   {
+    "id": 6560107458,
+    "price": "Free",
+    "name": "Lens Scan: Identify Anything",
+    "dev": "EvenEdge",
+    "ratings": 20134,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "id": 6455731760,
+    "price": "Free",
+    "name": "Coin Identifier - CoinCheck",
+    "dev": "Macro Tap Apps Limited",
+    "ratings": 12511,
+    "year": 2023,
+    "genre": "Reference"
+   },
+   {
+    "id": 1436713096,
+    "price": "Free",
+    "name": "Saged: Daily Spiritual Rituals",
+    "dev": "Smudge Tech, Inc",
+    "ratings": 11643,
+    "year": 2018,
+    "genre": "Health & Fitness"
+   },
+   {
+    "id": 1663862037,
+    "price": "Free",
+    "name": "LensAI・Identifier・Image Search",
+    "dev": "Conlan Limited",
+    "ratings": 9924,
+    "year": 2023,
+    "genre": "Reference"
+   },
+   {
+    "id": 1372113110,
+    "price": "Free",
+    "name": "iplant - Plant Identification",
+    "dev": "宗群 杨",
+    "ratings": 7064,
+    "year": 2018,
+    "genre": "Education"
+   },
+   {
+    "id": 6742785176,
+    "price": "Free",
+    "name": "Lens AI: Identify Anything",
+    "dev": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
+    "ratings": 4514,
+    "year": 2025,
+    "genre": "Reference"
+   }
+  ]
+ }
+}

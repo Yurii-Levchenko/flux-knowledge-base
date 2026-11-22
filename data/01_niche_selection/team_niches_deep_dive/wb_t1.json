@@ -1,0 +1,276 @@
+{
+ "OurFamilyWizard": {
+  "niche": "coparenting",
+  "id": 497405393,
+  "series": [
+   {
+    "date": "2022-09-17",
+    "ratings": 19329,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220917195227/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2023-01-20",
+    "ratings": 19955,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230120223107/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2023-07-07",
+    "ratings": 20771,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230707115212/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2024-01-29",
+    "ratings": 21615,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240129090602/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2024-05-29",
+    "ratings": 27926,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240529035650/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2025-01-14",
+    "ratings": 31188,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250114081512/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2025-06-09",
+    "ratings": 32839,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250609214614/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2026-02-06",
+    "ratings": 41173,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260206151012/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2026-07-03",
+    "ratings": 49606,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260703070857/https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 57050,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/ourfamilywizard-co-parent-app/id497405393",
+    "released": "2012-02-17"
+   }
+  ]
+ },
+ "TalkingParents": {
+  "niche": "coparenting",
+  "id": 1092220726,
+  "series": [
+   {
+    "date": "2022-07-20",
+    "ratings": 19046,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220720153939/https://apps.apple.com/us/app/talkingparents/id1092220726"
+   },
+   {
+    "date": "2023-02-04",
+    "ratings": 21458,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230204133043/https://apps.apple.com/us/app/talkingparents/id1092220726?itsct=apps_box_badge&itscg=30200"
+   },
+   {
+    "date": "2023-06-04",
+    "ratings": 23041,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230604174438/https://apps.apple.com/us/app/talkingparents/id1092220726"
+   },
+   {
+    "date": "2023-11-19",
+    "ratings": 25174,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231119111502/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726"
+   },
+   {
+    "date": "2024-06-16",
+    "ratings": 27572,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240616040925/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726"
+   },
+   {
+    "date": "2025-01-19",
+    "ratings": 28670,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250119084208/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726"
+   },
+   {
+    "date": "2025-06-09",
+    "ratings": 28706,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250609214602/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726"
+   },
+   {
+    "date": "2026-02-10",
+    "ratings": 28722,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260210205222/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726"
+   },
+   {
+    "date": "2026-07-03",
+    "ratings": 28749,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260703070855/https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726?itsct=apps_box_badge&itscg=30200"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 28752,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/talkingparents-co-parent-app/id1092220726",
+    "released": "2016-04-29"
+   }
+  ]
+ },
+ "AppClose": {
+  "niche": "coparenting",
+  "id": 1019290876,
+  "series": [
+   {
+    "date": "2021-12-05",
+    "ratings": 16128,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20211205143435/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2022-07-20",
+    "ratings": 18591,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220720153935/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2023-01-31",
+    "ratings": 21233,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230131174705/https://apps.apple.com/us/app/appclose/id1019290876?uo=4&at=10lGfI"
+   },
+   {
+    "date": "2024-04-16",
+    "ratings": 26442,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240416194925/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2024-05-29",
+    "ratings": 26962,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240529011240/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2025-01-19",
+    "ratings": 30402,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250119084201/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2025-06-09",
+    "ratings": 32785,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250609214614/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2026-02-12",
+    "ratings": 37145,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260212160905/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2026-07-10",
+    "ratings": 38387,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260710123238/https://apps.apple.com/us/app/appclose/id1019290876"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 39592,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/appclose/id1019290876",
+    "released": "2016-05-17"
+   }
+  ]
+ },
+ "Rock Identifier": {
+  "niche": "rocks",
+  "id": 1546796934,
+  "series": [
+   {
+    "date": "2021-12-09",
+    "ratings": 7648,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20211209082815/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2022-06-25",
+    "ratings": 12065,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220625092325/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2022-12-25",
+    "ratings": 19695,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20221225145902/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934?l=ar"
+   },
+   {
+    "date": "2023-06-01",
+    "ratings": 22297,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230601235759/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2024-01-18",
+    "ratings": 33690,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240118032638/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2024-06-21",
+    "ratings": 39640,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240621133018/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934?mt=8"
+   },
+   {
+    "date": "2025-01-15",
+    "ratings": 49628,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250115053526/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934?mt=8"
+   },
+   {
+    "date": "2025-07-18",
+    "ratings": 59098,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250718084206/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2026-01-02",
+    "ratings": 66624,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260102074144/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934?ppid=ce86a752-5cd6-4a04-9875-060bac73f750"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 74831,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715101636/https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 82531,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/rock-identifier-stone-id/id1546796934",
+    "released": "2021-01-26"
+   }
+  ]
+ }
+}

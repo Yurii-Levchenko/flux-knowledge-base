@@ -1,0 +1,570 @@
+{
+ "50": {
+  "total": {
+   "n": 734,
+   "ge1k": 99,
+   "ge10k": 38
+  },
+  "new_2024_26": {
+   "n": 602,
+   "ge1k": 41,
+   "ge10k": 9
+  },
+  "y2024": {
+   "n": 60,
+   "ge1k": 16,
+   "ge10k": 2
+  },
+  "y2025": {
+   "n": 174,
+   "ge1k": 17,
+   "ge10k": 5
+  },
+  "y2026": {
+   "n": 368,
+   "ge1k": 8,
+   "ge10k": 2
+  },
+  "top_new": [
+   {
+    "name": "CrownCards - Trading Cards",
+    "dev": "CrownCards",
+    "ratings": 29146,
+    "year": 2026,
+    "genre": "Shopping"
+   },
+   {
+    "name": "Sports Card Scanner - StarSnap",
+    "dev": "Next Vision Limited",
+    "ratings": 28850,
+    "year": 2025,
+    "genre": "Sports"
+   },
+   {
+    "name": "HoloDex - TCG Scan & Collect",
+    "dev": "MAVELLI FZCO",
+    "ratings": 25096,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "name": "Lens Scan: Identify Anything",
+    "dev": "EvenEdge",
+    "ratings": 20153,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "name": "Acorn TCG Card Scanner App",
+    "dev": "Juanjo Valino",
+    "ratings": 15763,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "name": "TCG Card Scanner - FoilSnap",
+    "dev": "Next Vision Limited",
+    "ratings": 15205,
+    "year": 2025,
+    "genre": "Reference"
+   }
+  ]
+ },
+ "55": {
+  "total": {
+   "n": 546,
+   "ge1k": 27,
+   "ge10k": 7
+  },
+  "new_2024_26": {
+   "n": 323,
+   "ge1k": 4,
+   "ge10k": 3
+  },
+  "y2024": {
+   "n": 36,
+   "ge1k": 1,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 63,
+   "ge1k": 3,
+   "ge10k": 2
+  },
+  "y2026": {
+   "n": 224,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "YarnPal - Crochet & Patterns",
+    "dev": "PIXELCELL.LIMITED",
+    "ratings": 34963,
+    "year": 2024,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Loopsy - Crochet & Knitting",
+    "dev": "Springtown Labs Inc.",
+    "ratings": 17106,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Sewpal: Sewing Pattern & Guide",
+    "dev": "PIXELCELL.LIMITED",
+    "ratings": 13026,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "name": "LoopCraft: Crochet & Knitting",
+    "dev": "Scala technology limited",
+    "ratings": 5548,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "CraftBook: Crochet Made Easy",
+    "dev": "Tofa llc",
+    "ratings": 962,
+    "year": 2026,
+    "genre": "Reference"
+   },
+   {
+    "name": "Cozyarn: Crochet Patterns",
+    "dev": "Prutvi",
+    "ratings": 916,
+    "year": 2025,
+    "genre": "Reference"
+   }
+  ]
+ },
+ "61": {
+  "total": {
+   "n": 614,
+   "ge1k": 132,
+   "ge10k": 51
+  },
+  "new_2024_26": {
+   "n": 323,
+   "ge1k": 14,
+   "ge10k": 2
+  },
+  "y2024": {
+   "n": 28,
+   "ge1k": 5,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 108,
+   "ge1k": 7,
+   "ge10k": 1
+  },
+  "y2026": {
+   "n": 187,
+   "ge1k": 2,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "AntiqSnap: Antique Identifier",
+    "dev": "Next Vision Limited",
+    "ratings": 31498,
+    "year": 2025,
+    "genre": "Reference"
+   },
+   {
+    "name": "AI Generator - Photo Revive",
+    "dev": "Hong Kong Lavish Limited",
+    "ratings": 13101,
+    "year": 2024,
+    "genre": "Graphics & Design"
+   },
+   {
+    "name": "Colorify: Coloring Book Maker",
+    "dev": "YOYA MOBILE TEKNOLOJI ANONIM SIRKETI",
+    "ratings": 9209,
+    "year": 2025,
+    "genre": "Entertainment"
+   },
+   {
+    "name": "Renew - Restore Old Photos AI",
+    "dev": "Olena Dorohan",
+    "ratings": 7453,
+    "year": 2025,
+    "genre": "Photo & Video"
+   },
+   {
+    "name": "RetroFix - Old Picture Restore",
+    "dev": "Denys Shevchenko",
+    "ratings": 7251,
+    "year": 2024,
+    "genre": "Photo & Video"
+   },
+   {
+    "name": "RetroShot - Film Camera",
+    "dev": "FANSHENG NETWORK TECHNOLOGY CO., LIMITED",
+    "ratings": 4845,
+    "year": 2024,
+    "genre": "Photo & Video"
+   }
+  ]
+ },
+ "44": {
+  "total": {
+   "n": 323,
+   "ge1k": 37,
+   "ge10k": 20
+  },
+  "new_2024_26": {
+   "n": 260,
+   "ge1k": 8,
+   "ge10k": 2
+  },
+  "y2024": {
+   "n": 39,
+   "ge1k": 7,
+   "ge10k": 2
+  },
+  "y2025": {
+   "n": 94,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 127,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "Free Plant Identifier",
+    "dev": "Mohamed Aberkane",
+    "ratings": 26040,
+    "year": 2024,
+    "genre": "Education"
+   },
+   {
+    "name": "Plantify: AI Plant Identifier",
+    "dev": "DEEP FLOW SOFTWARE SERVICES",
+    "ratings": 10530,
+    "year": 2024,
+    "genre": "Education"
+   },
+   {
+    "name": "PlantLush: Plant ID & Care Pro",
+    "dev": "Umut Koray Melek",
+    "ratings": 8198,
+    "year": 2024,
+    "genre": "Education"
+   },
+   {
+    "name": "Plant Guru - Plant Care Guide",
+    "dev": "AIBY",
+    "ratings": 3681,
+    "year": 2024,
+    "genre": "Education"
+   },
+   {
+    "name": "Plant Care Guide: PlantScope",
+    "dev": "Scale Global Technology Limited",
+    "ratings": 3193,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Plant Identify: Scan, Diagnose",
+    "dev": "Gentlemen's s.r.o.",
+    "ratings": 1589,
+    "year": 2024,
+    "genre": "Education"
+   }
+  ]
+ },
+ "41": {
+  "total": {
+   "n": 539,
+   "ge1k": 69,
+   "ge10k": 28
+  },
+  "new_2024_26": {
+   "n": 391,
+   "ge1k": 11,
+   "ge10k": 1
+  },
+  "y2024": {
+   "n": 38,
+   "ge1k": 3,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 89,
+   "ge1k": 3,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 264,
+   "ge1k": 5,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "Eatr: Tasty Cooking Recipes",
+    "dev": "Eatr",
+    "ratings": 11467,
+    "year": 2024,
+    "genre": "Food & Drink"
+   },
+   {
+    "name": "TapCook: Budget Meal Plans",
+    "dev": "TestMaxx",
+    "ratings": 7028,
+    "year": 2026,
+    "genre": "Food & Drink"
+   },
+   {
+    "name": "Osta: Save & Share Recipes",
+    "dev": "GENERAL DIGITAL CONNOISSEURS LTD.",
+    "ratings": 6801,
+    "year": 2025,
+    "genre": "Food & Drink"
+   },
+   {
+    "name": "mise - meal planner",
+    "dev": "TEGS LABS LTD",
+    "ratings": 4726,
+    "year": 2026,
+    "genre": "Food & Drink"
+   },
+   {
+    "name": "Potto - meal planner",
+    "dev": "Anete Ziedina",
+    "ratings": 2370,
+    "year": 2026,
+    "genre": "Food & Drink"
+   },
+   {
+    "name": "Key Food",
+    "dev": "Key Food Stores Co-Operative Inc",
+    "ratings": 2293,
+    "year": 2026,
+    "genre": "Food & Drink"
+   }
+  ]
+ },
+ "47": {
+  "total": {
+   "n": 263,
+   "ge1k": 45,
+   "ge10k": 17
+  },
+  "new_2024_26": {
+   "n": 171,
+   "ge1k": 7,
+   "ge10k": 2
+  },
+  "y2024": {
+   "n": 28,
+   "ge1k": 2,
+   "ge10k": 1
+  },
+  "y2025": {
+   "n": 77,
+   "ge1k": 5,
+   "ge10k": 1
+  },
+  "y2026": {
+   "n": 66,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "Fish AI - AI Fishing App",
+    "dev": "Liftoff Labs Inc.",
+    "ratings": 27382,
+    "year": 2025,
+    "genre": "Sports"
+   },
+   {
+    "name": "Lens Scan: Identify Anything",
+    "dev": "EvenEdge",
+    "ratings": 20153,
+    "year": 2024,
+    "genre": "Utilities"
+   },
+   {
+    "name": "Catchr: Fish Identifier",
+    "dev": "Smolworks Inc",
+    "ratings": 5038,
+    "year": 2025,
+    "genre": "Sports"
+   },
+   {
+    "name": "IDNet AI",
+    "dev": "AureKA",
+    "ratings": 4849,
+    "year": 2025,
+    "genre": "Productivity"
+   },
+   {
+    "name": "Bird Identifier: BirdScope",
+    "dev": "Scala technology limited",
+    "ratings": 3052,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "onX Fish: Midwest Fishing Maps",
+    "dev": "onXmaps, Inc.",
+    "ratings": 1801,
+    "year": 2024,
+    "genre": "Navigation"
+   }
+  ]
+ },
+ "67": {
+  "total": {
+   "n": 427,
+   "ge1k": 63,
+   "ge10k": 30
+  },
+  "new_2024_26": {
+   "n": 211,
+   "ge1k": 2,
+   "ge10k": 0
+  },
+  "y2024": {
+   "n": 29,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "y2025": {
+   "n": 63,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "y2026": {
+   "n": 119,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "iOverlander",
+    "dev": "iOverlander, LLC",
+    "ratings": 7717,
+    "year": 2024,
+    "genre": "Travel"
+   },
+   {
+    "name": "Rhyme - Itinerary Planner",
+    "dev": "LOGOS STUDIO INC.",
+    "ratings": 5241,
+    "year": 2025,
+    "genre": "Travel"
+   },
+   {
+    "name": "Plotline: Travel Map & Planner",
+    "dev": "Plotline Travel, Inc.",
+    "ratings": 779,
+    "year": 2026,
+    "genre": "Travel"
+   },
+   {
+    "name": "RV Camping Planner: Camp Route",
+    "dev": "Scate",
+    "ratings": 427,
+    "year": 2026,
+    "genre": "Travel"
+   },
+   {
+    "name": "My General RV",
+    "dev": "General RV Center",
+    "ratings": 251,
+    "year": 2024,
+    "genre": "Travel"
+   },
+   {
+    "name": "Loop Route Planner",
+    "dev": "兴恺 王",
+    "ratings": 216,
+    "year": 2024,
+    "genre": "Navigation"
+   }
+  ]
+ },
+ "63": {
+  "total": {
+   "n": 321,
+   "ge1k": 68,
+   "ge10k": 28
+  },
+  "new_2024_26": {
+   "n": 199,
+   "ge1k": 6,
+   "ge10k": 1
+  },
+  "y2024": {
+   "n": 16,
+   "ge1k": 0,
+   "ge10k": 0
+  },
+  "y2025": {
+   "n": 46,
+   "ge1k": 5,
+   "ge10k": 1
+  },
+  "y2026": {
+   "n": 137,
+   "ge1k": 1,
+   "ge10k": 0
+  },
+  "top_new": [
+   {
+    "name": "Candle: Couples & Relationship",
+    "dev": "Encore AI Labs, Inc.",
+    "ratings": 11767,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Couple360-Relationship App",
+    "dev": "Wuhan DiDi Technology Co.,Ltd.",
+    "ratings": 3535,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Lovora: Couple Games & Widgets",
+    "dev": "Plantake, Inc.",
+    "ratings": 3163,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Loverzz: Couples App & Widgets",
+    "dev": "Avalanche Factory",
+    "ratings": 2429,
+    "year": 2025,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Pookie: Couples Widgets, Games",
+    "dev": "TYLER JAMES ROBINSON VOSS",
+    "ratings": 1407,
+    "year": 2026,
+    "genre": "Lifestyle"
+   },
+   {
+    "name": "Tethered: Long Distance Games",
+    "dev": "Kazuo Corp",
+    "ratings": 1041,
+    "year": 2025,
+    "genre": "Lifestyle"
+   }
+  ]
+ }
+}

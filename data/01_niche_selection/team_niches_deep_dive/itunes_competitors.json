@@ -1,0 +1,691 @@
+{
+ "TalkingParents": [
+  {
+   "id": 1092220726,
+   "name": "TalkingParents: Co-Parent App",
+   "dev": "Monitored Communications LLC",
+   "ratings": 28754,
+   "rating": 4.38412,
+   "released": "2016-04-29",
+   "price": "Free"
+  },
+  {
+   "id": 497405393,
+   "name": "OurFamilyWizard Co-Parent App",
+   "dev": "OurFamilyWizard, LLC",
+   "ratings": 57063,
+   "rating": 4.59405,
+   "released": "2012-02-17",
+   "price": "Free"
+  },
+  {
+   "id": 1320244591,
+   "name": "FAMILIES | TalkingPoints",
+   "dev": "TalkingPoints Corp",
+   "ratings": 91518,
+   "rating": 4.75528,
+   "released": "2018-02-08",
+   "price": "Free"
+  }
+ ],
+ "AppClose": [
+  {
+   "id": 1019290876,
+   "name": "AppClose",
+   "dev": "AppClose, Inc",
+   "ratings": 39602,
+   "rating": 4.73602,
+   "released": "2016-05-17",
+   "price": "Free"
+  },
+  {
+   "id": 497405393,
+   "name": "OurFamilyWizard Co-Parent App",
+   "dev": "OurFamilyWizard, LLC",
+   "ratings": 57063,
+   "rating": 4.59405,
+   "released": "2012-02-17",
+   "price": "Free"
+  },
+  {
+   "id": 6755789524,
+   "name": "ClоseApp",
+   "dev": "EMOBIS EOOD",
+   "ratings": 0,
+   "rating": 0,
+   "released": "2026-01-04",
+   "price": "Free"
+  }
+ ],
+ "BestInterest co-parenting": [
+  {
+   "id": 6503981502,
+   "name": "BestInterest for Coparents",
+   "dev": "BestInterest",
+   "ratings": 239,
+   "rating": 4.51883,
+   "released": "2024-06-20",
+   "price": "Free"
+  },
+  {
+   "id": 1019290876,
+   "name": "AppClose",
+   "dev": "AppClose, Inc",
+   "ratings": 39602,
+   "rating": 4.73602,
+   "released": "2016-05-17",
+   "price": "Free"
+  },
+  {
+   "id": 1092220726,
+   "name": "TalkingParents: Co-Parent App",
+   "dev": "Monitored Communications LLC",
+   "ratings": 28754,
+   "rating": 4.38412,
+   "released": "2016-04-29",
+   "price": "Free"
+  }
+ ],
+ "2houses": [
+  {
+   "id": 632536949,
+   "name": "2houses: Better Co-parenting",
+   "dev": "2houses S.A.",
+   "ratings": 146,
+   "rating": 3.9589,
+   "released": "2013-05-20",
+   "price": "Free"
+  },
+  {
+   "id": 1019290876,
+   "name": "AppClose",
+   "dev": "AppClose, Inc",
+   "ratings": 39602,
+   "rating": 4.73602,
+   "released": "2016-05-17",
+   "price": "Free"
+  },
+  {
+   "id": 1451177077,
+   "name": "Dirt Bike Unchained",
+   "dev": "Red Bull",
+   "ratings": 34629,
+   "rating": 4.60752,
+   "released": "2020-04-22",
+   "price": "Free"
+  }
+ ],
+ "coParenter": [
+  {
+   "id": 1172014071,
+   "name": "coParenter - coParenting App",
+   "dev": "Hyphenus",
+   "ratings": 166,
+   "rating": 3.50602,
+   "released": "2016-12-06",
+   "price": "Free"
+  },
+  {
+   "id": 902242970,
+   "name": "Modamily: Coparent Donor Match",
+   "dev": "Modamily",
+   "ratings": 324,
+   "rating": 3.85494,
+   "released": "2015-02-25",
+   "price": "Free"
+  },
+  {
+   "id": 1289432220,
+   "name": "SmartCoparent",
+   "dev": "Moiety, Inc.",
+   "ratings": 17,
+   "rating": 3.35294,
+   "released": "2018-02-19",
+   "price": "Free"
+  }
+ ],
+ "Fayr co-parenting": [
+  {
+   "id": 1170670072,
+   "name": "Fayr: Co-Parenting App",
+   "dev": "Fayr LLC",
+   "ratings": 286,
+   "rating": 4.01399,
+   "released": "2017-01-27",
+   "price": "Free"
+  },
+  {
+   "id": 1019290876,
+   "name": "AppClose",
+   "dev": "AppClose, Inc",
+   "ratings": 39602,
+   "rating": 4.73602,
+   "released": "2016-05-17",
+   "price": "Free"
+  },
+  {
+   "id": 1092220726,
+   "name": "TalkingParents: Co-Parent App",
+   "dev": "Monitored Communications LLC",
+   "ratings": 28754,
+   "rating": 4.38412,
+   "released": "2016-04-29",
+   "price": "Free"
+  }
+ ],
+ "SupportPay": [
+  {
+   "id": 808332758,
+   "name": "SupportPay: Split Expenses",
+   "dev": "Smart Family Tech, Inc",
+   "ratings": 10,
+   "rating": 4.59999,
+   "released": "2014-02-06",
+   "price": "Free"
+  },
+  {
+   "id": 1441850251,
+   "name": "WeParent by SupportPay",
+   "dev": "FamTerra Inc.",
+   "ratings": 7,
+   "rating": 3.14286,
+   "released": "2018-12-16",
+   "price": "Free"
+  },
+  {
+   "id": 6445867505,
+   "name": "Child Support Payment Tracker",
+   "dev": "Something Useful",
+   "ratings": 1536,
+   "rating": 4.72004,
+   "released": "2023-05-09",
+   "price": "Free"
+  }
+ ],
+ "Custody Connection": [
+  {
+   "id": 6792125182,
+   "name": "CustodyBook: Parenting Log",
+   "dev": "TechInnova Solutions",
+   "ratings": 3,
+   "rating": 5,
+   "released": "2026-07-29",
+   "price": "Free"
+  },
+  {
+   "id": 1019290876,
+   "name": "AppClose",
+   "dev": "AppClose, Inc",
+   "ratings": 39602,
+   "rating": 4.73602,
+   "released": "2016-05-17",
+   "price": "Free"
+  },
+  {
+   "id": 6471020127,
+   "name": "Kidtime Coparenting Calendar",
+   "dev": "VMGM Software LLC",
+   "ratings": 497,
+   "rating": 4.31187,
+   "released": "2023-12-13",
+   "price": "Free"
+  }
+ ],
+ "Navionics Boating": [
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  },
+  {
+   "id": 1241140495,
+   "name": "Wavve Boating: GPS, Map, Chart",
+   "dev": "Wavve Boating INC",
+   "ratings": 6655,
+   "rating": 4.74695,
+   "released": "2017-08-12",
+   "price": "Free"
+  },
+  {
+   "id": 994992062,
+   "name": "i-Boating: Marine Charts & Gps",
+   "dev": "Bist LLC",
+   "ratings": 14975,
+   "rating": 4.50684,
+   "released": "2015-05-30",
+   "price": "Free"
+  }
+ ],
+ "Garmin ActiveCaptain": [
+  {
+   "id": 1116089313,
+   "name": "ActiveCaptain®",
+   "dev": "Garmin",
+   "ratings": 5241,
+   "rating": 3.95669,
+   "released": "2017-11-07",
+   "price": "Free"
+  },
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  },
+  {
+   "id": 583446403,
+   "name": "Garmin Connect™",
+   "dev": "Garmin",
+   "ratings": 59664,
+   "rating": 4.39379,
+   "released": "2013-01-10",
+   "price": "Free"
+  }
+ ],
+ "savvy navvy": [
+  {
+   "id": 1479182650,
+   "name": "Savvy Navvy: Boat Navigation",
+   "dev": "savvy navvy",
+   "ratings": 8422,
+   "rating": 4.67431,
+   "released": "2019-09-25",
+   "price": "Free"
+  },
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  },
+  {
+   "id": 997079492,
+   "name": "Windy.app — Wind, Tides, Radar",
+   "dev": "Windy Weather World Inc",
+   "ratings": 73287,
+   "rating": 4.68993,
+   "released": "2015-06-26",
+   "price": "Free"
+  }
+ ],
+ "Boating Suite": [
+  {
+   "id": 1501874071,
+   "name": "Boating Suite",
+   "dev": "Boating Suite, LLC",
+   "ratings": 21,
+   "rating": 3.2381,
+   "released": "2020-04-16",
+   "price": "Free"
+  }
+ ],
+ "Keeply boat": [
+  {
+   "id": 6792373910,
+   "name": "Keeply:Boat Maintenance & Log",
+   "dev": "Keeply, LLC",
+   "ratings": 2,
+   "rating": 5,
+   "released": "2026-08-18",
+   "price": "Free"
+  },
+  {
+   "id": 1449873080,
+   "name": "Boatsetter - Boat Rentals",
+   "dev": "Collaborative Boating, Inc.",
+   "ratings": 19237,
+   "rating": 4.80839,
+   "released": "2019-08-19",
+   "price": "Free"
+  },
+  {
+   "id": 1105306790,
+   "name": "Nebo - Boat Logging Made Easy.",
+   "dev": "NEBO GLOBAL PTY LTD",
+   "ratings": 37,
+   "rating": 4.21622,
+   "released": "2017-08-24",
+   "price": "Free"
+  }
+ ],
+ "Orca boating": [
+  {
+   "id": 1514423198,
+   "name": "Orca: Boat GPS, Charts, Routes",
+   "dev": "Orca Technologies AS",
+   "ratings": 413,
+   "rating": 4.59321,
+   "released": "2021-05-06",
+   "price": "Free"
+  },
+  {
+   "id": 1479182650,
+   "name": "Savvy Navvy: Boat Navigation",
+   "dev": "savvy navvy",
+   "ratings": 8422,
+   "rating": 4.67431,
+   "released": "2019-09-25",
+   "price": "Free"
+  },
+  {
+   "id": 1403420067,
+   "name": "Boat Trader: Boats for Sale",
+   "dev": "Boats Group",
+   "ratings": 176637,
+   "rating": 4.81747,
+   "released": "2018-08-16",
+   "price": "Free"
+  }
+ ],
+ "Aqua Map Marine": [
+  {
+   "id": 919552329,
+   "name": "Aqua Map Boating",
+   "dev": "GEC s.r.l.",
+   "ratings": 13864,
+   "rating": 4.72237,
+   "released": "2014-10-15",
+   "price": "Free"
+  },
+  {
+   "id": 994992062,
+   "name": "i-Boating: Marine Charts & Gps",
+   "dev": "Bist LLC",
+   "ratings": 14975,
+   "rating": 4.50684,
+   "released": "2015-05-30",
+   "price": "Free"
+  },
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  }
+ ],
+ "Wavve Boating": [
+  {
+   "id": 1241140495,
+   "name": "Wavve Boating: GPS, Map, Chart",
+   "dev": "Wavve Boating INC",
+   "ratings": 6655,
+   "rating": 4.74695,
+   "released": "2017-08-12",
+   "price": "Free"
+  },
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  },
+  {
+   "id": 1479182650,
+   "name": "Savvy Navvy: Boat Navigation",
+   "dev": "savvy navvy",
+   "ratings": 8422,
+   "rating": 4.67431,
+   "released": "2019-09-25",
+   "price": "Free"
+  }
+ ],
+ "C-MAP boating": [
+  {
+   "id": 967289980,
+   "name": "C-MAP: Boating",
+   "dev": "Navico Norway AS",
+   "ratings": 2437,
+   "rating": 4.52277,
+   "released": "2015-04-28",
+   "price": "Free"
+  },
+  {
+   "id": 744920098,
+   "name": "Navionics® Boating",
+   "dev": "Garmin",
+   "ratings": 2357,
+   "rating": 2.8566,
+   "released": "2014-01-02",
+   "price": "Free"
+  },
+  {
+   "id": 1476822749,
+   "name": "Simrad: Companion for Boaters",
+   "dev": "Navico Norway AS",
+   "ratings": 2684,
+   "rating": 4.61885,
+   "released": "2019-11-01",
+   "price": "Free"
+  }
+ ],
+ "Mercury Marine app": [
+  {
+   "id": 1645100017,
+   "name": "Mercury Marine",
+   "dev": "Mercury Marine LLC",
+   "ratings": 38,
+   "rating": 1.63158,
+   "released": "2023-04-11",
+   "price": "Free"
+  },
+  {
+   "id": 1167532720,
+   "name": "VesselView Mobile",
+   "dev": "Mercury Marine LLC",
+   "ratings": 150,
+   "rating": 3.14667,
+   "released": "2016-11-01",
+   "price": "Free"
+  },
+  {
+   "id": 1544487941,
+   "name": "SmartCraft Manager",
+   "dev": "Mercury Marine LLC",
+   "ratings": 26,
+   "rating": 1.19231,
+   "released": "2021-04-15",
+   "price": "Free"
+  }
+ ],
+ "RockIn gem rock identifier": [
+  {
+   "id": 1546796934,
+   "name": "Rock Identifier: Stone ID",
+   "dev": "Next Vision Limited",
+   "ratings": 82533,
+   "rating": 4.65456,
+   "released": "2021-01-26",
+   "price": "Free"
+  },
+  {
+   "id": 6754837588,
+   "name": "RockIn: Gem & Rock Identifier",
+   "dev": "Vortemol Limited",
+   "ratings": 1798,
+   "rating": 4.42603,
+   "released": "2025-12-02",
+   "price": "Free"
+  },
+  {
+   "id": 6469999508,
+   "name": "Rock ID - Stone Identifier",
+   "dev": "AIBY",
+   "ratings": 3154,
+   "rating": 4.38269,
+   "released": "2023-12-20",
+   "price": "Free"
+  }
+ ],
+ "Rockd": [
+  {
+   "id": 1153056624,
+   "name": "Rockd",
+   "dev": "University of Wisconsin-Madison Shared Apps",
+   "ratings": 187,
+   "rating": 4.37967,
+   "released": "2016-09-17",
+   "price": "Free"
+  },
+  {
+   "id": 1546796934,
+   "name": "Rock Identifier: Stone ID",
+   "dev": "Next Vision Limited",
+   "ratings": 82533,
+   "rating": 4.65456,
+   "released": "2021-01-26",
+   "price": "Free"
+  },
+  {
+   "id": 1600769016,
+   "name": "Mine Locator Map",
+   "dev": "Qvyshift LLC",
+   "ratings": 368,
+   "rating": 4.55435,
+   "released": "2021-12-19",
+   "price": "Free"
+  }
+ ],
+ "Rock Identifier Stone ID": [
+  {
+   "id": 1546796934,
+   "name": "Rock Identifier: Stone ID",
+   "dev": "Next Vision Limited",
+   "ratings": 82533,
+   "rating": 4.65456,
+   "released": "2021-01-26",
+   "price": "Free"
+  },
+  {
+   "id": 6749259063,
+   "name": "Rock Identifier • Stone ID",
+   "dev": "Orkhan Alizada",
+   "ratings": 4,
+   "rating": 4,
+   "released": "2025-07-30",
+   "price": "Free"
+  }
+ ],
+ "Crystal identifier": [
+  {
+   "id": 1546796934,
+   "name": "Rock Identifier: Stone ID",
+   "dev": "Next Vision Limited",
+   "ratings": 82533,
+   "rating": 4.65456,
+   "released": "2021-01-26",
+   "price": "Free"
+  },
+  {
+   "id": 1528275327,
+   "name": "Crystalyze: Crystal Identifier",
+   "dev": "Crystalyze Media Inc.",
+   "ratings": 3433,
+   "rating": 4.74599,
+   "released": "2020-09-19",
+   "price": "Free"
+  },
+  {
+   "id": 1623138956,
+   "name": "Healing Pal:Crystal Identifier",
+   "dev": "Next Vision Limited",
+   "ratings": 1172,
+   "rating": 4.71842,
+   "released": "2022-07-05",
+   "price": "Free"
+  }
+ ],
+ "Cleanup Phone Storage Cleaner": [
+  {
+   "id": 1510944943,
+   "name": "Cleanup: Phone Storage Cleaner",
+   "dev": "DEEP FLOW SOFTWARE SERVICES",
+   "ratings": 757219,
+   "rating": 4.65062,
+   "released": "2020-12-05",
+   "price": "Free"
+  },
+  {
+   "id": 1575903244,
+   "name": "Clean Up Phone Storage: CleanX",
+   "dev": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
+   "ratings": 29118,
+   "rating": 4.55044,
+   "released": "2021-08-27",
+   "price": "Free"
+  },
+  {
+   "id": 6449484412,
+   "name": "Phone Storage Cleaner: Free up",
+   "dev": "Must Have Apps",
+   "ratings": 73550,
+   "rating": 4.52046,
+   "released": "2023-10-19",
+   "price": "Free"
+  }
+ ],
+ "CleanMy phone": [
+  {
+   "id": 1277110040,
+   "name": "CleanMy®Phone: Cleanup Storage",
+   "dev": "MacPaw Way Ltd",
+   "ratings": 22844,
+   "rating": 4.58987,
+   "released": "2017-12-15",
+   "price": "Free"
+  },
+  {
+   "id": 1510944943,
+   "name": "Cleanup: Phone Storage Cleaner",
+   "dev": "DEEP FLOW SOFTWARE SERVICES",
+   "ratings": 757219,
+   "rating": 4.65062,
+   "released": "2020-12-05",
+   "price": "Free"
+  },
+  {
+   "id": 1194582243,
+   "name": "Cleaner Kit - Clean Up Storage",
+   "dev": "BPMobile",
+   "ratings": 353976,
+   "rating": 4.44262,
+   "released": "2017-01-26",
+   "price": "Free"
+  }
+ ],
+ "Cleaner Kit": [
+  {
+   "id": 1194582243,
+   "name": "Cleaner Kit - Clean Up Storage",
+   "dev": "BPMobile",
+   "ratings": 353976,
+   "rating": 4.44262,
+   "released": "2017-01-26",
+   "price": "Free"
+  },
+  {
+   "id": 1510944943,
+   "name": "Cleanup: Phone Storage Cleaner",
+   "dev": "DEEP FLOW SOFTWARE SERVICES",
+   "ratings": 757219,
+   "rating": 4.65062,
+   "released": "2020-12-05",
+   "price": "Free"
+  }
+ ]
+}
