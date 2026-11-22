@@ -10,7 +10,7 @@
 > Джерела — інструменти з `Additional Materials`, перелік у розділі 10.
 
 **Правила даних:**
-- сирі дані (вивантаження AppKittie, Google Trends, PDF звіту Collectr) лежать локально в автора, у `Final Project/Collectibles/data/`, і в репозиторій не публікуються;
+- сирі дані (відповіді AppKittie, Google Trends, PDF звіту Collectr) лежать у репозиторії: `data/appkittie/` і `data/02_collectibles/` (опис — `data/README.md`);
 - цифри AppKittie — **модельні оцінки** за останні 30 днів, лише стори, без продажів через сайт і без комісій маркетплейсів;
 - надійність джерел: **A** — первинні або офіційні, **B** — інструменти й агрегатори з відомою методикою, **C** — самозаяви, блоги, сторонні оцінки;
 - припущення позначено **[гіпотеза]**.
@@ -349,7 +349,7 @@
 
 ## 6. Попит і тренди (Google Trends, США, 5 років)
 
-*Значення відносні: 100 — пік TCGplayer, 24.05.2026. Дані зібрано через браузер 22.11.2026; файл — `data/google_trends_22-11-2026.json`.*
+*Значення відносні: 100 — пік TCGplayer, 24.05.2026. Дані зібрано через браузер 22.11.2026; файл — `data/02_collectibles/google_trends_22-11-2026.json`.*
 
 | Запит | 2022 | 2023 | 2024 | 2025 | 2026 (до 22.11) | Останні 52 тижні проти попередніх |
 |---|---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 
 ### 6.1. Особливості ринку зі звіту Collectr «State of the TCG Hobby, mid-2026»
 
-*Рівень A, але це самозвіт компанії. Методика: дані платформи + завершені продажі на eBay, Fanatics Collect, Goldin і Heritage, станом на 06.2026. PDF збережено в `data/sources/`.*
+*Рівень A, але це самозвіт компанії. Методика: дані платформи + завершені продажі на eBay, Fanatics Collect, Goldin і Heritage, станом на 06.2026. PDF збережено в `data/02_collectibles/sources/`.*
 
 | Факт | Цифра |
 |---|---|
@@ -454,7 +454,7 @@
   - https://www.ycombinator.com/companies/whatnot [A]
   - https://www.ycombinator.com/companies/courtyard [A]
   - https://www.ycombinator.com/companies/misprint [A]
-- Collectr, «State of the TCG Hobby 2026 mid-year» — https://public.getcollectr.com/public-assets/reports/state-of-the-hobby-2026-mid-year-report.pdf [A, самозвіт; копія в `data/sources/`]
+- Collectr, «State of the TCG Hobby 2026 mid-year» — https://public.getcollectr.com/public-assets/reports/state-of-the-hobby-2026-mid-year-report.pdf [A, самозвіт; копія в `data/02_collectibles/sources/`]
 - BetaKit про Collectr — https://betakit.com/how-collectr-bootstrapped-a-trading-card-hobby-into-an-eight-figure-business/ [B]
 - TechCrunch, CollX seed — https://techcrunch.com/2023/02/27/collx-raises-5-5m-to-scan-and-evaluate-value-of-trading-cards [B]
 - TechCrunch, CollX Series A — https://techcrunch.com/2025/03/07/collx-raises-10m-to-grow-its-card-collection-marketplace [B]
@@ -478,7 +478,7 @@
 - Не відкрились: Ahrefs і BuiltWith (CAPTCHA), Serpstat (логін).
 
 **SEO, контент, пошукові тренди:**
-- Google Trends, US, 5 років — https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=pokemon%20card%20value,collectr,tcgplayer,card%20grading,psa%20grading [A, відносний індекс; дані — `data/google_trends_22-11-2026.json`]
+- Google Trends, US, 5 років — https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=pokemon%20card%20value,collectr,tcgplayer,card%20grading,psa%20grading [A, відносний індекс; дані — `data/02_collectibles/google_trends_22-11-2026.json`]
 - Обсяги ключових слів — SpyFu [B]
 - AnswerThePublic, BuzzSumo, Keyword Planner — потрібні логін або акаунт.
 - Semrush не використовуємо, бо школа позначає його як компанію російського походження.
