@@ -16,7 +16,7 @@
 - Скарги автоматично розкладено за темами, а ≈ 100 відгуків прочитано вручну.
 - З описів застосунків і сторінок App Store взято функції й ціни.
 
-Сирі дані й скрипти лежать у папці `data/`.
+Сирі дані й скрипти лежать у `data/02_collectibles/` і `data/appkittie/` (опис — `data/README.md`).
 
 > **Обмеження.**
 > - Письмові відгуки зазвичай негативніші за загальний рейтинг. Середня оцінка свіжих відгуків — 2,7–4,1★, а загальний рейтинг у сторі — 4,3–4,9★.
@@ -441,7 +441,7 @@
 ## 9. Джерела
 
 **Дані:**
-- App Store: RSS-фід свіжих відгуків (`https://itunes.apple.com/us/rss/customerreviews/page=N/id=<ID>/sortby=mostrecent/json`), iTunes Lookup API, сторінки застосунків — збір 10.11.2026. Сирі дані: `data/appstore_reviews.json`.
+- App Store: RSS-фід свіжих відгуків (`https://itunes.apple.com/us/rss/customerreviews/page=N/id=<ID>/sortby=mostrecent/json`), iTunes Lookup API, сторінки застосунків — збір 10.11.2026. Сирі дані: `data/02_collectibles/appstore_reviews.json`.
 - AppKittie, `search_apps` і `get_keyword_difficulty`, 11.2026.
 - Ринок, ріст і новачки: `../01_niche_selection/DEEP_DIVE_4_niches.md`, Додаток D.
 
