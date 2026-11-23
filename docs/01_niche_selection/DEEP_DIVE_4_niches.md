@@ -23,7 +23,7 @@
 
 **Бюджет AppKittie:** **69 кредитів** із дозволених 50–70 (журнал — у Додатку A). Баланс команди: 248 → 179. Частину даних про картки й монети взято з мого шортлисту 34–67, де був окремий бюджет у 50 кредитів.
 
-**Сирі дані й скрипти:** папка `data/`.
+**Сирі дані й скрипти:** `data/01_niche_selection/team_niches_deep_dive/` і `data/appkittie/` (опис — `data/README.md`).
 
 > **Важливо про цифри AppKittie:**
 > - Це модельні оцінки: лише стори, без продажів через сайт.
@@ -466,7 +466,7 @@
 
 ## Додаток B. Архів App Store (кількість оцінок, US)
 
-Повні ряди — у файлах `data/wb_t*.json` і `../Shortlist_34-67/data/wayback_all.json`.
+Повні ряди — у файлах `data/01_niche_selection/team_niches_deep_dive/wb_t*.json` і `data/01_niche_selection/shortlist_34-67/wayback_all.json`.
 
 | Застосунок | 2024 | 2025 | 2026 | 11.2026 |
 |---|---|---|---|---|
@@ -493,7 +493,7 @@
 | Клінери | 499 | 180 | 42 (23,3%) | 153 / 2 |
 | Човни | 503 | 70 | 4 (5,7%) | 114 / 0 |
 
-Файли: `data/entrants_team.json`, `../Shortlist_34-67/data/entrants_scan.json`.
+Файли: `data/01_niche_selection/team_niches_deep_dive/entrants_team.json`, `data/01_niche_selection/shortlist_34-67/entrants_scan.json`.
 
 ## Додаток D. Ключові джерела
 

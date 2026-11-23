@@ -1,0 +1,36 @@
+
+boating Savvy Navvy (66 captures)
+   2022-02-16         524  exact
+   2022-07-14        1830  exact
+   2022-11-10        3120  exact
+   2023-06-26        5028  exact
+   2024-06-25        5361  exact
+   2025-01-19        5399  exact
+   2025-07-17        5436  exact
+   2025-12-31        5816  exact
+   2026-07-13           0  exact
+   2026-11-08        8422  itunes_api
+
+boating Wavve (31 captures)
+   2022-12-07         512  exact
+   2023-07-16        1032  exact
+   2023-12-02        1416  exact
+   2024-06-23        1960  exact
+   2025-01-23        2693  exact
+   2025-07-17        3657  exact
+   2025-12-31        4558  exact
+   2026-07-01        5494  exact
+   2026-11-08        6655  itunes_api
+
+boating Aqua Map (49 captures)
+   2022-05-25        6689  exact
+   2023-03-27        7960  exact
+   2023-06-08        8365  exact
+   2024-03-13        9530  exact
+   2024-07-25           —  ERR HTTP Error 404: NOT FOUND
+   2025-01-23       10857  exact
+   2025-08-10       11809  exact
+   2025-12-31       12277  exact
+   2026-07-02       13218  exact
+   2026-11-08       13864  itunes_api
+DONE

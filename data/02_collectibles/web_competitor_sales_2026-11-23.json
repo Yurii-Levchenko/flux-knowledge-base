@@ -1,0 +1,127 @@
+{
+  "collected": "2026-11-22..23",
+  "purpose": "Web (website) sales of Collectibles competitors. AppKittie sees only App Store / Google Play, so web subscriptions are invisible there. Used in docs/02_collectibles/COMPETITORS_DEEP_DIVE.md, section 2.1.",
+  "grades": "A = primary/official (pricing pages, site code, SEC filings, court dockets); B = independent tool or press with method; C = company claim, review, snippet, vendor model",
+  "competitors": {
+    "Collectr": {
+      "sells_on_web": true,
+      "web_checkout": "getcollectr.com/pro -> 'Upgrade to PRO' -> https://app.getcollectr.com/?intent=subscribe; checkout after login",
+      "payment": "RevenueCat Web Billing: web-app JS bundle contains 'Secure checkout by RevenueCat' and 'purchases-js' (checked 23.11.2026) [A]",
+      "web_prices": {"monthly": "$7.99", "annual": "$4.99/mo billed annually (~$59.88/yr)", "source": "https://getcollectr.com/pro", "grade": "A"},
+      "in_app_prices": {"monthly": "$7.99", "annual": "$59.99", "grade": "A"},
+      "public_numbers": [
+        {"fact": "eight-figure ARR, team of 5, bootstrapped", "date": "2025-08-13", "source": "https://betakit.com/how-collectr-bootstrapped-a-trading-card-hobby-into-an-eight-figure-business/", "grade": "B"}
+      ],
+      "notes": ["PRO page says 'sports cards coming soon' (22.11.2026)", "Meta ads lead to the web app (COMPETITORS_DEEP_DIVE 5.4)", "Web prices = app prices, no web discount"]
+    },
+    "Card Ladder": {
+      "owner": "Collectors (PSA), since 2021",
+      "sells_on_web": true,
+      "payment": "'stripe' present in pricing page HTML (23.11.2026) [A]; the pricing-page FAQ mentions Stripe",
+      "web_prices": {"pro_monthly": "$20", "pro_annual": "$200 ('2 months free')", "trial": "7 days", "since": "2025-02-01 (before: $15/$150)", "source": "https://www.cardladder.com/pricing", "grade": "A"},
+      "in_app_prices": {"monthly": "$19.99", "annual": "$199.99", "grade": "A"},
+      "public_numbers": [{"fact": "paying subscribers not disclosed; database 100M+ sales (site claim)", "grade": "C"}]
+    },
+    "Market Movers (Sports Card Investor)": {
+      "sells_on_web": true,
+      "payment": "MemberPress (WordPress) + Stripe Checkout + PayPal",
+      "web_prices": {"starter": "$9.99/mo or $99.99/yr", "premium": "$24.99/mo or $249.99/yr", "unlimited": "$49.99/mo or $499.99/yr", "source": "https://www.marketmoversapp.com/#pricing", "grade": "A"},
+      "in_app_prices": "same",
+      "public_numbers": [{"fact": "'75,000+ hobbyists' (likely registrations, not payers)", "source": "https://www.marketmoversapp.com", "grade": "C"}, {"fact": "iOS app has 1,688 ratings", "grade": "A"}]
+    },
+    "PriceCharting / SportsCardsPro": {
+      "sells_on_web": true,
+      "payment": "unknown (site blocks automated access); earlier code check showed PayPal",
+      "web_prices": {"collector": "$6/mo or $59/yr", "legendary": "$49/mo (API/CSV)", "retail": "not found", "source": "https://thegeeksclub.com/platforms/pricecharting/ (review checked against site 15.10.2026)", "grade": "C"},
+      "in_app_prices": {"collector_monthly": "$5.99", "collector_annual": "$59.99", "grade": "A"},
+      "public_numbers": [{"fact": "No. 12 on Inc. Regionals Rocky Mountain 2025; methodology requires revenue >= $1M in 2023 and >= $100K in 2021; ranked by 2-year revenue growth", "date": "2025-04-14", "source": "https://www.prnewswire.com/news-releases/inc-names-pricecharting-to-its-2025-list-of-the-fastest-growing-private-companies-in-the-rocky-mountains-302426943.html", "grade": "B"}]
+    },
+    "WorthPoint": {
+      "segment": "antiques, art, vintage collectibles",
+      "sells_on_web": true,
+      "web_prices": {"all_access_monthly": "$29.99", "all_access_annual": "$305.90 (save 15%)", "trial": "7 days", "flow": "Choose plan -> Create account -> Payment details; USD/EUR/GBP/CAD", "source": "https://www.worthpoint.com/product/index", "checked": "2026-11-22", "grade": "A"},
+      "other_plans_from_review": {"price_guide": "$28.99/mo or $259.99/yr", "price_guide_plus_marks": "$37.99/mo or $399.99/yr", "source": "https://underpriced.app/blog/worthpoint-review-2026", "grade": "C"},
+      "in_app_prices": {"all_access": "$29.99/mo or $304.99/yr", "grade": "A"},
+      "billing": "Zuora (since 2014, Zuora case study) [B]",
+      "sec_form_c_a": {"filed": "2023-09-14", "revenue_2022": 10997873, "revenue_2021": 9354303, "net_income_2022": -4666071, "net_income_2021": -1881109, "cost_of_goods_2022": 2044450, "employees": 32, "source": "https://www.sec.gov/Archives/edgar/data/1450158/000166516023001757/primary_doc.xml", "grade": "A"},
+      "ios_app_ratings_us": 117
+    },
+    "Beckett": {
+      "owner": "Collectors (acquisition announced 15.12.2025)",
+      "sells_on_web": true,
+      "web_prices": {"total_access_12_months": "$349.99", "single_guides": "from $19.99/mo, annual from $89.99", "source": "https://www.beckett.com/online-price-guide (403 for automated access; prices from search snippets)", "grade": "C"},
+      "in_app_prices": {"total_access": "$40.99/mo or $119.99/3 months", "grade": "A"},
+      "public_numbers": "not disclosed"
+    },
+    "Kovels": {"owner": "Active Interest Media (since 23.03.2023)", "sells_on_web": true, "web_prices": {"all_access_online": "$59.99/yr", "with_print": "$79.99/yr"}, "source": "https://www.kovels.com/subscriptions/", "grade": "A", "app": "no iOS app found"},
+    "Numista": {"sells_on_web": true, "web_prices": "not confirmed (Cloudflare)", "notes": "Premium used by <1% of users (snippet, C)", "source": "https://en.numista.com/premium/"},
+    "CollX": {
+      "sells_on_web": "CollX Pro: no (in-app, Family Sharing). Web: B2B Card Dealer Pro $9/$19/$59 per month, annual -16%",
+      "in_app_prices": {"pro": "$9.99/mo or $99.99/yr", "gold": "$24.99/mo or $249.00/yr"},
+      "sources": ["https://collx.app/collx-pro", "https://carddealerpro.com"],
+      "public_numbers": [
+        {"fact": "3M+ users, 400K MAU, revenue mostly Pro + Card Dealer Pro, not yet profitable", "date": "2025-03-07", "source": "https://techcrunch.com/2025/03/07/collx-raises-10m-to-grow-its-card-collection-marketplace", "grade": "B"},
+        {"fact": "~$10M revenue per year and profitable (founder claim)", "date": "2026-04", "source": "Technical.ly (search snippet)", "grade": "C"},
+        {"fact": "Latka model estimate 2025 ~ $1.9M", "grade": "C"}
+      ]
+    },
+    "Ludex": {
+      "sells_on_web": false,
+      "notes": "Membership page shows prices, button leads to app download",
+      "prices": {"lite": "$4.99/mo or $44.99/yr", "standard": "$9.99/mo or $89.99/yr", "pro": "$24.99/mo or $239.99/yr", "source": "https://ludex.com/membership/"},
+      "sec_form_c_a": {"filed": "2024-04-23", "revenue_2023": 72258, "revenue_2022": 0, "net_income_2023": -3265119, "net_income_2022": -1043506, "employees": 14, "source": "https://www.sec.gov/Archives/edgar/data/1886949/000167025424000409/primary_doc.xml", "grade": "A"}
+    },
+    "HoloDex": {"sells_on_web": false, "notes": "Site links to stores only; terms (18.05.2026) mention a web app and RevenueCat, but no public web checkout", "source": "https://getholodex.com"},
+    "Next Vision (CoinSnap, FoilSnap)": {"sells_on_web": false, "source": "https://coinidentifierai.com"},
+    "PCGS CoinFacts / NGC": {"sells_on_web": false, "notes": "Free. CoinFacts free since 03.02.2016 (before $149/yr); NGC Price Guide free", "sources": ["https://coinsweekly.com/pcgs-celebrates-30th-anniversary-with-free-pcgs-coinfacts/", "https://www.ngccoin.com/price-guide/world/"], "grade": "B"},
+    "Rare Candy": {"sells_on_web": "no subscription; marketplace (~13% seller fee, Dealroom, C) + digital packs; Stripe", "source": "https://rarecandy.com"}
+  },
+  "similarweb_2026_10": {
+    "note": "Similarweb free overview, October 2026. Free search limit reached on 22.11.2026 after worthpoint.com and pcgs.com (beckett.com, numista.com not measured). Other domains: COMPETITORS_DEEP_DIVE 5.3.",
+    "worthpoint.com": {"visits": "4.9M", "mom_change": "+8.71%", "bounce": "59.15%", "pages_per_visit": 3.68, "avg_duration": "00:01:50", "us_share": "68.79%"},
+    "pcgs.com": {"visits": "1.2M", "mom_change": "+4.09%", "bounce": "45.78%", "pages_per_visit": 3.46, "avg_duration": "00:03:50", "us_share": "91.14%"}
+  },
+  "crunchbase_free_profiles": {
+    "note": "Opened in a regular browser 22.11.2026. Estimated revenue only in Crunchbase Pro. 'Monthly Web Visits' on Crunchbase is Semrush data (logo on page) - not used per school guidance; only headcount/HQ taken.",
+    "Collectr": {"headcount": "1-10", "hq": "Vaughan, Ontario, Canada"},
+    "WorthPoint": {"headcount": "11-50", "hq": "Atlanta, Georgia, US"},
+    "Beckett Collectibles": {"headcount": "101-250", "hq": "Plano, Texas, US"},
+    "Sports Card Investor": {"headcount": "11-50", "hq": "Atlanta, Georgia, US"}
+  },
+  "app_store_reviews_web_mentions": {
+    "note": "Regex over data/02_collectibles/appstore_reviews.json (collected 10.11.2026): mentions of website/web app/desktop together with payment words",
+    "Collectr": "0 of 350", "CollX": "4 of 500 (incl. 'seller hub on PC requires Gold membership')", "Ludex": "2 of 500 (incl. 'no web app')"
+  },
+  "store_rules": {
+    "US": [
+      {"date": "2025-04-30", "fact": "District court (Epic v. Apple): Apple violated the anti-steering injunction; apps may link to web checkout, 0% commission"},
+      {"date": "2025-12-11", "fact": "Ninth Circuit (No. 25-2935) affirmed contempt but reversed the outright ban on commissions; Apple may charge only for genuinely and reasonably necessary costs once a rate is approved", "source": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf"},
+      {"date": "2026-06-30", "fact": "Supreme Court granted Apple's petition limited to Question 1 (No. 25-1311); stay denied by Justice Kagan 13.08.2026; argument set for 11.01.2027", "source": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-1311.html", "grade": "A"},
+      {"date": "2026-08-13", "fact": "Apple proposed link-out commissions: 15% standard, 10% partner programs and subscription renewals, 5% Small Business Program; not approved yet", "source": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/", "grade": "B"},
+      {"date": "2026-08-04", "fact": "Match Group: link-out purchases 'still 0% commissions'; ~$130M savings expected in 2026", "source": "https://gloom.sh/stocks/mtch/transcripts/q2-2026", "grade": "C"}
+    ],
+    "EU": [
+      {"date": "2026-08", "fact": "From 01.10.2026: IAP 26% (15% Small Business / programs / renewals after year 1); alternative in-app processing 20% (10%); link-out 15% (10%); 5% Core Technology Commission outside App Store. Under 13: no link-outs; under 18: parental gate", "source": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/", "grade": "A"}
+    ]
+  },
+  "benchmarks": [
+    {"fact": "Web = 3.2% of subscription-app revenue globally, 4.9% in North America, 0.8% IN/SEA; 41% of top-tier apps have web revenue vs 1.3% of hobby apps", "source": "https://www.revenuecat.com/state-of-subscription-apps/", "date": "2026-03", "grade": "B"},
+    {"fact": "Dipsea A/B test: trial start 27.0% IAP vs 18.1% web; web net revenue -6.4% at 30% Apple fee; at 15% fee web yields ~$0.77 per $1 of IAP", "source": "https://www.revenuecat.com/blog/growth/iap-vs-web-purchases-conversion-test", "date": "2025-05-14", "grade": "B"},
+    {"fact": "3 apps, 1 year: web conversion -26%, ARPU +53% at 30% fee; ARPU -9% at 15% fee", "source": "https://adapty.io/blog/app-to-web-paywalls-ios-one-year-data/", "date": "2026-09-28", "grade": "C"}
+  ],
+  "market_estimate_usd_per_month": {
+    "stores_cards_and_coins_appkittie": 6000000,
+    "worthpoint_2022_revenue_div_12": 916000,
+    "collectr_web": {"low": 42000, "high": 152000, "assumption": "web = 3-10% of Collectr total revenue; store = $1.37M/mo (AppKittie 22.11.2026)", "label": "hypothesis"},
+    "web_first_card_tools": {"low": 200000, "high": 900000, "assumption": "Card Ladder 5-20K payers x $17-20; Market Movers 3-8K x ~$15; PriceCharting and Beckett web subscriptions $0.03-0.2M each", "label": "hypothesis"},
+    "total": {"low": 7100000, "high": 8000000}
+  },
+  "blocked_or_unverified": [
+    "BuiltWith: CAPTCHA (not solved by policy)",
+    "Owler: data behind sign-up",
+    "Similarweb: free search limit after 2 new domains",
+    "pricecharting.com, sportscardspro.com, beckett.com, numista.com: 403 / Cloudflare for automated access",
+    "Collectr web checkout prices load from RevenueCat only after login",
+    "No player discloses web share of revenue or paying subscribers (except old Market Movers figure of 1,000 paid in 2020, no URL)"
+  ]
+}

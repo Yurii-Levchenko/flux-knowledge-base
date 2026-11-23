@@ -1,0 +1,924 @@
+{
+ "Collectr": {
+  "niche": 50,
+  "id": 1603892248,
+  "series": [
+   {
+    "date": "2022-02-04",
+    "ratings": 4,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220204213424/https://apps.apple.com/us/app/collectr-tcg-portfolio-app/id1603892248"
+   },
+   {
+    "date": "2022-07-03",
+    "ratings": 779,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220703000909/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2022-12-23",
+    "ratings": 2786,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20221223234335/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?l=vi"
+   },
+   {
+    "date": "2023-06-08",
+    "ratings": 4996,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230608112315/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2024-06-13",
+    "ratings": 12642,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240613162637/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2025-01-08",
+    "ratings": 15834,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250108192258/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2025-07-21",
+    "ratings": 24502,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250721005727/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2026-02-04",
+    "ratings": 36523,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260204071924/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2026-07-16",
+    "ratings": 57649,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260716123516/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 69591,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248",
+    "released": "2022-01-31"
+   }
+  ]
+ },
+ "CoinSnap": {
+  "niche": 50,
+  "id": 1634551626,
+  "series": [
+   {
+    "date": "2022-09-01",
+    "ratings": 1,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220901081918/https://apps.apple.com/us/app/coinsnap-value-guide/id1634551626"
+   },
+   {
+    "date": "2022-12-23",
+    "ratings": 11465,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20221223234237/https://apps.apple.com/us/app/coinsnap-value-guide/id1634551626?l=vi"
+   },
+   {
+    "date": "2023-08-05",
+    "ratings": 63900,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230805161023/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626?platform=iphone"
+   },
+   {
+    "date": "2023-11-27",
+    "ratings": 83106,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231127232434/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626"
+   },
+   {
+    "date": "2024-07-14",
+    "ratings": 123167,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240714153214/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626"
+   },
+   {
+    "date": "2025-01-16",
+    "ratings": 159102,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250116015522/https://apps.apple.com/us/app/coinsnap-%D9%85%D8%B9%D8%B1-%D9%81-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA/id1634551626?l=ar"
+   },
+   {
+    "date": "2025-07-13",
+    "ratings": 199594,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250713224546/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626"
+   },
+   {
+    "date": "2026-01-14",
+    "ratings": 247213,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260114112503/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626?gclid=CjwKCAjwzMi_BhACEiwAX4YZUKHM-BvXtm_hsmXAZdx0Z2miGW0_wkOTIjICxuUdMfsqeCQucuLQ0BoCBvcQAvD_BwE"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 289834,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715074800/https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 310600,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/coinsnap-coin-identifier/id1634551626",
+    "released": "2022-08-03"
+   }
+  ]
+ },
+ "CollX": {
+  "niche": 50,
+  "id": 1581164444,
+  "series": [
+   {
+    "date": "2022-01-19",
+    "ratings": 33,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220119180705/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2022-06-09",
+    "ratings": 2642,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220609084825/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2023-02-05",
+    "ratings": 6913,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230205150207/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444?uo=4&at=10lGfI"
+   },
+   {
+    "date": "2023-06-16",
+    "ratings": 7123,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230616191207/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2024-02-26",
+    "ratings": 8069,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240226203914/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2024-09-06",
+    "ratings": 16756,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240906005634/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2024-11-08",
+    "ratings": 19535,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20241108235013/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2025-07-16",
+    "ratings": 30226,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250716193508/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2026-02-03",
+    "ratings": 36188,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260203233050/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2026-07-12",
+    "ratings": 0,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260712183459/https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 50657,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/collx-sports-card-scanner/id1581164444",
+    "released": "2022-01-10"
+   }
+  ]
+ },
+ "Coin ID": {
+  "niche": 50,
+  "id": 1665672552,
+  "series": [
+   {
+    "date": "2023-03-05",
+    "ratings": 9,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230305221635/https://apps.apple.com/us/app/coinid-coin-identifier/id1665672552"
+   },
+   {
+    "date": "2023-10-10",
+    "ratings": 6781,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231010070237/https://apps.apple.com/us/app/coinid-coin-value-identifier/id1665672552"
+   },
+   {
+    "date": "2023-11-28",
+    "ratings": 7886,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231128012920/https://apps.apple.com/us/app/coinid-coin-value-identifier/id1665672552"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 44682,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/coin-id-coin-value-identifier/id1665672552",
+    "released": "2023-02-20"
+   }
+  ]
+ },
+ "YarnPal": {
+  "niche": 55,
+  "id": 6738537088,
+  "series": [
+   {
+    "date": "2025-01-19",
+    "ratings": 13,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250119201435/https://apps.apple.com/us/app/yarnpal-crochet-knit-guide/id6738537088"
+   },
+   {
+    "date": "2025-07-01",
+    "ratings": 2398,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250701230252/https://apps.apple.com/us/app/yarnpal-crochet-for-beginner/id6738537088"
+   },
+   {
+    "date": "2026-01-15",
+    "ratings": 18256,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260115130056/https://apps.apple.com/us/app/yarnpal-crochet-knitting/id6738537088?l=ru"
+   },
+   {
+    "date": "2026-07-13",
+    "ratings": 29372,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260713023942/https://apps.apple.com/us/app/yarnpal-crochet-patterns/id6738537088?at=11lru7&uo=4"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 34951,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/yarnpal-crochet-patterns/id6738537088",
+    "released": "2024-12-19"
+   }
+  ]
+ },
+ "Loopsy": {
+  "niche": 55,
+  "id": 6745416564,
+  "series": [
+   {
+    "date": "2026-02-16",
+    "ratings": 8491,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260216231802/https://apps.apple.com/us/app/loopsy-crochet-knitting/id6745416564"
+   },
+   {
+    "date": "2026-07-16",
+    "ratings": 12896,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260716123216/https://apps.apple.com/us/app/loopsy-crochet-knitting/id6745416564"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 17105,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/loopsy-crochet-knitting/id6745416564",
+    "released": "2025-05-23"
+   }
+  ]
+ },
+ "Sewpal": {
+  "niche": 55,
+  "id": 6754315885,
+  "series": [
+   {
+    "date": "2026-02-03",
+    "ratings": 1075,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260203015927/https://apps.apple.com/us/app/sewpal-sewing-guides-ideas/id6754315885?uo=4"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 7812,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715232204/https://apps.apple.com/us/app/sewpal-sewing-pattern-guide/id6754315885"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 13020,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/sewpal-sewing-pattern-guide/id6754315885",
+    "released": "2025-11-03"
+   }
+  ]
+ },
+ "Photomyne": {
+  "niche": 61,
+  "id": 1037784828,
+  "series": [
+   {
+    "date": "2022-01-25",
+    "ratings": 37644,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220125051831/https://apps.apple.com/us/app/photomyne-album-scanner/id1037784828"
+   },
+   {
+    "date": "2022-07-30",
+    "ratings": 44577,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220730115644/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2023-01-23",
+    "ratings": 48761,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230123130514/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2023-06-26",
+    "ratings": 52033,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230626185044/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828?ppid=e61ebf01-0b4c-4d26-9eaf-bba6aea188a5"
+   },
+   {
+    "date": "2023-12-05",
+    "ratings": 55268,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231205221135/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828?mt=8"
+   },
+   {
+    "date": "2024-07-18",
+    "ratings": 63011,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240718085632/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2025-01-18",
+    "ratings": 70041,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250118214603/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2025-07-07",
+    "ratings": 77250,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250707132822/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2026-01-14",
+    "ratings": 85050,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260114011954/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828?ppid=0f707d26-ace6-4660-ae3d-122169eddecb"
+   },
+   {
+    "date": "2026-07-16",
+    "ratings": 93076,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260716113629/https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 97265,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/photo-scan-app-by-photomyne/id1037784828",
+    "released": "2015-10-10"
+   }
+  ]
+ },
+ "Ancestry": {
+  "niche": 61,
+  "id": 349554263,
+  "series": [
+   {
+    "date": "2022-01-19",
+    "ratings": 201938,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220119163503/https://apps.apple.com/us/app/ancestry/id349554263?ign-mpt=uo%3D4"
+   },
+   {
+    "date": "2022-06-28",
+    "ratings": 240294,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220628204642/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2022-12-23",
+    "ratings": 287136,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20221223234411/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263?l=vi"
+   },
+   {
+    "date": "2023-05-30",
+    "ratings": 332248,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230530211757/https://apps.apple.com/us/app/ancestry/id349554263"
+   },
+   {
+    "date": "2023-12-27",
+    "ratings": 373003,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231227065921/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263?ign-mpt=uo%3D6"
+   },
+   {
+    "date": "2024-08-09",
+    "ratings": 409726,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240809200650/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2025-01-15",
+    "ratings": 451721,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250115062528/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2025-07-01",
+    "ratings": 502750,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250701230250/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2026-01-15",
+    "ratings": 563280,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260115060102/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2026-07-16",
+    "ratings": 624920,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260716123415/https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 660598,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263",
+    "released": "2010-01-19"
+   }
+  ]
+ },
+ "MyHeritage": {
+  "niche": 61,
+  "id": 477971748,
+  "series": [
+   {
+    "date": "2022-01-13",
+    "ratings": 40869,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220113195923/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2022-07-18",
+    "ratings": 44518,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220718033836/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2023-01-11",
+    "ratings": 47752,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230111041830/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2023-07-14",
+    "ratings": 50594,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230714073138/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2024-01-16",
+    "ratings": 53327,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240116154333/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748?mt=8"
+   },
+   {
+    "date": "2024-07-15",
+    "ratings": 55785,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240715095841/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748?mt=8"
+   },
+   {
+    "date": "2025-01-15",
+    "ratings": 58398,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250115062508/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748?mt=8"
+   },
+   {
+    "date": "2025-07-15",
+    "ratings": 61028,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250715100937/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2026-01-16",
+    "ratings": 63197,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260116155242/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2026-07-20",
+    "ratings": 65223,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260720060712/https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 66561,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/myheritage-family-tree-dna/id477971748",
+    "released": "2011-11-12"
+   }
+  ]
+ },
+ "PictureThis": {
+  "niche": 44,
+  "id": 1252497129,
+  "series": [
+   {
+    "date": "2022-01-15",
+    "ratings": 523689,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220115192412/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2022-07-03",
+    "ratings": 637686,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220703000306/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129?mt=8&at=10laz6&ct=applist_free"
+   },
+   {
+    "date": "2023-01-17",
+    "ratings": 708550,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230117170543/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2023-07-10",
+    "ratings": 802729,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230710054224/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129?platform=ipad"
+   },
+   {
+    "date": "2024-01-10",
+    "ratings": 856904,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240110090324/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2024-07-14",
+    "ratings": 929031,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240714153424/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2025-01-15",
+    "ratings": 955255,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250115063802/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2025-07-14",
+    "ratings": 1002635,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250714014249/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2026-01-15",
+    "ratings": 1034836,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260115144543/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 1095522,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715091737/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 1122685,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129",
+    "released": "2017-07-20"
+   }
+  ]
+ },
+ "ReciMe": {
+  "niche": 41,
+  "id": 1593779280,
+  "series": [
+   {
+    "date": "2023-09-08",
+    "ratings": 39,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230908075444/https://apps.apple.com/us/app/recime-easy-tasty-recipes/id1593779280"
+   },
+   {
+    "date": "2024-01-05",
+    "ratings": 283,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240105230814/https://apps.apple.com/us/app/recime-healthy-tasty-recipes/id1593779280"
+   },
+   {
+    "date": "2024-07-18",
+    "ratings": 1328,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240718042056/https://apps.apple.com/us/app/recime-recipe-keeper/id1593779280"
+   },
+   {
+    "date": "2025-01-15",
+    "ratings": 17816,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250115024254/https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280"
+   },
+   {
+    "date": "2025-07-19",
+    "ratings": 83969,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250719001750/https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?pcid=%7B%7Bcampaign.id%7D%7D&pcn=%7B%7Bcampaign.name%7D%7D&pcrid=%7B%7Bad.id%7D%7D&pcrn=%7B%7Bad.name%7D%7D&pscid=%7B%7Badset.id%7D%7D&pscn=%7B%7Badset.name%7D%7D&referrer=singular_click_id%3Db3ae6e2a-c89a-444c-a8b6-d255fe64caea&sl_id=058n&wpcid=%7B%7Bcampaign.id%7D%7D&wpcn=%7B%7Bcampaign.name%7D%7D&wpcrid=%7B%7Bad.id%7D%7D&wpcrn=%7B%7Bad.name%7D%7D&wpscid=%7B%7Badset.id%7D%7D&wpscn=%7B%7Badset.name%7D%7D&wpsrc=Facebook+Web"
+   },
+   {
+    "date": "2026-01-20",
+    "ratings": 191237,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260120155250/https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 258877,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715091759/https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 329601,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280",
+    "released": "2021-11-12"
+   }
+  ]
+ },
+ "Fishbrain": {
+  "niche": 47,
+  "id": 477967747,
+  "series": [
+   {
+    "date": "2022-02-18",
+    "ratings": 29715,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220218063440/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2022-09-26",
+    "ratings": 37172,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220926204209/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2022-12-30",
+    "ratings": 38146,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20221230155940/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2023-06-25",
+    "ratings": 40831,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230625005719/http://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2024-01-23",
+    "ratings": 44351,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240123200614/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2024-07-15",
+    "ratings": 48361,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240715043156/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2025-01-16",
+    "ratings": 52506,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250116010422/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2025-07-31",
+    "ratings": 59718,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250731215036/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2026-01-07",
+    "ratings": 62459,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260107053650/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 67440,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715061521/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 76721,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747",
+    "released": "2013-02-24"
+   }
+  ]
+ },
+ "Fish AI": {
+  "niche": 47,
+  "id": 6740141927,
+  "series": [
+   {
+    "date": "2025-07-11",
+    "ratings": 1140,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250711024649/https://apps.apple.com/us/app/fish-ai-ai-fishing-app/id6740141927?uo=4"
+   },
+   {
+    "date": "2026-02-11",
+    "ratings": 10453,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260211121849/https://apps.apple.com/us/app/fish-ai-ai-fishing-app/id6740141927"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 19319,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715090718/https://apps.apple.com/us/app/fish-ai-ai-fishing-app/id6740141927"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 27379,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/fish-ai-ai-fishing-app/id6740141927",
+    "released": "2025-01-27"
+   }
+  ]
+ },
+ "The Dyrt": {
+  "niche": 67,
+  "id": 1187626329,
+  "series": [
+   {
+    "date": "2022-01-13",
+    "ratings": 41361,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220113082610/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2022-07-21",
+    "ratings": 55280,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220721105746/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2023-01-31",
+    "ratings": 64619,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230131211925/https://apps.apple.com/us/app/the-dyrt-campground-locator/id1187626329?ign-mpt=uo%3D4"
+   },
+   {
+    "date": "2023-06-03",
+    "ratings": 70841,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230603162201/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2023-11-27",
+    "ratings": 83530,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20231127210841/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2024-07-26",
+    "ratings": 94561,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240726194813/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2025-01-16",
+    "ratings": 99694,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250116105645/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329"
+   },
+   {
+    "date": "2025-07-15",
+    "ratings": 106134,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250715235206/https://apps.apple.com/us/app/the-dyrt-rv-free-camping/id1187626329?mt=8&pt=118456722&ct=Internal+Web+to+App"
+   },
+   {
+    "date": "2026-01-15",
+    "ratings": 111697,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260115073352/https://apps.apple.com/us/app/the-dyrt-rv-free-camping/id1187626329"
+   },
+   {
+    "date": "2026-07-15",
+    "ratings": 119802,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260715032949/https://apps.apple.com/us/app/the-dyrt-rv-free-camping/id1187626329"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 124607,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/the-dyrt-rv-free-camping/id1187626329",
+    "released": "2017-03-11"
+   }
+  ]
+ },
+ "Paired": {
+  "niche": 63,
+  "id": 1469609343,
+  "series": [
+   {
+    "date": "2022-03-15",
+    "ratings": 17175,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220315114923/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343?l=ru"
+   },
+   {
+    "date": "2022-07-07",
+    "ratings": 30321,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20220707202332/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2023-01-27",
+    "ratings": 62778,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20230127135433/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2023-06-27",
+    "ratings": null,
+    "kind": "ERR could not convert string to float: '.'",
+    "url": "https://web.archive.org/web/20230627110533/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343?eventid=6449734809"
+   },
+   {
+    "date": "2024-01-16",
+    "ratings": 100161,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240116043848/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343?mt=8"
+   },
+   {
+    "date": "2024-06-16",
+    "ratings": 114731,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20240616132432/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2025-01-16",
+    "ratings": 139551,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250116162834/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2025-07-16",
+    "ratings": 172521,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20250716150724/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343?ref=yandryvarela.com"
+   },
+   {
+    "date": "2026-01-12",
+    "ratings": 188236,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260112021738/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2026-07-14",
+    "ratings": 203891,
+    "kind": "exact",
+    "url": "https://web.archive.org/web/20260714015904/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343"
+   },
+   {
+    "date": "2026-11-08",
+    "ratings": 210478,
+    "kind": "itunes_api",
+    "url": "https://apps.apple.com/us/app/paired-couples-relationship/id1469609343",
+    "released": "2020-09-17"
+   }
+  ]
+ }
+}

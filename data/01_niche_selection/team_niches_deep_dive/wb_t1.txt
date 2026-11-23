@@ -1,0 +1,50 @@
+
+coparenting OurFamilyWizard (78 captures)
+   2022-09-17       19329  exact
+   2023-01-20       19955  exact
+   2023-07-07       20771  exact
+   2024-01-29       21615  exact
+   2024-05-29       27926  exact
+   2025-01-14       31188  exact
+   2025-06-09       32839  exact
+   2026-02-06       41173  exact
+   2026-07-03       49606  exact
+   2026-11-08       57050  itunes_api
+
+coparenting TalkingParents (65 captures)
+   2022-07-20       19046  exact
+   2023-02-04       21458  exact
+   2023-06-04       23041  exact
+   2023-11-19       25174  exact
+   2024-06-16       27572  exact
+   2025-01-19       28670  exact
+   2025-06-09       28706  exact
+   2026-02-10       28722  exact
+   2026-07-03       28749  exact
+   2026-11-08       28752  itunes_api
+
+coparenting AppClose (42 captures)
+   2021-12-05       16128  exact
+   2022-07-20       18591  exact
+   2023-01-31       21233  exact
+   2024-04-16       26442  exact
+   2024-05-29       26962  exact
+   2025-01-19       30402  exact
+   2025-06-09       32785  exact
+   2026-02-12       37145  exact
+   2026-07-10       38387  exact
+   2026-11-08       39592  itunes_api
+
+rocks Rock Identifier (129 captures)
+   2021-12-09        7648  exact
+   2022-06-25       12065  exact
+   2022-12-25       19695  exact
+   2023-06-01       22297  exact
+   2024-01-18       33690  exact
+   2024-06-21       39640  exact
+   2025-01-15       49628  exact
+   2025-07-18       59098  exact
+   2026-01-02       66624  exact
+   2026-07-15       74831  exact
+   2026-11-08       82531  itunes_api
+DONE

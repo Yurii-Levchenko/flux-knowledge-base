@@ -9,7 +9,7 @@
 
 **Метод:** stage gates з Лекції 3 (Stage 1 kill criteria → Stage 2 шість питань). Ціль — **$500K виручки на місяць**, США, підписка.
 **Бюджет AppKittie:** використано **50 з 50** кредитів, ліміт вичерпано (журнал — `CONSTRAINTS.md` §6).
-**Сирі дані й скрипти:** папка `data/`.
+**Сирі дані й скрипти:** `data/01_niche_selection/shortlist_34-67/` і `data/appkittie/` (опис — `data/README.md`).
 
 ---
 
@@ -245,7 +245,7 @@
 
 ## 7. Історія YarnPal з AppKittie (2 кредити, «ок» Юрія) і важливий висновок про AppKittie
 
-**Що показала історія (iOS, 16.12.2025–08.11.2026, щоденно, файл `data/yarnpal_historicals_ios.txt`):**
+**Що показала історія (iOS, 16.12.2025–08.11.2026, щоденно, файл `data/appkittie/yarnpal_historicals_ios_2026-11-08.txt`):**
 
 | Місяць 2026 | Нових оцінок за місяць |
 |---|---|
@@ -323,7 +323,7 @@
 
 ## Додаток: архівні точки (кількість оцінок у US App Store)
 
-Повні ряди — у файлі `data/wayback_all.json`.
+Повні ряди — у файлі `data/01_niche_selection/shortlist_34-67/wayback_all.json`.
 
 - **Collectr**:
   - 06.2024 — 12 642 — https://web.archive.org/web/20240613162637/https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248
@@ -339,7 +339,7 @@
   - 11.2026 — 50 657 (iTunes API)
 - **YarnPal**:
   - 07.2025 — 2 398 — https://web.archive.org/web/20250701230252/https://apps.apple.com/us/app/yarnpal-crochet-for-beginner/id6738537088
-  - 01.2026 — 18 256 — `data/wayback_all.json`
+  - 01.2026 — 18 256 — `data/01_niche_selection/shortlist_34-67/wayback_all.json`
   - 07.2026 — 29 372 — https://web.archive.org/web/20260713023942/https://apps.apple.com/us/app/yarnpal-crochet-patterns/id6738537088?at=11lru7&uo=4
   - 11.2026 — 34 951 (iTunes API)
 - **Loopsy**:
@@ -368,7 +368,7 @@
   - 07.2026 — 1 095 522 — https://web.archive.org/web/20260715091737/https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129
 - **ReciMe**:
   - 07.2024 — 1 328 — https://web.archive.org/web/20240718042056/https://apps.apple.com/us/app/recime-recipe-keeper/id1593779280
-  - 07.2025 — 83 969 — архів 19.07.2025, посилання в `data/wayback_all.json`
+  - 07.2025 — 83 969 — архів 19.07.2025, посилання в `data/01_niche_selection/shortlist_34-67/wayback_all.json`
   - 07.2026 — 258 877 — https://web.archive.org/web/20260715091759/https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280
 - **Fishbrain**:
   - 07.2024 — 48 361 — https://web.archive.org/web/20240715043156/https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747
@@ -379,9 +379,9 @@
   - 07.2026 — 19 319 — https://web.archive.org/web/20260715090718/https://apps.apple.com/us/app/fish-ai-ai-fishing-app/id6740141927
 - **The Dyrt**:
   - 07.2024 — 94 561 — https://web.archive.org/web/20240726194813/https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329
-  - 07.2025 — 106 134 — архів 15.07.2025, `data/wayback_all.json`
+  - 07.2025 — 106 134 — архів 15.07.2025, `data/01_niche_selection/shortlist_34-67/wayback_all.json`
   - 07.2026 — 119 802 — https://web.archive.org/web/20260715032949/https://apps.apple.com/us/app/the-dyrt-rv-free-camping/id1187626329
 - **Paired**:
   - 06.2024 — 114 731 — https://web.archive.org/web/20240616132432/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343
-  - 07.2025 — 172 521 — архів 16.07.2025, `data/wayback_all.json`
+  - 07.2025 — 172 521 — архів 16.07.2025, `data/01_niche_selection/shortlist_34-67/wayback_all.json`
   - 07.2026 — 203 891 — https://web.archive.org/web/20260714015904/https://apps.apple.com/us/app/paired-couples-relationship/id1469609343

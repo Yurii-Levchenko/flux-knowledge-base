@@ -1,0 +1,16 @@
+{
+  "source": "Google Trends, US, past 5 years (weekly), fetched 2026-11-22 via browser; values relative to the highest point in the comparison (tcgplayer = 100 on 2026-05-24)",
+  "url": "https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=pokemon%20card%20value,collectr,tcgplayer,card%20grading,psa%20grading",
+  "terms": ["pokemon card value", "collectr", "tcgplayer", "card grading", "psa grading"],
+  "yearly_avg": {
+    "2022": [8.9, 0.0, 38.5, 6.0, 7.3],
+    "2023": [7.7, 0.0, 43.7, 5.9, 7.5],
+    "2024": [6.3, 0.7, 53.5, 6.1, 7.8],
+    "2025": [8.0, 2.7, 70.8, 9.6, 12.7],
+    "2026_ytd": [10.8, 7.7, 76.0, 15.2, 18.3]
+  },
+  "last_52w_avg": [10.9, 7.3, 74.9, 15.1, 18.2],
+  "prev_52w_avg": [7.8, 2.5, 70.1, 9.0, 12.2],
+  "yoy_change_pct": {"pokemon card value": 40, "collectr": 192, "tcgplayer": 7, "card grading": 68, "psa grading": 49},
+  "change_2022_to_2026ytd": {"tcgplayer": "x2.0", "card grading": "x2.5", "psa grading": "x2.5", "pokemon card value": "+21%"}
+}
