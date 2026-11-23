@@ -61,6 +61,7 @@ collectr = [r for r in rows if "1603892248" in json.dumps(r["input"]) or "collec
 | `appstore_reviews.json` | **≈ 4 400 свіжих відгуків** (до 500 на застосунок) по 12 конкурентах + описи й ціни з App Store. Поля: оцінка, заголовок, текст, версія, дата; **імен авторів немає** | RSS-фід відгуків App Store + iTunes Lookup | 10.11.2026 |
 | `themes.json`, `analyze.py`, `fetch_reviews.py` | Теми скарг (regex) і скрипти збору й аналізу | — | 10.11.2026 |
 | `google_trends_22-11-2026.json` | Google Trends, США, 5 років: «pokemon card value», «collectr», «tcgplayer», «card grading», «psa grading» — середні за роками і порівняння рік до року | Google Trends | 22.11.2026 |
+| `web_competitor_sales_2026-11-23.json` | Продажі конкурентів через сайт: ціни на сайті й у застосунку, чим приймають оплату, вебвізити, звітність SEC (WorthPoint, Ludex), правила Apple щодо оплати на сайті, бенчмарки частки вебу, розрахунок веб-частини ринку | Сторінки тарифів і код сайтів, SEC, Similarweb, Crunchbase, RevenueCat, суди | 22–23.11.2026 |
 | `sources/collectr_state_of_hobby_2026_mid_year.pdf` | Звіт Collectr «State of the TCG Hobby, mid-2026» (самозвіт компанії). © Collectr; оригінал: https://public.getcollectr.com/public-assets/reports/state-of-the-hobby-2026-mid-year-report.pdf | Collectr | 06.2026 |
 
 **Застереження:** тексти відгуків — це користувацький контент з App Store. У документах їх переказуємо, а не цитуємо масово.
